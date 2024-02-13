@@ -66,12 +66,33 @@ Best probability: 3.6697107125199996e-07
 ```
 
 This lists best top=5 substitution probabilities and the corresponding elements, by default for all elements in the composition, and the best value for 3-element substitution.
-The best substitutions for the selected elements can be specified, e.g., 
+The best substitutions for the selected elements can be specified.
 
 ```python
 > z.best_substitutions(['Ca2+','Ti4+'], top=10)
 Ca2+ [('Ca', 0.007486), ('Sr', 0.005256), ('K', 0.005169), ('Na', 0.005038), ('Eu', 0.004748), ('Y', 0.00446), ('Rb', 0.004435), ('Ba', 0.004227), ('Mg', 0.004051), ('La', 0.003906)]
 Ti4+ [('Ti', 0.007006), ('Sc', 0.005946), ('Zr', 0.005772), ('Mg', 0.005232), ('Mn', 0.005046), ('Nb', 0.004739), ('Cr', 0.004675), ('Y', 0.004629), ('V', 0.004548), ('Ta', 0.004236)]
 Best probability: 5.2446916e-05
+```
 
+The LEAFs representation for compositions can be accessed.
+
+```python
+> z.representation
+> LEAF('CaTiO3').representation
+[6.57610834e-01 2.85473622e-01 4.96881850e-01 7.70918750e-01
+ 7.97946231e-01 4.61860970e-01 4.49522401e-01 4.86912308e-01
+ 4.66420565e-01 4.48792432e-01 4.28762788e-01 5.17797120e-01
+ 5.44486303e-01 4.65229431e-01 2.51304365e-01 3.44853466e-01
+ 4.01373918e-01 4.96830716e-01 9.00359667e-01 6.10222815e-01
+ 3.40766216e-01 4.43959061e-01 1.45974281e-01 5.54307962e-01
+ 2.14342638e-01 2.44581614e-01 2.90158378e-01 2.24863698e-01
+ 2.68514251e-01 3.07195609e-01 1.62546708e-01 1.77402081e-01
+ 2.23923315e-01 6.41999013e-01 1.72413736e-01 2.27852236e-01
+ 2.89814108e-01 6.60000000e+01 3.11000000e+02 1.35943200e+02
+ 3.22040000e+03 5.40000000e+01 1.40000000e+01 5.34000000e+02
+ 1.28600000e+01 1.00000000e+01 1.20000000e+01 2.00000000e+00
+ 0.00000000e+00 2.40000000e+01 0.00000000e+00 6.00000000e+00
+ 8.00000000e+00 0.00000000e+00 1.40000000e+01 8.17750000e+01
+ 0.00000000e+00 2.25333333e-05 4.55000000e+02]
 ```
