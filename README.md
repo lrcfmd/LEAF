@@ -69,7 +69,7 @@ This lists best top=5 substitution probabilities and the corresponding elements,
 The best substitutions for the selected elements can be specified, e.g., 
 
 ```python
-z.best_substitutions(['Ca2+','Ti4+'], top=10)
+> z.best_substitutions(['Ca2+','Ti4+'], top=10)
 Ca2+ [('Ca', 0.007486), ('Sr', 0.005256), ('K', 0.005169), ('Na', 0.005038), ('Eu', 0.004748), ('Y', 0.00446), ('Rb', 0.004435), ('Ba', 0.004227), ('Mg', 0.004051), ('La', 0.003906)]
 Ti4+ [('Ti', 0.007006), ('Sc', 0.005946), ('Zr', 0.005772), ('Mg', 0.005232), ('Mn', 0.005046), ('Nb', 0.004739), ('Cr', 0.004675), ('Y', 0.004629), ('V', 0.004548), ('Ta', 0.004236)]
 Best probability: 5.2446916e-05
