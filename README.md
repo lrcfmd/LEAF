@@ -52,7 +52,7 @@ This returns the oxidation states derived assuming a charge balance, pairwise el
 Oxidation states of the candidate substitutions can be input explicitly:
 
 ```python
-> x.sub_probability("Sr2Ti3O5", oxidations={'Sr':2, 'Ti':3, 'O':-2})
+> x.sub_probability("Sr2TiO5", oxidations={'Sr':2, 'Ti':3, 'O':-2})
 ```
 
 Because the probabilites product decreases for multi-element substitutions, comparing multi-element substitutions with the best possible substitutions for the same number of elements is advised.
