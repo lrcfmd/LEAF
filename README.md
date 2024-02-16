@@ -69,7 +69,7 @@ This lists best top=5 substitution probabilities and the corresponding elements,
 The best substitutions for the selected elements can be specified.
 
 ```python
-> z.best_substitutions(['Ca2+','Ti4+'], top=10)
+> z.best_elemental_subs(['Ca2+','Ti4+'], top=10)
 Ca2+ [('Ca', 0.007486), ('Sr', 0.005256), ('K', 0.005169), ('Na', 0.005038), ('Eu', 0.004748), ('Y', 0.00446), ('Rb', 0.004435), ('Ba', 0.004227), ('Mg', 0.004051), ('La', 0.003906)]
 Ti4+ [('Ti', 0.007006), ('Sc', 0.005946), ('Zr', 0.005772), ('Mg', 0.005232), ('Mn', 0.005046), ('Nb', 0.004739), ('Cr', 0.004675), ('Y', 0.004629), ('V', 0.004548), ('Ta', 0.004236)]
 Best probability: 5.2446916e-05
@@ -95,4 +95,21 @@ The LEAFs representation for compositions can be accessed.
  0.00000000e+00 2.40000000e+01 0.00000000e+00 6.00000000e+00
  8.00000000e+00 0.00000000e+00 1.40000000e+01 8.17750000e+01
  0.00000000e+00 2.25333333e-05 4.55000000e+02]
+```
+Find top-N similar compositions and corresponding structure types in ICSD.
+
+```python
+> z.best_icsd_similarity(top=10, drop_self_duplicates=True, unique_structure_type=True)
+Top 10 most similar reported compositions:
+         composition cosine similarity            structure type       crystal system
+   Ca0.99Ti1Cu0.01O3   1.000000              Perovskite#GdFeO3         orthorhombic
+   Ca0.99Ti1Zn0.01O3   1.000000    Perovskite#(Ca,Li)(Zr,Ta)O3         orthorhombic
+  Ca1Ti0.9Fe0.1O2.95   0.999998              Perovskite#SrZrO3           tetragonal
+     Ca1Ti0.8Fe0.2O3   0.999993                Na(Cl,Br)O3(P1)            triclinic
+   Ca1Ti0.8Fe0.2O2.9   0.999992              Perovskite#CaTiO3                cubic
+Ca0.999Ti0.805Fe0.201O2.899   0.999992                            nan         orthorhombic
+ Ca9Y1Nb0.28V6.72O28   0.999988 Whitlockite#\xce\xb2-Ca3(PO4)2             trigonal
+        Na0.912Ti2O4   0.999982                 CaV2O4#CaFe2O4         orthorhombic
+           Ca4Ti3O10   0.999968                      Ca4Mn3O10         orthorhombic
+             Ca2V2O7   0.999967                        Ca2V2O7            triclinic
 ```
