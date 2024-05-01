@@ -1,5 +1,5 @@
 #def pullMPDS():
-#    os.environ['MPDS_KEY'] = 'ggBYYU0tszpYMTqLahr604WPM3Ao8o5lK3XTCV46FjyR0j2y'
+#    os.environ['MPDS_KEY'] = 'your_key'
 #    client = MPDSDataRetrieval(dtype=MPDSDataTypes.PEER_REVIEWED)
 
 #dilist = []
