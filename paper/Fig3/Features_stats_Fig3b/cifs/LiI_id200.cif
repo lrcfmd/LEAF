@@ -1,0 +1,133 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249902-ICSD
+_database_code_ICSD 249902
+_audit_creation_date 2010-02-01
+_chemical_name_common
+'Tripotassium tetracesium fluoride tris(uranyl(VI))bis(disilicate)'
+_chemical_formula_structural '(K3 Cs4 F) ((U O2)3 (Si2 O7)2)'
+_chemical_formula_sum 'Cs4 F1 K3 O20 Si4 U3'
+_exptl_crystal_density_diffrn 4.92
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+Flux synthesis of salt-inclusion uranyl silicates: [K3 Cs4 F] [(U O2)3 (Si2
+O7)2] and [Na Rb6 F] [(U O2)3 (Si2 O7)2]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2009 48 8357 8361 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Lee Cheng shiuan'
+primary 'Wang Sue Lein'
+primary 'Chen Yenhung'
+primary 'Lii Kwanghwa'
+_cell_length_a 7.8095(3)
+_cell_length_b 22.2819(7)
+_cell_length_c 14.0861(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2451.13
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C m c 21'
+_space_group_IT_number 36
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+K1+ 1
+U6+ 6
+Si4+ 4
+O2- -2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 8 b -0.25220(10) -0.03829(6) 0.16889(8) 0.0241(3) 1
+Cs2 Cs1+ 8 b 0.24588(12) 0.28682(6) 0.28251(8) 0.0276(3) 1
+K1 K1+ 4 a -0.5 -0.1190(2) -0.2678(3) 0.0144(8) 1
+K2 K1+ 4 a 0.5 0.3329(2) 0.0224(3) 0.0177(10) 1
+K3 K1+ 4 a 0. 0.0874(2) -0.0653(4) 0.0186(10) 1
+U1 U6+ 4 a 0. 0.12589(4) 0.22010(5) 0.00853(12) 1
+U2 U6+ 4 a -0.5 -0.17415(3) -0.00432(4) 0.00636(14) 1
+U3 U6+ 4 a -0.5 -0.07434(3) 0.44694(4) 0.00683(14) 1
+Si1 Si4+ 8 b -0.2997(5) -0.19888(14) 0.5537(2) 0.0075(5) 1
+Si2 Si4+ 8 b -0.2011(4) -0.05394(13) -0.0919(2) 0.0068(5) 1
+O1 O2- 8 b -0.2856(12) -0.2402(4) 0.0174(6) 0.0099(17) 1
+O2 O2- 8 b 0.2109(13) 0.1766(4) 0.1489(6) 0.0127(17) 1
+O3 O2- 8 b -0.3062(11) -0.1473(3) 0.4719(6) 0.0120(17) 1
+O4 O2- 4 a 0.5 0.2158(5) 0.0841(7) 0.011(2) 1
+O5 O2- 8 b -0.2843(13) -0.0125(4) 0.4186(7) 0.018(2) 1
+O6 O2- 4 a 0. -0.0500(5) -0.0539(7) 0.011(2) 1
+O7 O2- 8 b 0.1954(13) 0.0714(4) 0.2961(6) 0.0158(18) 1
+O8 O2- 8 b -0.2970(12) -0.1037(4) -0.0261(6) 0.0129(16) 1
+O9 O2- 4 a 0. 0.1804(5) 0.3161(10) 0.017(3) 1
+O10 O2- 4 a 0. 0.0695(6) 0.1276(9) 0.018(3) 1
+O11 O2- 4 a -0.5 -0.1950(6) -0.1298(8) 0.014(2) 1
+O12 O2- 4 a -0.5 -0.1557(6) 0.1230(9) 0.017(3) 1
+O13 O2- 4 a -0.5 -0.0936(6) 0.3223(8) 0.016(3) 1
+O14 O2- 4 a -0.5 -0.0547(6) 0.5727(9) 0.019(3) 1
+F1 F1- 4 a 0. -0.1246(8) 0.2287(13) 0.044(3) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.0219(8) 0.0222(6) 0.0282(6) 0.0002(3) -0.0021(3) -0.0023(5)
+Cs2 Cs1+ 0.0285(9) 0.0245(7) 0.0297(6) -0.0026(3) 0.0005(3) -0.0031(5)
+K1 K1+ 0.0137(16) 0.022(2) 0.008(2) 0. 0. -0.0003(15)
+K2 K1+ 0.010(2) 0.0115(17) 0.032(3) 0. 0. 0.0099(16)
+K3 K1+ 0.011(2) 0.0160(19) 0.028(2) 0. 0. -0.0032(18)
+U1 U6+ 0.0070(2) 0.0109(2) 0.0076(2) 0. 0. 0.00242(17)
+U2 U6+ 0.0051(3) 0.0061(3) 0.0079(3) 0. 0. 0.0013(2)
+U3 U6+ 0.0062(3) 0.0063(3) 0.0080(3) 0. 0. 0.0008(2)
+Si1 Si4+ 0.0059(15) 0.0090(13) 0.0076(12) 0.0002(12) -0.0028(11) -0.0023(10)
+Si2 Si4+ 0.0040(14) 0.0059(13) 0.0105(13) 0.0016(11) 0.0011(11) -0.0006(10)
+O1 O2- 0.008(4) 0.004(4) 0.018(4) 0.002(3) -0.004(4) 0.004(3)
+O2 O2- 0.013(4) 0.016(4) 0.010(4) -0.004(4) 0.006(4) -0.003(3)
+O3 O2- 0.007(4) 0.007(4) 0.021(5) 0.005(3) -0.001(3) 0.005(3)
+O4 O2- 0.009(5) 0.012(5) 0.012(5) 0. 0. -0.004(4)
+O5 O2- 0.005(4) 0.015(5) 0.035(6) -0.005(4) 0.000(4) 0.006(4)
+O6 O2- 0.006(5) 0.014(5) 0.012(5) 0. 0. -0.008(5)
+O7 O2- 0.010(5) 0.021(5) 0.016(4) 0.004(4) 0.002(4) 0.005(3)
+O8 O2- 0.011(4) 0.013(4) 0.014(4) -0.002(3) 0.001(3) 0.004(3)
+O9 O2- 0.018(7) 0.013(6) 0.022(7) 0. 0. -0.003(5)
+O10 O2- 0.023(8) 0.018(7) 0.014(6) 0. 0. 0.002(5)
+O11 O2- 0.016(6) 0.018(6) 0.009(5) 0. 0. -0.008(5)
+O12 O2- 0.024(7) 0.014(6) 0.013(6) 0. 0. -0.002(5)
+O13 O2- 0.021(7) 0.018(6) 0.009(5) 0. 0. -0.002(5)
+O14 O2- 0.016(7) 0.021(7) 0.018(7) 0. 0. 0.002(6)
+F1 F1- 0.040(7) 0.043(6) 0.048(7) 0. 0. 0.008(6)
+#End of TTdata_249902-ICSD
+#

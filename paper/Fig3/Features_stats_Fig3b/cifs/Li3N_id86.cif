@@ -1,0 +1,87 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_423580-ICSD
+_database_code_ICSD 423580
+_audit_creation_date 2013-02-01
+_chemical_name_common 'Dipotassium cyanamide'
+_chemical_formula_structural 'K2 (C N2)'
+_chemical_formula_sum 'C1 K2 N2'
+_chemical_name_structure_type K2(CN2)
+_exptl_crystal_density_diffrn 2.21
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Na5 [C N2]2 [C N], (Li, Na)5 [C N2]2 [C N], and K2 [C N2]: carbodiimides from
+high-pressure synthesis
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2012
+638 2111 2116 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Zhang Shiyu'
+primary 'Zherebtsov, D.A.'
+primary 'DiSalvo, F.J.'
+primary 'Niewa, R.'
+_cell_length_a 5.7616(12)
+_cell_length_b 5.6685(11)
+_cell_length_c 5.7557(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 108.78(3)
+_cell_angle_gamma 90.
+_cell_volume 177.97
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'C 1 2/m 1'
+_space_group_IT_number 12
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+N3- -3
+C4+ 4
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+K1 K1+ 4 i 0.32445(10) 0. 0.71257(10) 0.0091(3) 1
+N1 N3- 4 i 0.1597(5) 0. 0.2036(5) 0.0105(5) 1
+C1 C4+ 2 a 0. 0. 0. 0.0085(8) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0071(4) 0.0099(4) 0.0109(4) 0. 0.0038(3) 0.
+N1 N3- 0.0094(12) 0.0098(13) 0.0124(12) 0. 0.0035(9) 0.
+C1 C4+ 0.0082(18) 0.0063(19) 0.0153(19) 0. 0.0098(15) 0.
+#End of TTdata_423580-ICSD
+#

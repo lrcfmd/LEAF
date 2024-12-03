@@ -1,0 +1,106 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_432182-ICSD
+_database_code_ICSD 432182
+_audit_creation_date 2017-08-01
+_chemical_name_common 'Barium oxonitridolithotungstosilicate'
+_chemical_formula_structural '(Ba32 (Li15 Si9 W16 N67 O5))0.5'
+_chemical_formula_sum 'Ba16 Li7.5 N33.5 O2.5 Si4.5 W8'
+_chemical_name_structure_type KYb(PO3)4
+_exptl_crystal_density_diffrn 6.17
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Ba32[Li15Si9W16N67O5]. A barium-containing oxonitridolithotungstosilicate with
+a highly condensed network structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2017 2017 1100 1106 EJICFO
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Horky, Katrin'
+primary 'Schnick, Wolfgang'
+_cell_length_a 8.3402(3)
+_cell_length_b 8.5465(3)
+_cell_length_c 16.6736(6)
+_cell_angle_alpha 90
+_cell_angle_beta 99.1950(10)
+_cell_angle_gamma 90
+_cell_volume 1173.21
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P 1 21/n 1'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W6+ 6
+Ba2+ 2
+Si4+ 4
+Li1+ 1
+Si4+ 4
+Li1+ 1
+O2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+W1 W6+ 4 e 0.21581(4) 0.96349(3) 0.63882(2) 0.00454(8) 1
+W2 W6+ 4 e 0.75291(4) 0.50307(3) 0.62730(2) 0.00482(8) 1
+Ba1 Ba2+ 4 e 0.00640(6) 0.76567(5) 0.77444(3) 0.01177(11) 1
+Ba2 Ba2+ 4 e 0.04085(6) 1.26424(5) 0.50989(3) 0.01155(11) 1
+Ba3 Ba2+ 4 e 0.98206(5) 1.22563(5) 0.74732(3) 0.00948(11) 1
+Ba4 Ba2+ 4 e 0.82319(5) 0.49663(5) 0.91214(3) 0.00850(11) 1
+Si1 Si4+ 4 e 0.3188(3) 1.0479(2) 0.85296(13) 0.0096(5) 1
+Li1 Li1+ 4 e 0.0893(11) 0.8054(10) 0.9569(5) 0.0183(19) 0.875
+Si2 Si4+ 4 e 0.0893(11) 0.8054(10) 0.9569(5) 0.0183(19) 0.125
+Li2 Li1+ 4 e 0.1139(16) 1.1364(14) 0.9514(8) 0.013(3) 1
+O1 O2- 4 e 0.2018(6) 0.9378(6) 0.9023(3) 0.0074(12) 0.625
+N1 N3- 4 e 0.2018(6) 0.9378(6) 0.9023(3) 0.0074(12) 0.375
+N2 N3- 4 e 0.7469(8) 0.4974(7) 0.7381(4) 0.0125(14) 1
+N3 N3- 4 e 0.0041(7) 1.0203(7) 0.6112(4) 0.0088(14) 1
+N4 N3- 4 e 0.3404(8) 1.0823(7) 0.5785(4) 0.0138(15) 1
+N5 N3- 4 e 0.2352(7) 0.7426(7) 0.6259(4) 0.0119(14) 1
+N6 N3- 4 e 0.6595(8) 0.3190(7) 0.5820(4) 0.0150(15) 1
+N7 N3- 4 e 0.2722(7) 1.0142(7) 0.7488(4) 0.0106(14) 1
+N8 N3- 4 e 0.9769(8) 0.5073(7) 0.6135(4) 0.0114(14) 1
+N9 N3- 4 e 0.6413(8) 0.6781(7) 0.5849(4) 0.0137(15) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+W1 W6+ 0.00467(16) 0.00487(15) 0.00388(15) 0.00080(12) 0.00008(12) -0.00086(12)
+W2 W6+ 0.00540(15) 0.00386(15) 0.00546(16) 0.00044(12) 0.00170(12) 0.00045(11)
+Ba1 Ba2+ 0.0098(2) 0.0097(2) 0.0165(3) 0.00105(19) 0.0042(2) 0.00168(19)
+Ba2 Ba2+ 0.0179(3) 0.0064(2) 0.0089(2) -0.00179(19) -0.0023(2) 0.00132(18)
+Ba3 Ba2+ 0.0095(2) 0.0089(2) 0.0095(2) 0.00052(19) 0.00010(19) -0.00126(18)
+Ba4 Ba2+ 0.0080(2) 0.0077(2) 0.0097(2) -0.00071(18) 0.00117(19) 0.00162(18)
+Si1 Si4+ 0.0107(11) 0.0102(11) 0.0084(11) 0.0004(9) 0.0028(9) -0.0008(9)
+#End of TTdata_432182-ICSD
+#

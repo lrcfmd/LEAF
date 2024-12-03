@@ -1,0 +1,79 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51263-ICSD
+_database_code_ICSD 51263
+_audit_creation_date 2002-04-01
+_chemical_name_common 'Dipotassium tungsten(V) fluoride'
+_chemical_formula_structural 'K2 W F7'
+_chemical_formula_sum 'F7 K2 W1'
+_exptl_crystal_density_diffrn 3.98
+_citation_title
+
+;
+Tungsten fluorides: Synthesis and electrochemical characterization in the
+FLINAK molten salt eutectic
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2001 40 715 722 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Eklund, S.E.'
+primary 'Chambers, J.Q.'
+primary 'Mamantov, G.'
+primary 'Diminnie, J.'
+primary 'Barnes, C.E.'
+_cell_length_a 9.800(2)
+_cell_length_b 5.7360(1)
+_cell_length_c 11.723(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 658.98
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W5+ 5
+K1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+W1 W5+ 4 c 0.7544(1) 0.25 0.3709(1) 0.023(1) 1.
+K1 K1+ 4 c 0.8637(5) 0.75 0.5603(4) 0.030(1) 1.
+K2 K1+ 4 c 0.5519(6) 0.25 0.6684(5) 0.044(1) 1.
+F1 F1- 8 d 0.9003(11) 0.0220(15) 0.3700(9) 0.057(3) 1.
+F2 F1- 8 d 0.6476(14) 0.026(2) 0.4551(13) 0.103(5) 0.5
+F3 F1- 4 c 0.827(3) 0.25 0.5253(16) 0.119(9) 1.
+F4 F1- 8 d 0.689(3) 0.042(3) 0.2593(15) 0.154(18) 1.
+F5 F1- 4 c 0.828(8) 0.25 0.217(5) 0.13(4) 0.5
+F6 F1- 4 c 0.568(8) 0.25 0.313(5) 0.13(4) 0.5
+#End of TTdata_51263-ICSD
+#

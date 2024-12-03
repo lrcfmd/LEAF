@@ -1,0 +1,112 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171353-ICSD
+_database_code_ICSD 171353
+_audit_creation_date 2006-10-01
+_chemical_name_common 'Tetralithium borohydride triamide'
+_chemical_formula_structural 'Li4 (B H4) (N H2)3'
+_chemical_formula_sum 'H10 B1 Li4 N3'
+_chemical_name_structure_type Li4(NH2)3BH4
+_exptl_crystal_density_diffrn 0.99
+_citation_title
+
+;
+On the composition and crystal structure of the new quaternary hydride phase
+Li4 B N3 H10
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2006 45 1433 1435 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Filinchuk, Y.E.'
+primary 'Yvon, K.'
+primary 'Meisner, G.P.'
+primary 'Pinkerton, F.E.'
+primary 'Balogh, M.P.'
+_cell_length_a 10.6723(10)
+_cell_length_b 10.6723(10)
+_cell_length_c 10.6723(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1215.55
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'I 21 3'
+_space_group_IT_number 199
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+13 '-z, -x+1/2, y'
+14 '-y, -z+1/2, x'
+15 '-x, -y+1/2, z'
+16 '-z+1/2, x, -y'
+17 '-y+1/2, z, -x'
+18 '-x+1/2, y, -z'
+19 'z, -x, -y+1/2'
+20 'y, -z, -x+1/2'
+21 'x, -y, -z+1/2'
+22 'z+1/2, x+1/2, y+1/2'
+23 'y+1/2, z+1/2, x+1/2'
+24 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+N3- -3
+B3+ 3
+Li1+ 1
+H1+ 1
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+N1 N3- 24 c 0.11531(8) 0.35935(7) 0.40537(9) 0.0260(3) 1
+B1 B3+ 8 a 0.11373(10) 0.11373(10) 0.11373(10) 0.0291(4) 1
+Li1 Li1+ 12 b 0.2864(3) 0. 0.25 0.0403(7) 1
+Li2 Li1+ 12 b 0.5234(2) 0. 0.25 0.0307(6) 1
+Li3 Li1+ 8 a 0.48356(17) 0.48356(17) 0.48356(17) 0.0293(7) 1
+H1 H1+ 24 c 0.1757(17) 0.3099(17) 0.3985(19) 0.057(4) 1
+H2 H1+ 24 c 0.1141(14) 0.4018(15) 0.3378(16) 0.046(4) 1
+H3 H1- 24 c 0.0147(14) 0.1161(15) 0.1488(13) 0.053(4) 1
+H4 H1- 8 a 0.1739(17) 0.1739(17) 0.1739(17) 0.052(7) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+N1 N3- 0.0270(5) 0.0253(4) 0.0256(5) -0.0006(3) 0.0012(3) -0.0028(3)
+B1 B3+ 0.0291(4) 0.0291(4) 0.0291(4) -0.0020(4) -0.0020(4) -0.0020(4)
+Li1 Li1+ 0.0288(13) 0.0431(15) 0.0491(17) 0. 0. -0.0157(13)
+Li2 Li1+ 0.0301(12) 0.0362(14) 0.0258(11) 0. 0. 0.0028(10)
+Li3 Li1+ 0.0293(7) 0.0293(7) 0.0293(7) 0.0007(6) 0.0007(6) 0.0007(6)
+#End of TTdata_171353-ICSD
+#

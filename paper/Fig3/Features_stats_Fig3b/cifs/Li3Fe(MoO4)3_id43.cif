@@ -1,0 +1,131 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_162962-ICSD
+_database_code_ICSD 162962
+_audit_creation_date 2009-08-01
+_chemical_name_common 'Lithium cobalt zinc molybdate (1.86/0.38/1.76/3)'
+_chemical_formula_structural '(Li1.86 Co0.38 Zn1.76) (Mo O4)3'
+_chemical_formula_sum 'Co0.38 Li1.86 Mo3 O12 Zn1.76'
+_chemical_name_structure_type Lyonsite#Li3Fe(MoO4)3
+_exptl_crystal_density_diffrn 4.42
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Growth, structures and properties of Li2 Zn2 (Mo O4)3 and Co-doped Li2 Zn2 (Mo
+O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Crystal Growth & Design' 2009 9 914 920 CGDEFU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Xue Liping'
+primary 'Wang Yongjing'
+primary 'Lv Peiwen'
+primary 'Chen Dagui'
+primary 'Lin Zhang'
+primary 'Liang Jing Kui'
+primary 'Huang Feng'
+primary 'Xie Zhi'
+_cell_length_a 5.0869(10)
+_cell_length_b 10.533(2)
+_cell_length_c 17.686(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 947.62
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Zn2+ 2
+Li1+ 1
+Co2+ 2
+Zn2+ 2
+Li1+ 1
+Co2+ 2
+Zn2+ 2
+Li1+ 1
+Co2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Mo1 Mo6+ 4 c 1.22156(4) 0.25 0.556499(13) 0.00772(5) 1
+Mo2 Mo6+ 8 d 0.27699(3) 0.027130(16) 0.343692(9) 0.00877(4) 1
+Zn1 Zn2+ 8 d 0.75427(6) 0.07756(3) 0.471500(19) 0.00787(9) 0.6168(8)
+Li1 Li1+ 8 d 0.75427(6) 0.07756(3) 0.471500(19) 0.00787(9) 0.352(4)
+Co1 Co2+ 8 d 0.75427(6) 0.07756(3) 0.471500(19) 0.00787(9) 0.0282(10)
+Zn2 Zn2+ 4 c 0.6077(2) -0.25 0.25072(4) 0.0304(2) 0.3992(11)
+Li2 Li1+ 4 c 0.6077(2) -0.25 0.25072(4) 0.0304(2) 0.451(4)
+Co2 Co2+ 4 c 0.6077(2) -0.25 0.25072(4) 0.0304(2) 0.1504(14)
+Zn3 Zn2+ 4 c 0.7453(3) 0.25 0.30233(9) 0.0291(4) 0.1331(14)
+Li3 Li1+ 4 c 0.7453(3) 0.25 0.30233(9) 0.0291(4) 0.693(4)
+Co3 Co2+ 4 c 0.7453(3) 0.25 0.30233(9) 0.0291(4) 0.1775(17)
+O1 O2- 4 c 1.1374(4) 0.25 0.65264(11) 0.0155(5) 1
+O2 O2- 8 d 1.4198(3) 0.11590(14) 0.53719(8) 0.0123(3) 1
+O3 O2- 4 c 0.9424(4) 0.25 0.49294(11) 0.0118(4) 1
+O4 O2- 8 d 0.5608(3) 0.11425(14) 0.37276(8) 0.0143(3) 1
+O5 O2- 8 d 0.0818(3) -0.01035(14) 0.42466(8) 0.0134(3) 1
+O6 O2- 8 d 0.0789(3) 0.12418(15) 0.28678(8) 0.0176(4) 1
+O7 O2- 8 d 0.3581(3) -0.11412(14) 0.29563(8) 0.0149(3) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mo1 Mo6+ 0.00664(9) 0.00839(10) 0.00813(9) 0. -0.00005(7) 0.
+Mo2 Mo6+ 0.00803(7) 0.00966(8) 0.00864(8) 0.00017(5) -0.00003(5) -0.00110(6)
+Zn1 Zn2+ 0.00636(15) 0.00984(17) 0.00740(14) 0.00014(11) -0.00059(10)
+-0.00097(12)
+Li1 Li1+ 0.00636(15) 0.00984(17) 0.00740(14) 0.00014(11) -0.00059(10)
+-0.00097(12)
+Co1 Co2+ 0.00636(15) 0.00984(17) 0.00740(14) 0.00014(11) -0.00059(10)
+-0.00097(12)
+Zn2 Zn2+ 0.0694(6) 0.0107(3) 0.0110(3) 0. 0.0088(3) 0.
+Li2 Li1+ 0.0694(6) 0.0107(3) 0.0110(3) 0. 0.0088(3) 0.
+Co2 Co2+ 0.0694(6) 0.0107(3) 0.0110(3) 0. 0.0088(3) 0.
+Zn3 Zn2+ 0.0268(6) 0.0282(7) 0.0322(7) 0. 0.0016(5) 0.
+Li3 Li1+ 0.0268(6) 0.0282(7) 0.0322(7) 0. 0.0016(5) 0.
+Co3 Co2+ 0.0268(6) 0.0282(7) 0.0322(7) 0. 0.0016(5) 0.
+O1 O2- 0.0167(9) 0.0161(9) 0.0136(9) 0. 0.0017(8) 0.
+O2 O2- 0.0090(5) 0.0141(6) 0.0139(6) -0.0001(5) 0.0002(5) -0.0016(5)
+O3 O2- 0.0123(8) 0.0082(8) 0.0149(8) 0. -0.0035(7) 0.
+O4 O2- 0.0156(6) 0.0155(6) 0.0119(6) -0.0016(6) -0.0008(5) 0.0010(5)
+O5 O2- 0.0121(6) 0.0159(6) 0.0122(6) 0.0023(6) -0.0004(5) -0.0007(5)
+O6 O2- 0.0160(6) 0.0212(7) 0.0156(6) 0.0041(6) -0.0014(6) 0.0017(6)
+O7 O2- 0.0146(6) 0.0159(6) 0.0141(6) -0.0008(6) 0.0017(5) -0.0017(6)
+#End of TTdata_162962-ICSD
+#

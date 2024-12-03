@@ -1,0 +1,84 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_13927-ICSD
+_database_code_ICSD 13927
+_audit_creation_date 2021-02-01
+_chemical_name_common 'Dicalcium aluminum niobate, chromium(III)-doped (0.3%)'
+_chemical_formula_structural 'Ca2 (Al0.997 Cr0.003) Nb O6'
+_chemical_formula_sum 'Al0.997 Ca2 Cr0.003 Nb1 O6'
+_chemical_name_structure_type CaSrFeSbO6
+_exptl_crystal_density_diffrn 4.4
+_citation_title
+
+;
+Novel Cr$^{3+}$-doped double-perovskite Ca$_2$MNbO$_6$ (M = Ga, Al) phosphor.
+Synthesis, crystal structure, photoluminescence and thermoluminescence
+properties
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2020 815 1 12 JALCEU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Yuan, Junping'
+primary 'Zhang, Yan'
+primary 'Xu, Jiayue'
+primary 'Tian, Tian'
+primary 'Luo, Kuankuan'
+primary 'Huang, Liwu'
+_cell_length_a 5.3837(2)
+_cell_length_b 5.4259(1)
+_cell_length_c 7.6373(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.0418(2)
+_cell_angle_gamma 90.
+_cell_volume 223.09
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 21/n 1'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Al3+ 3
+Cr3+ 3
+Nb5+ 5
+Al3+ 3
+Cr3+ 3
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ca1 Ca2+ 4 e 0.5086(3) 0.5296(8) 0.2521(3) 0.0108(8) 1
+Al1 Al3+ 2 a 0 0 0 0.0060(8) 0.938177
+Cr1 Cr3+ 2 a 0 0 0 0.0060(8) 0.002823
+Nb1 Nb5+ 2 c 0 0.5 0 0.0078(6) 0.059
+Al2 Al3+ 2 d 0.5 0 0 0.8000(0) 0.058823
+Cr2 Cr3+ 2 d 0.5 0 0 0.8000(0) 0.000177
+Nb2 Nb5+ 2 d 0.5 0 0 0.0020(8) 0.941
+O1 O2- 4 e 0.2097(1) 0.2404(6) -0.0263(8) 0.0106(2) 1
+O2 O2- 4 e 0.2802(1) 0.7187(6) -0.0443(1) 0.0217(2) 1
+O3 O2- 4 e 0.4267(9) -0.0049(6) 0.2488(7) 0.0017(4) 1
+#End of TTdata_13927-ICSD
+#

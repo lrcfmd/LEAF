@@ -1,0 +1,112 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_121539-ICSD
+_database_code_ICSD 121539
+_audit_creation_date 2021-08-01
+_chemical_name_common
+
+;
+Lithium silicon phosphide sulfide chloride oxide
+(10.24/1.64/1.36/11.54/0.31/0.15)
+;
+_chemical_formula_structural 'Li10.24 Si1.642 P1.358 S11.542 Cl0.306 O0.152'
+_chemical_formula_sum 'Cl0.306 Li10.24 O0.152 P1.358 S11.542 Si1.642'
+_chemical_name_structure_type Li10GeP2S12-frame#LGPS-type
+_exptl_crystal_density_diffrn 1.89
+_diffrn_ambient_temperature 298.
+_citation_title
+
+;
+Oxygen substitution for Li–Si–P–S–Cl solid electrolytes toward purified
+Li$_{10}$GeP$_2$S$_{12}$-type phase with enhanced electrochemical stabilities
+for all-solid-state batteries
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2020 32 8860 8867 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Li, Yuxiang'
+primary 'Daikuhara, Shugo'
+primary 'Hori, Satoshi'
+primary 'Sun, Xueying'
+primary 'Suzuki, Kota'
+primary 'Hirayama, Masaaki'
+primary 'Kanno, Ryoji'
+_cell_length_a 8.70296(14)
+_cell_length_b 8.70296(14)
+_cell_length_c 12.5573(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 951.12
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 42/n m c Z'
+_space_group_IT_number 137
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y+1/2, x+1/2, -z+1/2'
+2 '-y, x+1/2, -z+1/2'
+3 'y+1/2, -x, -z+1/2'
+4 '-y, -x, -z+1/2'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y, -x+1/2, z+1/2'
+11 '-y+1/2, x, z+1/2'
+12 'y, x, z+1/2'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+P5+ 5
+Si4+ 4
+P5+ 5
+S2- -2
+Cl1- -1
+O2- -2
+S2- -2
+Cl1- -1
+S2- -2
+Cl1- -1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Si1 Si4+ 4 d 0.25 0.25 0.4387(7) 0.039(3) 0.821
+P1 P5+ 4 d 0.25 0.25 0.4387(7) 0.039(3) 0.179
+Si2 Si4+ 2 b 0.75 0.25 0.25 0.037(4) 0
+P2 P5+ 2 b 0.75 0.25 0.25 0.037(4) 1.
+S1 S2- 8 g 0.25 0.5603(4) 0.6547(4) 0.0229(13) 0.921
+Cl1 Cl1- 8 g 0.25 0.5603(4) 0.6547(4) 0.0229(13) 0.041
+O1 O2- 8 g 0.25 0.5603(4) 0.6547(4) 0.0229(13) 0.038
+S2 S2- 8 g 0.25 0.0483(5) 0.3491(4) 0.0258(14) 0.9827
+Cl2 Cl1- 8 g 0.25 0.0483(5) 0.3491(4) 0.0258(14) 0.0173
+S3 S2- 8 g 0.25 0.0521(5) 0.0416(3) 0.0145(13) 0.9817
+Cl3 Cl1- 8 g 0.25 0.0521(5) 0.0416(3) 0.0145(13) 0.0183
+Li1 Li1+ 16 h 0.568(5) -0.018(5) 0.057(4) 0.063 0.50(2)
+Li2 Li1+ 4 d 0.25 0.25 0.1914(3) 0.038 1.
+Li3 Li1+ 8 f 0.509(5) 0.491(5) 0.25 0.063 0.79(4)
+Li4 Li1+ 4 c 0.75 0.25 0.491(8) 0.038 0.54(5)
+#End of TTdata_121539-ICSD
+#

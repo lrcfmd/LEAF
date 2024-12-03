@@ -1,0 +1,109 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_202647-ICSD
+_database_code_ICSD 202647
+_audit_creation_date 1989-06-19
+_audit_update_record 1991-04-20
+_chemical_name_common 'Cesium dimolybdato(V)triphosphate gamma'
+_chemical_formula_structural 'Cs (Mo2 P3 O13)'
+_chemical_formula_sum 'Cs1 Mo2 O13 P3'
+_exptl_crystal_density_diffrn 3.6
+_citation_title
+'A New Mo5+ Phosphate with a Tunnel Structure: gamma Cs Mo2 P3 O13'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1988 76 204 209 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Chen, J.J.'
+primary 'Lii, K.-H.'
+primary 'Wang, S.-L.'
+_cell_length_a 6.342(1)
+_cell_length_b 9.676(1)
+_cell_length_c 10.0349(8)
+_cell_angle_alpha 83.083(7)
+_cell_angle_beta 97.42(1)
+_cell_angle_gamma 108.30(1)
+_cell_volume 577.66
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P -1'
+_space_group_IT_number 2
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Mo5+ 5
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 1 f 0.5 0 0.5 . 1.
+Cs2 Cs1+ 2 i 0.51010(21) 0.57126(17) 0.95471(15) . 0.5
+Mo1 Mo5+ 2 i 0.14289(7) 0.63704(5) 0.25290(4) . 1.
+Mo2 Mo5+ 2 i -.14807(7) 0.09037(5) 0.18014(4) . 1.
+P1 P5+ 2 i -.30096(22) 0.72079(15) 0.32152(14) . 1.
+P2 P5+ 2 i 0.29853(22) -.00032(15) 0.13486(14) . 1.
+P3 P5+ 2 i -.00958(22) 0.30305(14) 0.44613(13) . 1.
+O1 O2- 2 i -.1656(7) 0.6654(5) 0.2367(4) . 1.
+O2 O2- 2 i 0.5358(7) 0.0938(4) 0.1809(4) . 1.
+O3 O2- 2 i 0.4568(6) 0.6284(5) 0.3034(4) . 1.
+O4 O2- 2 i 0.0113(7) 0.4414(5) 0.3573(4) . 1.
+O5 O2- 2 i 0.1650(7) 0.7183(5) 0.4462(4) . 1.
+O6 O2- 2 i 0.1052(8) 0.5575(5) 0.1112(5) . 1.
+O7 O2- 2 i 0.2638(7) 0.1177(4) 0.7011(4) . 1.
+O8 O2- 2 i 0.2493(7) 0.0272(5) -.0174(4) . 1.
+O9 O2- 2 i 0.1435(7) 0.0462(5) 0.2127(4) . 1.
+O10 O2- 2 i 0.2328(7) 0.3163(5) 0.5224(4) . 1.
+O11 O2- 2 i 0.0763(7) 0.8314(5) 0.6320(4) . 1.
+O12 O2- 2 i 0.2758(7) 0.8393(5) 0.1754(4) . 1.
+O13 O2- 2 i 0.9513(9) 0.2510(5) 0.0971(5) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.00377(4) 0.00396(4) 0.00281(3) -.00280(3) 0.00243(3) -.00235(3)
+Cs2 Cs1+ 0.00327(6) 0.00697(9) 0.00596(8) 0.00100(6) 0.00055(5) -.00408(7)
+Mo1 Mo5+ 0.00045(2) 0.00059(2) 0.00057(2) 0.00020(1) 0.00003(1) -.00009(1)
+Mo2 Mo5+ 0.00045(2) 0.00064(2) 0.00060(2) 0.00018(2) 0.00005(1) -.00012(1)
+P1 P5+ 0.00044(5) 0.00073(6) 0.00084(6) 0.00021(4) 0.00002(4) -.00005(5)
+P2 P5+ 0.00051(5) 0.00077(6) 0.00067(6) 0.00024(5) 0.00006(4) -.00012(4)
+P3 P5+ 0.00060(6) 0.00058(5) 0.00054(5) 0.00012(4) 0.00004(4) -.00011(4)
+O1 O2- 0.00064(17) 0.00195(20) 0.00102(18) 0.00083(15) -.00003(14) -.00042(15)
+O2 O2- 0.00056(17) 0.00106(18) 0.0018(2) 0.00034(14) -.00011(14) -.00048(15)
+O3 O2- 0.00037(16) 0.00117(18) 0.00171(20) 0.00014(14) -.00009(14) -.00023(15)
+O4 O2- 0.00165(20) 0.00097(18) 0.00148(20) 0.00034(16) 0.00018(16) 0.00028(15)
+O5 O2- 0.00082(17) 0.00142(19) 0.00082(17) 0.00023(14) 0.00024(14) -.00046(14)
+O6 O2- 0.00267(24) 0.00181(22) 0.00124(20) 0.00072(19) -.00019(17) -.00073(16)
+O7 O2- 0.00128(19) 0.00081(17) 0.00144(19) 0.00031(15) 0.00024(15) 0.00008(14)
+O8 O2- 0.00159(19) 0.00133(19) 0.00063(17) 0.00056(16) -.00011(14) -.00027(14)
+O9 O2- 0.00063(17) 0.00276(23) 0.00126(19) 0.00098(16) 0.00011(14) -.00074(17)
+O10 O2- 0.00064(17) 0.00182(20) 0.00083(17) 0.00049(15) -.00009(13) -.00006(15)
+O11 O2- 0.00146(19) 0.00120(19) 0.00101(18) 0.00025(15) 0.00012(15) -.00055(15)
+O12 O2- 0.00148(20) 0.00090(18) 0.00169(20) 0.00029(15) 0.00033(16) 0.00042(15)
+O13 O2- 0.00250(24) 0.00143(21) 0.00181(22) -.00009(18) 0.00021(18) 0.00026(17)
+#End of TTdata_202647-ICSD
+#

@@ -1,0 +1,130 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_238331-ICSD
+_database_code_ICSD 238331
+_audit_creation_date 2015-08-01
+_chemical_name_common 'Bis(hydrogen tetrahydridoborate aluminium diethylamide)'
+_chemical_formula_structural '(H (B H4) Al N (C2 H5)2)2'
+_chemical_formula_sum 'C8 H30 Al2 B2 N2'
+_exptl_crystal_density_diffrn 0.99
+_diffrn_ambient_temperature 122.
+_citation_title
+
+;
+New molecular aluminum chloride amides [Cl2 Al N Et2]2 and [H Cl Al N Et2]2
+and their boranate analogues [(B H4)2 Al N Et2]2 and [H (B H4) Al N Et2]2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie' 2015 641 394 399
+ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Walgenbach, Andreas'
+primary 'Veith, Michael'
+primary 'Huch, Volker'
+primary 'Kohlmann, Holger'
+_cell_length_a 12.1579(14)
+_cell_length_b 10.3264(12)
+_cell_length_c 12.2729(14)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1540.82
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+H1- -1
+Al3+ 3
+H1- -1
+N3- -3
+B3+ 3
+H1- -1
+B3+ 3
+H1- -1
+C3+ 3
+H1- -1
+C3+ 3
+H1- -1
+C3+ 3
+H1- -1
+C3+ 3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Al1 Al3+ 4 c 0.27954(3) 0.75 0.75332(3) 0.01712(8) 1
+H1 H1- 4 c 0.4014(9) 0.75 0.8087(15) 0.026 1
+Al2 Al3+ 4 c 0.22769(3) 0.75 0.53132(3) 0.01761(9) 1
+H2 H1- 4 c 0.1050(9) 0.75 0.4848(15) 0.026 1
+N1 N3- 8 d 0.25500(5) 0.61793(7) 0.64203(6) 0.01677(12) 1
+B1 B3+ 4 c 0.15492(11) 0.75 0.87681(10) 0.0177(2) 1
+H3 H1- 4 c 0.1226(11) 0.75 0.9460(8) 0.027 1
+H4 H1- 8 d 0.2012(7) 0.8249(6) 0.8692(8) 0.027 1
+H5 H1- 4 c 0.1023(10) 0.75 0.8208(9) 0.027 1
+B2 B3+ 4 c 0.34954(14) 0.75 0.40017(12) 0.0257(3) 1
+H6 H1- 4 c 0.3554(14) 0.75 0.3261(11) 0.039 1
+H7 H1- 8 d 0.3046(9) 0.8255(7) 0.4236(11) 0.039 1
+H8 H1- 4 c 0.4157(11) 0.75 0.4385(14) 0.039 1
+C1 C3+ 8 d 0.15432(7) 0.53555(8) 0.65780(7) 0.02082(15) 1
+H9 H1- 8 d 0.0894 0.5929 0.6644 0.025 1
+H10 H1- 8 d 0.1617 0.4873 0.7271 0.025 1
+C2 C3+ 8 d 0.13385(8) 0.43935(9) 0.56631(9) 0.02873(19) 1
+H11 H1- 8 d 0.1306 0.4855 0.4966 0.043 1
+H12 H1- 8 d 0.064 0.3945 0.579 0.043 1
+H13 H1- 8 d 0.1938 0.376 0.5643 0.043 1
+C3 C3+ 8 d 0.35714(7) 0.53848(8) 0.62626(7) 0.02095(15) 1
+H14 H1- 8 d 0.4207 0.5977 0.6181 0.025 1
+H15 H1- 8 d 0.35 0.4887 0.5577 0.025 1
+C4 C3+ 8 d 0.38080(9) 0.44458(9) 0.71896(9) 0.02903(19) 1
+H16 H1- 8 d 0.3857 0.4925 0.7877 0.044 1
+H17 H1- 8 d 0.4506 0.4 0.7051 0.044 1
+H18 H1- 8 d 0.3213 0.3808 0.7237 0.044 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 Al3+ 0.01887(16) 0.01464(15) 0.01786(16) 0. 0.00038(11) 0.
+Al2 Al3+ 0.02085(16) 0.01410(15) 0.01789(16) 0. -0.00038(12) 0.
+N1 N3- 0.0178(3) 0.0122(2) 0.0203(3) 0.0002(2) 0.0020(2) 0.0002(2)
+B1 B3+ 0.0198(5) 0.0203(5) 0.0131(4) 0. 0.0034(4) 0.
+B2 B3+ 0.0323(7) 0.0279(6) 0.0170(5) 0. 0.0027(5) 0.
+C1 C3+ 0.0211(3) 0.0158(3) 0.0256(4) -0.0031(2) 0.0031(3) -0.0006(3)
+C2 C3+ 0.0297(4) 0.0211(4) 0.0354(5) -0.0062(3) 0.0013(4) -0.0072(3)
+C3 C3+ 0.0209(3) 0.0164(3) 0.0256(4) 0.0036(3) 0.0035(3) 0.0000(3)
+C4 C3+ 0.0298(4) 0.0209(4) 0.0364(5) 0.0075(3) 0.0004(4) 0.0057(3)
+#End of TTdata_238331-ICSD
+#

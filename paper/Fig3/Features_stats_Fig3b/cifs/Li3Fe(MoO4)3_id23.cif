@@ -1,0 +1,110 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_140455-ICSD
+_database_code_ICSD 140455
+_audit_creation_date 2020-08-01
+_chemical_name_common 'Trizinc nickel(II)-0.8 tris(vanado-molybdate)'
+_chemical_formula_structural '(Zn2.8 Ni0.94) ((V0.5 Mo0.5) O4)3'
+_chemical_formula_sum 'Mo1.5 Ni0.94 O12 V1.5 Zn2.8'
+_chemical_name_structure_type Lyonsite#Li3Fe(MoO4)3
+_exptl_crystal_density_diffrn 4.73
+_diffrn_ambient_temperature 300.
+_citation_title
+
+;
+Novel compositions and physical property comparisons for
+(A,A$^{\prime}$)$_{2.5}$ VMoO8 lyonsites (A=Zn, A$^{\prime}$=Mn, Ni, Cu)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2019 271 154 161 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Tang, Joseph N.'
+primary 'Subramanian, M.A.'
+_cell_length_a 5.03538(7)
+_cell_length_b 10.37002(12)
+_cell_length_c 17.4959(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 913.58
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Ni2+ 2
+Zn2+ 2
+Ni2+ 2
+Zn2+ 2
+Ni2+ 2
+V5+ 5
+Mo6+ 6
+V5+ 5
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Zn1 Zn2+ 4 c 0.4009(8) 0.25 0.25139(26) 0.0654(32) 0.412(21)
+Ni1 Ni2+ 4 c 0.4009(8) 0.25 0.25139(26) 0.0654(32) 0.338(21)
+Zn2 Zn2+ 8 d 0.7515(4) 0.07729(17) 0.52774(14) 0.0153(11) 0.712(12)
+Ni2 Ni2+ 8 d 0.7515(4) 0.07729(17) 0.52774(14) 0.0153(11) 0.288(12)
+Zn3 Zn2+ 4 c 0.7472(7) 0.25 0.69441(23) 0.0212(24) 0.975(19)
+Ni3 Ni2+ 4 c 0.7472(7) 0.25 0.69441(23) 0.0212(24) 0.025(19)
+V1 V5+ 4 c 0.2219(12) 0.25 0.44272(32) 0.007(4) 0.489
+Mo1 Mo6+ 4 c 0.2219(12) 0.25 0.44272(32) 0.007(4) 0.511(14)
+V2 V5+ 8 d 0.7229(9) -0.0249(4) 0.34356(24) 0.0134(27) 0.494
+Mo2 Mo6+ 8 d 0.7229(9) -0.0249(4) 0.34356(24) 0.0134(27) 0.506(8)
+O1 O2- 4 c 0.1427(7) 0.25 0.34871(22) 0.02075 1.
+O2 O2- 4 c -0.0591(7) 0.25 0.50627(22) 0.01365 1.
+O3 O2- 8 d 0.4170(5) 0.11518(31) 0.46370(15) 0.01551 1.
+O4 O2- 8 d 0.4348(5) -0.11405(28) 0.37192(16) 0.01706 1.
+O5 O2- 8 d 0.9231(5) -0.12678(22) 0.28735(16) 0.02385 1.
+O6 O2- 8 d 0.6494(5) 0.11308(23) 0.29610(16) 0.01863 1.
+O7 O2- 8 d 0.9135(5) 0.00769(26) 0.42389(17) 0.01654 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.0246(31) 0.0105(29) 0.0272(29) 0. -0.0035(18) 0.
+O2 O2- 0.0037(22) 0.0152(27) 0.0220(30) 0. 0.0065(20) 0.
+O3 O2- 0.0099(17) 0.0177(23) 0.0189(20) -0.0014(17) -0.0015(15) 0.0002(15)
+O4 O2- 0.0133(19) 0.0136(20) 0.0243(21) 0.0017(19) -0.0012(14) 0.0037(19)
+O5 O2- 0.0211(15) 0.0270(19) 0.0235(21) 0.0079(18) -0.0039(15) 0.0029(17)
+O6 O2- 0.0188(18) 0.0185(19) 0.0186(20) -0.0047(16) -0.0007(12) 0.0065(15)
+O7 O2- 0.0129(18) 0.0255(18) 0.0113(21) 0.0010(15) -0.0043(16) -0.0007(15)
+#End of TTdata_140455-ICSD
+#

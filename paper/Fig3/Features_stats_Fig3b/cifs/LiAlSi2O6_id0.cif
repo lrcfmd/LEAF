@@ -1,0 +1,92 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69222-ICSD
+_database_code_ICSD 69222
+_audit_creation_date 1992-08-20
+_chemical_name_common 'Sodium hydrogen tecto-alumosilicate *'
+_chemical_formula_structural 'Na0.5 H0.5 (Al Si2 O6)'
+_chemical_formula_sum 'H0.5 Al1 Na0.5 O6 Si2'
+_chemical_name_structure_type Mg1-x(Si,Al)3O6
+_exptl_crystal_density_diffrn 2.53
+_citation_title
+
+;
+Synthesis and structure of beta-quartz type Na0.5H0.5AlSi2O6 as compared to
+LiAlSi2O6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Neues Jahrbuch fuer Mineralogie, Monatshefte' 1990 1990 493 503 NJMMAW
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Mueller, G.'
+primary 'Paulus, H.'
+primary 'Stiefel, J.'
+_cell_length_a 5.150(3)
+_cell_length_b 5.150(3)
+_cell_length_c 5.458(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 125.37
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P 62 2 2'
+_space_group_IT_number 180
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, x-y, -z+1/3'
+2 '-x+y, y, -z'
+3 '-y, -x, -z+2/3'
+4 '-x, -x+y, -z+1/3'
+5 'x-y, -y, -z'
+6 'y, x, -z+2/3'
+7 'x-y, x, z+1/3'
+8 'y, -x+y, z+2/3'
+9 '-x, -y, z'
+10 '-x+y, -x, z+1/3'
+11 '-y, x-y, z+2/3'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+O2- -2
+Na1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Si1 Si4+ 3 c 0.5 0 0 . 0.667
+Al1 Al3+ 3 c 0.5 0 0 . 0.333
+O1 O2- 6 j 0.2080(1) 0.4160(2) 0.5 . 1.
+Na1 Na1+ 3 b 0 0 0.5 . 0.167
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.060(1) 0.027(1) 0.049(1) 0.013(1) 0 0
+Al1 Al3+ 0.060(1) 0.027(1) 0.049(1) 0.013(1) 0 0
+O1 O2- 0.063(2) 0.123(5) 0.117(3) 0.061(3) 0.019(2) 0
+Na1 Na1+ 0.082(11) 0.026(7) 0.143(17) 0.013(4) 0 0
+#End of TTdata_69222-ICSD
+#

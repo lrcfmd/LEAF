@@ -1,0 +1,103 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_238600-ICSD
+_database_code_ICSD 238600
+_audit_creation_date 2016-02-01
+_chemical_name_common 'Lithium silicate phosphate *'
+_chemical_formula_structural 'Li6.5 Si0.5 P1.5 O8'
+_chemical_formula_sum 'Li6.5 O8 P1.5 Si0.5'
+_exptl_crystal_density_diffrn 2.42
+_diffrn_ambient_temperature 300.
+_citation_title
+
+;
+Structural and mechanistic insights into fast lithium-ion conduction in Li4 Si
+O4 - Li3 P O4 solid electrolytes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2015 137 9136 9145 JACSAT
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Deng, Yue'
+primary 'Eames, Christopher'
+primary 'Chotard, Jean-Noel'
+primary 'Lalere, Fabien'
+primary 'Seznec, Vincent'
+primary 'Emge, Steffen'
+primary 'Pecher, Oliver'
+primary 'Grey, Clare P.'
+primary 'Masquelier, Christian'
+primary 'Islam, M. Saiful'
+_cell_length_a 10.52587(9)
+_cell_length_b 6.11525(6)
+_cell_length_c 4.97031(5)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 319.92
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Li1+ 1
+P5+ 5
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+O1 O2- 4 c 0.4100(2) 0.25 0.6332(4) 0.0100(13) 1.
+Li1 Li1+ 8 d 0.3359(5) 0.0007(8) 0.8101(14) 0.009(2) 0.86(2)
+Li2 Li1+ 4 c 0.5734(8) 0.25 0.804(2) 0.018(3) 0.90(3)
+Li3 Li1+ 4 c 0.604(8) 0.25 0.64(2) 0.019 0.091(19)
+Li4 Li1+ 8 d 0.460(6) 0.468(11) 0.925(14) 0.019 0.073(10)
+Li5 Li1+ 8 d 0.647(4) 0.447(6) 0.340(9) 0.030(13) 0.16(2)
+Li6 Li1+ 4 c 0.738(14) 0.25 0.59(2) 0.019 0.064(15)
+P1 P5+ 4 c 0.4116(2) 0.25 0.3187(5) 0.0060(13) 0.75
+Si1 Si4+ 4 c 0.4116(2) 0.25 0.3187(5) 0.0060(13) 0.25
+O2 O2- 8 d 0.34140(14) 0.0415(2) 0.2127(3) 0.0080(8) 1.
+O3 O2- 4 c 0.0527(2) 0.25 0.2849(5) 0.0100(12) 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 O2- 0.0162(13) 0.0064(11) 0.0073(14) 0. -0.0019(9) 0.
+P1 P5+ 0.0079(14) 0.0057(12) 0.0044(13) 0. 0.0001(13) 0.
+Si1 Si4+ 0.0079(14) 0.0057(12) 0.0044(13) 0. 0.0001(13) 0.
+O2 O2- 0.0069(8) 0.0084(7) 0.0087(8) -0.0040(6) 0.0016(7) -0.0028(7)
+O3 O2- 0.0077(13) 0.0063(10) 0.0161(14) 0. -0.0025(10) 0.
+#End of TTdata_238600-ICSD
+#

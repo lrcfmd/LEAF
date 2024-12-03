@@ -1,0 +1,87 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_156058-ICSD
+_database_code_ICSD 156058
+_audit_creation_date 2007-08-01
+_chemical_name_common 'Dilithium dizinc tris(molybdate)'
+_chemical_formula_structural 'Li2 Zn2 (Mo O4)3'
+_chemical_formula_sum 'Li2 Mo3 O12 Zn2'
+_chemical_name_structure_type Lyonsite#Li3Fe(MoO4)3
+_exptl_crystal_density_diffrn 4.39
+_citation_title 'Subsolidus phase relation in the system Zn O - Li2 O - Mo O3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2007 430 67 70 JALCEU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Xue Liping'
+primary 'Chen Dagui'
+primary 'Lin Zhang'
+primary 'Lu Peiwen'
+primary 'Huang Feng'
+primary 'Liang Jing Kui'
+_cell_length_a 5.1114
+_cell_length_b 10.4906
+_cell_length_c 17.6172
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 944.66
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Zn2+ 2
+Li1+ 1
+Zn2+ 2
+Li1+ 1
+Zn2+ 2
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Mo1 Mo6+ 4 c 0.2216(5) 0.25 0.0563(9) 0.58(7) 1.
+Mo2 Mo6+ 8 d 0.2788(5) 0.0270(9) 0.8434(7) 0.74(6) 1.
+Zn1 Zn2+ 8 d 0.7495(7) 0.0779(6) 0.9710(2) 1.37(8) 0.66
+Li1 Li1+ 8 d 0.7495(7) 0.0779(6) 0.9710(2) 1.37(8) 0.34
+Zn2 Zn2+ 4 c 0.3916(3) 0.25 0.2493(7) 1.22(4) 0.47
+Li2 Li1+ 4 c 0.3916(3) 0.25 0.2493(7) 1.22(4) 0.53
+Zn3 Zn2+ 4 c 0.7552(5) 0.25 0.8014(4) 1.14(5) 0.21
+Li3 Li1+ 4 c 0.7552(5) 0.25 0.8014(4) 1.14(5) 0.79
+O1 O2- 8 d 0.5741(9) 0.1025(2) 0.8660(5) 1.66(9) 1.
+O2 O2- 4 c 0.1411(2) 0.25 0.1472(8) 1.62(9) 1.
+O3 O2- 8 d 0.4216(2) 0.1155(5) 0.0348(9) 1.58(8) 1.
+O4 O2- 4 c 0.9465(2) 0.25 0.0116(4) 1.43(7) 1.
+O5 O2- 8 d 0.3793(9) -0.1012(1) 0.7890(4) 1.52(6) 1.
+O6 O2- 8 d 0.0710(3) -0.0026(3) 0.9311(9) 1.61(9) 1.
+O7 O2- 8 d 0.0776(8) 0.1180(1) 0.7847(9) 1.69(8) 1.
+#End of TTdata_156058-ICSD
+#

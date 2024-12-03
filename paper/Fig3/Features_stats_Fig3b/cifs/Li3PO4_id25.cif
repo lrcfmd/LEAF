@@ -1,0 +1,81 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_260569-ICSD
+_database_code_ICSD 260569
+_audit_creation_date 2010-02-01
+_chemical_name_common 'Lithium iron(II) phosphate(V) (1/1/1)'
+_chemical_formula_structural 'Li Fe (P O4)'
+_chemical_formula_sum 'Fe1 Li1 O4 P1'
+_chemical_name_structure_type Olivine#Mg2SiO4
+_chemical_name_mineral Triphylite
+_exptl_crystal_density_diffrn 3.6
+_citation_title
+
+;
+Structural, spectroscopic and magnetic investigation of the Li Fe(1-x) Mn(x) P
+O4 (x=0-0.18) solid solution
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2009 182 1972 1981 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Bini, M.'
+primary 'Mozzati, M.C.'
+primary 'Galinetto, P.'
+primary 'Capsoni, D.'
+primary 'Ferrari, S.'
+primary 'Grandi, M.S.'
+primary 'Massarotti, V.'
+_cell_length_a 10.3243(27)
+_cell_length_b 6.0057(16)
+_cell_length_c 4.6941(16)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 291.06
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Fe3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 4 a 0 0 0 4.0(38) 1
+Fe1 Fe3+ 4 c 0.28328(86) 0.25 0.9702(35) 1.56(51) 1
+P1 P5+ 4 c 0.1005(27) 0.25 0.4116(66) 2.54(87) 1
+O1 O2- 4 c 0.0908(58) 0.25 0.719(12) 3.4(16) 1
+O2 O2- 4 c 0.4524(77) 0.25 0.2102(60) 4.0(13) 1
+O3 O2- 8 d 0.1641(38) 0.0509(61) 0.2713(44) 2.1(10) 1
+#End of TTdata_260569-ICSD
+#

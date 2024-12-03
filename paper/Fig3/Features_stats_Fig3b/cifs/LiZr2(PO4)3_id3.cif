@@ -1,0 +1,104 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92250-ICSD
+_database_code_ICSD 92250
+_audit_creation_date 2002-10-01
+_chemical_name_common 'Lithium dizirconium tris(phosphate(V)) - alpha'
+_chemical_formula_structural 'Li Zr2 (P O4)3'
+_chemical_formula_sum 'Li1 O12 P3 Zr2'
+_chemical_name_structure_type Cu2CrZr(PO4)3
+_exptl_crystal_density_diffrn 3.14
+_diffrn_ambient_temperature 423.
+_citation_title
+
+;
+Lithium location in NASICON-type Li(+) conductors by neutron diffraction: II.
+Rhombohedral alpha-(Li Zr2 (P O4)3) at T = 423 K
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 2000 136 489 494 SSIOD3
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Catti, M.'
+primary 'Stramare, S.'
+_cell_length_a 8.85493(3)
+_cell_length_b 8.85493(3)
+_cell_length_c 22.1440(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1503.69
+_cell_formula_units_Z 6
+_space_group_name_H-M_alt 'R -3 c H'
+_space_group_IT_number 167
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x-y, -y, -z+1/2'
+2 '-x, -x+y, -z+1/2'
+3 'y, x, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z+1/2'
+8 'x, x-y, z+1/2'
+9 '-y, -x, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+5/6'
+14 '-x+2/3, -x+y+1/3, -z+5/6'
+15 'y+2/3, x+1/3, -z+5/6'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+5/6'
+20 'x+2/3, x-y+1/3, z+5/6'
+21 '-y+2/3, -x+1/3, z+5/6'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+1/6'
+26 '-x+1/3, -x+y+2/3, -z+1/6'
+27 'y+1/3, x+2/3, -z+1/6'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+1/6'
+32 'x+1/3, x-y+2/3, z+1/6'
+33 '-y+1/3, -x+2/3, z+1/6'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Zr4+ 4
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 36 f 0.0252(40) 0.1836(38) 0.0015(11) 0.04(1) 0.12(2)
+Zr1 Zr4+ 12 c 0 0 0.14230(5) 0.0123(6) 1.
+P1 P5+ 18 e 0.28845(6) 0 0.25 0.0154(8) 1.
+O1 O2- 36 f 0.18531(15) -.01166(16) 0.19389(5) 0.0303(8) 1.
+O2 O2- 36 f 0.19696(13) 0.17218(15) 0.08502(5) 0.0206(7) 1.
+#End of TTdata_92250-ICSD
+#

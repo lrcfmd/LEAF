@@ -1,0 +1,101 @@
+target_formula,mat2vec_template,leaf59magpie_template,leaf200magpie_template,leaf_template,matscholar_template,skipatom_template,megnet16_template,oliynyk_template,magpie_template,random_200_template,hautier_template
+AgBr (mp-23231),AgCl (mp-22922),AgI (mp-22925),AgI (mp-22925),AgI (mp-22925),AgCl (mp-22922),CuBr (mp-22913),AgO (mp-1079720),AgCl (mp-22922),AgI (mp-22925),KBr (mp-23251),AgI (mp-22925)
+AgCl (mp-22922),AgBr (mp-23231),AgBr (mp-23231),AgBr (mp-23231),AgBr (mp-23231),AgBr (mp-23231),CuCl (mp-22914),AgO (mp-1079720),AgBr (mp-23231),CuCl (mp-22914),KCl (mp-23193),AgI (mp-22925)
+AgI (mp-22925),AgBr (mp-23231),AgBr (mp-23231),AgBr (mp-23231),AgBr (mp-23231),AgBr (mp-23231),AgCl (mp-22922),AgBr (mp-23231),AgBr (mp-23231),AgBr (mp-23231),KI (mp-22898),AgBr (mp-23231)
+AgO (mp-1079720),AgCl (mp-22922),AgCl (mp-22922),AgCl (mp-22922),AgCl (mp-22922),AgCl (mp-22922),AgCl (mp-22922),AgCl (mp-22922),AgCl (mp-22922),AgCl (mp-22922),AgI (mp-22925),
+AlAs (mp-2172),GaAs (mp-2534),AlP (mp-1550),AlP (mp-1550),AlP (mp-1550),GaAs (mp-2534),AlP (mp-1550),AlP (mp-1550),GaAs (mp-2534),AlSb (mp-2624),GaAs (mp-2534),
+AlN (mp-661),AlP (mp-1550),GaN (mp-804),GaN (mp-804),GaN (mp-804),GaN (mp-804),AlP (mp-1550),LuN (mp-1102),AlP (mp-1550),AlP (mp-1550),GaN (mp-804),GaN (mp-804)
+AlP (mp-1550),AlN (mp-661),AlAs (mp-2172),AlAs (mp-2172),AlAs (mp-2172),AlN (mp-661),AlAs (mp-2172),AlAs (mp-2172),AlN (mp-661),BP (mp-1479),GaP (mp-2490),
+AlSb (mp-2624),AlAs (mp-2172),AlAs (mp-2172),AlAs (mp-2172),AlAs (mp-2172),AlAs (mp-2172),AlN (mp-661),AlP (mp-1550),AlP (mp-1550),AlAs (mp-2172),AlAs (mp-2172),
+BAs (mp-10044),BP (mp-1479),BP (mp-1479),BP (mp-1479),BP (mp-1479),BP (mp-1479),BP (mp-1479),BP (mp-1479),BP (mp-1479),AlAs (mp-2172),AlAs (mp-2172),
+BP (mp-1479),BAs (mp-10044),BAs (mp-10044),BAs (mp-10044),BAs (mp-10044),BAs (mp-10044),BAs (mp-10044),BAs (mp-10044),BAs (mp-10044),AlP (mp-1550),AlP (mp-1550),
+BaO (mp-1342),SrO (mp-2472),SrO (mp-2472),SrO (mp-2472),SrO (mp-2472),SrO (mp-2472),VO (mp-19184),SrO (mp-2472),SrO (mp-2472),SrO (mp-2472),HgO (mp-1224),BaS (mp-1500)
+BaS (mp-1500),SrS (mp-1087),SrS (mp-1087),SrS (mp-1087),SrS (mp-1087),SrS (mp-1087),BaSe (mp-1253),SrS (mp-1087),SrS (mp-1087),SrS (mp-1087),HgS (mp-634),BaSe (mp-1253)
+BaSe (mp-1253),SrSe (mp-2758),SrSe (mp-2758),SrSe (mp-2758),SrSe (mp-2758),SrSe (mp-2758),BaS (mp-1500),SrSe (mp-2758),SrSe (mp-2758),SrSe (mp-2758),HgSe (mp-1018722),BaS (mp-1500)
+BaTe (mp-1000),SrTe (mp-1958),SrTe (mp-1958),SrTe (mp-1958),SrTe (mp-1958),SrTe (mp-1958),SrTe (mp-1958),SrTe (mp-1958),SrTe (mp-1958),SrTe (mp-1958),HgTe (mp-358),
+BeO (mp-2542),BeS (mp-422),BeS (mp-422),BeS (mp-422),HgO (mp-1224),BeS (mp-422),MgO (mp-1265),BeS (mp-422),BeS (mp-422),BeS (mp-422),BeSe (mp-1541),BeS (mp-422)
+BeS (mp-422),BeSe (mp-1541),BeSe (mp-1541),BeSe (mp-1541),BeSe (mp-1541),BeSe (mp-1541),BeSe (mp-1541),BeO (mp-2542),BeSe (mp-1541),MgS (mp-1315),PbS (mp-21276),BeSe (mp-1541)
+BeSe (mp-1541),BeTe (mp-252),BeS (mp-422),BeS (mp-422),BeS (mp-422),BeTe (mp-252),BeS (mp-422),BeS (mp-422),BeS (mp-422),MgSe (mp-1018040),PbSe (mp-2201),BeS (mp-422)
+BeTe (mp-252),BeSe (mp-1541),BeSe (mp-1541),BeSe (mp-1541),BeSe (mp-1541),BeSe (mp-1541),MgTe (mp-1039),BeSe (mp-1541),MgTe (mp-1039),MgTe (mp-1039),TePb (mp-19717),
+CaO (mp-2605),SrO (mp-2472),SrO (mp-2472),SrO (mp-2472),SrO (mp-2472),SrO (mp-2472),SrO (mp-2472),YbO (mp-1216),SrO (mp-2472),SrO (mp-2472),YbO (mp-1216),CaS (mp-1672)
+CaS (mp-1672),SrS (mp-1087),SrS (mp-1087),SrS (mp-1087),CaSe (mp-1415),SrS (mp-1087),CaSe (mp-1415),YbS (mp-1820),SrS (mp-1087),SrS (mp-1087),YbS (mp-1820),CaSe (mp-1415)
+CaSe (mp-1415),SrSe (mp-2758),SrSe (mp-2758),SrSe (mp-2758),CaS (mp-1672),SrSe (mp-2758),CaS (mp-1672),YbSe (mp-286),SrSe (mp-2758),SrSe (mp-2758),YbSe (mp-286),CaS (mp-1672)
+CaTe (mp-1519),SrTe (mp-1958),SrTe (mp-1958),SrTe (mp-1958),SrTe (mp-1958),SrTe (mp-1958),SrTe (mp-1958),YbTe (mp-1779),SrTe (mp-1958),SrTe (mp-1958),YbTe (mp-1779),
+CdS (mp-672),HgS (mp-634),CdSe (mp-2691),CdSe (mp-2691),CdSe (mp-2691),HgS (mp-634),CdSe (mp-2691),CdSe (mp-2691),CdSe (mp-2691),CdSe (mp-2691),HgS (mp-634),CdSe (mp-2691)
+CdSe (mp-2691),CdTe (mp-406),CdS (mp-672),CdS (mp-672),CdS (mp-672),CdTe (mp-406),HgSe (mp-1018722),CdS (mp-672),CdS (mp-672),ZnSe (mp-1190),HgSe (mp-1018722),CdS (mp-672)
+CdTe (mp-406),CdSe (mp-2691),CdSe (mp-2691),CdSe (mp-2691),CdSe (mp-2691),CdSe (mp-2691),HgTe (mp-358),ZnTe (mp-2176),ZnTe (mp-2176),ZnTe (mp-2176),HgTe (mp-358),
+CoO (mp-22408),NiO (mp-19009),NiO (mp-19009),NiO (mp-19009),NiO (mp-19009),NiO (mp-19009),NiO (mp-19009),NiO (mp-19009),NiO (mp-19009),NiO (mp-19009),MnO (mp-19006),NiO (mp-19009)
+CsAu (mp-2667),RbAu (mp-30373),RbAu (mp-30373),RbAu (mp-30373),RbAu (mp-30373),RbAu (mp-30373),RbAu (mp-30373),RbAu (mp-30373),RbAu (mp-30373),RbAu (mp-30373),CsF (mp-1784),
+CsBr (mp-571222),CsCl (mp-573697),RbBr (mp-22867),RbBr (mp-22867),RbBr (mp-22867),CsCl (mp-573697),RbBr (mp-22867),RbBr (mp-22867),RbBr (mp-22867),RbBr (mp-22867),CuBr (mp-22913),CsI (mp-614603)
+CsCl (mp-573697),CsBr (mp-571222),RbCl (mp-23295),RbCl (mp-23295),RbCl (mp-23295),CsBr (mp-571222),RbCl (mp-23295),CsF (mp-1784),RbCl (mp-23295),RbCl (mp-23295),CuCl (mp-22914),CsI (mp-614603)
+CsF (mp-1784),RbF (mp-2064),RbF (mp-2064),RbF (mp-2064),RbF (mp-2064),RbF (mp-2064),RbF (mp-2064),CsCl (mp-573697),RbF (mp-2064),RbF (mp-2064),NaF (mp-682),CsCl (mp-573697)
+CsH (mp-1057286),RbH (mp-24721),RbH (mp-24721),RbH (mp-24721),RbH (mp-24721),RbH (mp-24721),RbH (mp-24721),RbH (mp-24721),RbH (mp-24721),RbH (mp-24721),CuH (mp-24093),
+CsI (mp-614603),RbI (mp-22903),RbI (mp-22903),RbI (mp-22903),RbI (mp-22903),RbI (mp-22903),RbI (mp-22903),RbI (mp-22903),RbI (mp-22903),RbI (mp-22903),NaI (mp-23268),RbI (mp-22903)
+CsTe (mp-8361),,,,,,,,,,,
+CuBr (mp-22913),CuCl (mp-22914),CuCl (mp-22914),CuCl (mp-22914),NaBr (mp-22916),CuCl (mp-22914),AgBr (mp-23231),AgBr (mp-23231),CuCl (mp-22914),AgBr (mp-23231),KBr (mp-23251),AgBr (mp-23231)
+CuCl (mp-22914),CuBr (mp-22913),CuBr (mp-22913),CuBr (mp-22913),NaCl (mp-22862),CuBr (mp-22913),AgCl (mp-22922),AgCl (mp-22922),CuBr (mp-22913),AgCl (mp-22922),KCl (mp-23193),CuBr (mp-22913)
+CuH (mp-24093),CuCl (mp-22914),NaH (mp-23870),NaH (mp-23870),NaH (mp-23870),CuCl (mp-22914),CuBr (mp-22913),CuBr (mp-22913),CuCl (mp-22914),LiH (mp-23703),KH (mp-24084),
+DyN (mp-1410),TbN (mp-2117),HoN (mp-883),ErN (mp-19830),ErN (mp-19830),TbN (mp-2117),TbN (mp-2117),ErN (mp-19830),HoN (mp-883),TbN (mp-2117),GaN (mp-804),ErN (mp-19830)
+ErN (mp-19830),HoN (mp-883),DyN (mp-1410),DyN (mp-1410),DyN (mp-1410),HoN (mp-883),TmN (mp-1975),TmN (mp-1975),TmN (mp-1975),HoN (mp-883),TmN (mp-1975),DyN (mp-1410)
+GaAs (mp-2534),AlAs (mp-2172),GaP (mp-2490),GaP (mp-2490),GaP (mp-2490),AlAs (mp-2172),GaP (mp-2490),GaP (mp-2490),AlAs (mp-2172),GaP (mp-2490),AlAs (mp-2172),
+GaN (mp-804),GaP (mp-2490),GaP (mp-2490),AlN (mp-661),AlN (mp-661),GaP (mp-2490),YN (mp-2114),GaAs (mp-2534),GaP (mp-2490),GaP (mp-2490),AlN (mp-661),AlN (mp-661)
+GaP (mp-2490),GaN (mp-804),InP (mp-20351),GaAs (mp-2534),GaAs (mp-2534),GaN (mp-804),GaAs (mp-2534),GaAs (mp-2534),GaN (mp-804),InP (mp-20351),AlP (mp-1550),
+GeTe (mp-938),SnTe (mp-1883),SnTe (mp-1883),SnTe (mp-1883),SnTe (mp-1883),SnTe (mp-1883),SnTe (mp-1883),TePb (mp-19717),BeTe (mp-252),SnTe (mp-1883),BeTe (mp-252),
+HgO (mp-1224),HgS (mp-634),HgS (mp-634),YbO (mp-1216),YbO (mp-1216),HgS (mp-634),HgS (mp-634),HgS (mp-634),HgS (mp-634),HgS (mp-634),MgO (mp-1265),HgS (mp-634)
+HgS (mp-634),CdS (mp-672),HgSe (mp-1018722),HgSe (mp-1018722),HgSe (mp-1018722),CdS (mp-672),HgSe (mp-1018722),HgO (mp-1224),HgSe (mp-1018722),HgO (mp-1224),MgS (mp-1315),HgSe (mp-1018722)
+HgSe (mp-1018722),HgTe (mp-358),HgS (mp-634),HgS (mp-634),HgS (mp-634),HgTe (mp-358),CdSe (mp-2691),CdSe (mp-2691),HgS (mp-634),HgTe (mp-358),MgSe (mp-1018040),HgS (mp-634)
+HgTe (mp-358),HgSe (mp-1018722),HgSe (mp-1018722),HgSe (mp-1018722),HgSe (mp-1018722),HgSe (mp-1018722),CdTe (mp-406),CdTe (mp-406),TePb (mp-19717),TePb (mp-19717),MgTe (mp-1039),
+HoN (mp-883),ErN (mp-19830),DyN (mp-1410),DyN (mp-1410),DyN (mp-1410),ErN (mp-19830),TmN (mp-1975),TbN (mp-2117),DyN (mp-1410),DyN (mp-1410),AlN (mp-661),TmN (mp-1975)
+InP (mp-20351),BP (mp-1479),GaP (mp-2490),GaP (mp-2490),GaP (mp-2490),BP (mp-1479),GaP (mp-2490),AlP (mp-1550),GaP (mp-2490),GaP (mp-2490),GaP (mp-2490),
+KBr (mp-23251),KCl (mp-23193),KI (mp-22898),KI (mp-22898),KI (mp-22898),KCl (mp-23193),RbBr (mp-22867),RbBr (mp-22867),RbBr (mp-22867),RbBr (mp-22867),CuBr (mp-22913),KI (mp-22898)
+KCl (mp-23193),KBr (mp-23251),CsCl (mp-573697),KF (mp-463),KF (mp-463),KBr (mp-23251),RbCl (mp-23295),RbCl (mp-23295),RbCl (mp-23295),RbCl (mp-23295),CuCl (mp-22914),KI (mp-22898)
+KF (mp-463),KCl (mp-23193),CsF (mp-1784),KCl (mp-23193),NaF (mp-682),KCl (mp-23193),RbF (mp-2064),RbF (mp-2064),RbF (mp-2064),RbF (mp-2064),TlF (mp-720),KCl (mp-23193)
+KH (mp-24084),KF (mp-463),CsH (mp-1057286),NaH (mp-23870),NaH (mp-23870),KF (mp-463),RbH (mp-24721),RbH (mp-24721),RbH (mp-24721),RbH (mp-24721),CuH (mp-24093),
+KI (mp-22898),KBr (mp-23251),KBr (mp-23251),KBr (mp-23251),KBr (mp-23251),KBr (mp-23251),RbI (mp-22903),RbI (mp-22903),RbI (mp-22903),RbI (mp-22903),AgI (mp-22925),KBr (mp-23251)
+LiBr (mp-23259),LiCl (mp-22905),LiI (mp-570935),LiI (mp-570935),LiI (mp-570935),LiCl (mp-22905),NaBr (mp-22916),NaBr (mp-22916),NaBr (mp-22916),NaBr (mp-22916),TlBr (mp-568560),LiI (mp-570935)
+LiCl (mp-22905),LiBr (mp-23259),NaCl (mp-22862),LiF (mp-1138),LiF (mp-1138),LiBr (mp-23259),NaCl (mp-22862),LiF (mp-1138),NaCl (mp-22862),NaCl (mp-22862),TlCl (mp-569639),LiI (mp-570935)
+LiF (mp-1138),NaF (mp-682),NaF (mp-682),LiCl (mp-22905),LiCl (mp-22905),NaF (mp-682),NaF (mp-682),LiCl (mp-22905),NaF (mp-682),NaF (mp-682),TlF (mp-720),LiCl (mp-22905)
+LiH (mp-23703),NaH (mp-23870),NaH (mp-23870),KH (mp-24084),CuH (mp-24093),NaH (mp-23870),NaH (mp-23870),NaH (mp-23870),NaH (mp-23870),NaH (mp-23870),RbH (mp-24721),
+LiI (mp-570935),NaI (mp-23268),LiBr (mp-23259),LiBr (mp-23259),LiBr (mp-23259),NaI (mp-23268),NaI (mp-23268),LiBr (mp-23259),NaI (mp-23268),NaI (mp-23268),TlI (mp-571102),LiBr (mp-23259)
+LuN (mp-1102),HoN (mp-883),TmN (mp-1975),TmN (mp-1975),TmN (mp-1975),HoN (mp-883),ErN (mp-19830),TmN (mp-1975),ErN (mp-19830),ErN (mp-19830),YN (mp-2114),TmN (mp-1975)
+MgO (mp-1265),CaO (mp-2605),MnO (mp-19006),MnO (mp-19006),MnO (mp-19006),CaO (mp-2605),BeO (mp-2542),CaO (mp-2605),MgS (mp-1315),MgS (mp-1315),ZnO (mp-2133),MgS (mp-1315)
+MgS (mp-1315),CaS (mp-1672),MgSe (mp-1018040),MgSe (mp-1018040),MgSe (mp-1018040),CaS (mp-1672),MgSe (mp-1018040),CaS (mp-1672),MgSe (mp-1018040),MgO (mp-1265),HgS (mp-634),MgSe (mp-1018040)
+MgSe (mp-1018040),MgTe (mp-1039),MnSe (mp-2293),MnSe (mp-2293),MnSe (mp-2293),MgTe (mp-1039),MgS (mp-1315),CaSe (mp-1415),MgS (mp-1315),MgTe (mp-1039),ZnSe (mp-1190),MgS (mp-1315)
+MgTe (mp-1039),MgSe (mp-1018040),MgSe (mp-1018040),MgSe (mp-1018040),MgSe (mp-1018040),MgSe (mp-1018040),BeTe (mp-252),CaTe (mp-1519),CaTe (mp-1519),MgSe (mp-1018040),ZnTe (mp-2176),
+MnO (mp-19006),ZnO (mp-2133),MgO (mp-1265),MgO (mp-1265),MgO (mp-1265),ZnO (mp-2133),NiO (mp-19009),MnSe (mp-2293),MnSe (mp-2293),VO (mp-19184),MnSe (mp-2293),MnSe (mp-2293)
+MnSe (mp-2293),ZnSe (mp-1190),MgSe (mp-1018040),MgSe (mp-1018040),MgSe (mp-1018040),ZnSe (mp-1190),YbSe (mp-286),MnO (mp-19006),MnO (mp-19006),MnO (mp-19006),CdSe (mp-2691),CdSe (mp-2691)
+NaBr (mp-22916),NaCl (mp-22862),NaI (mp-23268),NaI (mp-23268),NaI (mp-23268),NaCl (mp-22862),LiBr (mp-23259),LiBr (mp-23259),KBr (mp-23251),KBr (mp-23251),CsBr (mp-571222),NaI (mp-23268)
+NaCl (mp-22862),NaBr (mp-22916),KCl (mp-23193),NaF (mp-682),NaF (mp-682),NaBr (mp-22916),LiCl (mp-22905),NaF (mp-682),KCl (mp-23193),KCl (mp-23193),CsCl (mp-573697),NaI (mp-23268)
+NaF (mp-682),LiF (mp-1138),KF (mp-463),NaCl (mp-22862),NaCl (mp-22862),LiF (mp-1138),LiF (mp-1138),NaCl (mp-22862),KF (mp-463),KF (mp-463),CsF (mp-1784),NaCl (mp-22862)
+NaH (mp-23870),LiH (mp-23703),KH (mp-24084),KH (mp-24084),KH (mp-24084),LiH (mp-23703),LiH (mp-23703),LiH (mp-23703),KH (mp-24084),KH (mp-24084),CsH (mp-1057286),
+NaI (mp-23268),LiI (mp-570935),NaBr (mp-22916),NaBr (mp-22916),NaBr (mp-22916),LiI (mp-570935),LiI (mp-570935),LiI (mp-570935),KI (mp-22898),KI (mp-22898),CsI (mp-614603),NaBr (mp-22916)
+NiO (mp-19009),CoO (mp-22408),CoO (mp-22408),CoO (mp-22408),ZnO (mp-2133),CoO (mp-22408),CoO (mp-22408),CoO (mp-22408),CoO (mp-22408),CoO (mp-22408),SrO (mp-2472),VO (mp-19184)
+PbS (mp-21276),CdS (mp-672),PbSe (mp-2201),PbSe (mp-2201),PbSe (mp-2201),CdS (mp-672),PbSe (mp-2201),PbSe (mp-2201),PbSe (mp-2201),HgS (mp-634),HgS (mp-634),PbSe (mp-2201)
+PbSe (mp-2201),TePb (mp-19717),PbS (mp-21276),PbS (mp-21276),PbS (mp-21276),TePb (mp-19717),PbS (mp-21276),PbS (mp-21276),PbS (mp-21276),HgSe (mp-1018722),HgSe (mp-1018722),PbS (mp-21276)
+RbAu (mp-30373),CsAu (mp-2667),CsAu (mp-2667),CsAu (mp-2667),CsAu (mp-2667),CsAu (mp-2667),CsAu (mp-2667),CsAu (mp-2667),CsAu (mp-2667),CsAu (mp-2667),RbF (mp-2064),
+RbBr (mp-22867),RbCl (mp-23295),CsBr (mp-571222),CsBr (mp-571222),CsBr (mp-571222),RbCl (mp-23295),KBr (mp-23251),KBr (mp-23251),CsBr (mp-571222),CsBr (mp-571222),LiBr (mp-23259),RbI (mp-22903)
+RbCl (mp-23295),RbBr (mp-22867),CsCl (mp-573697),CsCl (mp-573697),CsCl (mp-573697),RbBr (mp-22867),KCl (mp-23193),KCl (mp-23193),CsCl (mp-573697),CsCl (mp-573697),LiCl (mp-22905),RbI (mp-22903)
+RbF (mp-2064),CsF (mp-1784),CsF (mp-1784),CsF (mp-1784),CsF (mp-1784),CsF (mp-1784),KF (mp-463),KF (mp-463),CsF (mp-1784),CsF (mp-1784),LiF (mp-1138),RbCl (mp-23295)
+RbH (mp-24721),CsH (mp-1057286),CsH (mp-1057286),CsH (mp-1057286),CsH (mp-1057286),CsH (mp-1057286),KH (mp-24084),KH (mp-24084),CsH (mp-1057286),CsH (mp-1057286),LiH (mp-23703),
+RbI (mp-22903),CsI (mp-614603),CsI (mp-614603),CsI (mp-614603),CsI (mp-614603),CsI (mp-614603),KI (mp-22898),KI (mp-22898),CsI (mp-614603),CsI (mp-614603),LiI (mp-570935),RbBr (mp-22867)
+SnTe (mp-1883),ZnTe (mp-2176),GeTe (mp-938),GeTe (mp-938),GeTe (mp-938),ZnTe (mp-2176),GeTe (mp-938),ZnTe (mp-2176),CdTe (mp-406),GeTe (mp-938),BeTe (mp-252),
+SrO (mp-2472),BaO (mp-1342),BaO (mp-1342),BaO (mp-1342),BaO (mp-1342),CaO (mp-2605),CaO (mp-2605),CaO (mp-2605),BaO (mp-1342),BaO (mp-1342),MgO (mp-1265),SrS (mp-1087)
+SrS (mp-1087),BaS (mp-1500),BaS (mp-1500),BaS (mp-1500),BaS (mp-1500),CaS (mp-1672),SrSe (mp-2758),CaS (mp-1672),BaS (mp-1500),BaS (mp-1500),MgS (mp-1315),SrSe (mp-2758)
+SrSe (mp-2758),BaSe (mp-1253),BaSe (mp-1253),BaSe (mp-1253),BaSe (mp-1253),CaSe (mp-1415),SrS (mp-1087),CaSe (mp-1415),BaSe (mp-1253),BaSe (mp-1253),MgSe (mp-1018040),SrS (mp-1087)
+SrTe (mp-1958),BaTe (mp-1000),BaTe (mp-1000),BaTe (mp-1000),BaTe (mp-1000),CaTe (mp-1519),CaTe (mp-1519),CaTe (mp-1519),BaTe (mp-1000),BaTe (mp-1000),MgTe (mp-1039),
+TbN (mp-2117),DyN (mp-1410),DyN (mp-1410),DyN (mp-1410),ErN (mp-19830),DyN (mp-1410),DyN (mp-1410),DyN (mp-1410),DyN (mp-1410),DyN (mp-1410),AlN (mp-661),TmN (mp-1975)
+TePb (mp-19717),PbSe (mp-2201),PbSe (mp-2201),PbSe (mp-2201),SrTe (mp-1958),PbSe (mp-2201),SnTe (mp-1883),CdTe (mp-406),HgTe (mp-358),HgTe (mp-358),HgTe (mp-358),
+TlBr (mp-568560),TlCl (mp-569639),TlI (mp-571102),TlI (mp-571102),TlI (mp-571102),TlCl (mp-569639),TlCl (mp-569639),TlI (mp-571102),TlCl (mp-569639),TlI (mp-571102),LiBr (mp-23259),TlI (mp-571102)
+TlCl (mp-569639),TlBr (mp-568560),TlF (mp-720),TlF (mp-720),TlF (mp-720),TlBr (mp-568560),TlI (mp-571102),TlF (mp-720),TlBr (mp-568560),TlF (mp-720),LiCl (mp-22905),TlI (mp-571102)
+TlF (mp-720),TlCl (mp-569639),TlCl (mp-569639),TlCl (mp-569639),TlCl (mp-569639),TlCl (mp-569639),KF (mp-463),TlCl (mp-569639),TlCl (mp-569639),TlCl (mp-569639),LiF (mp-1138),TlCl (mp-569639)
+TlI (mp-571102),CsI (mp-614603),TlBr (mp-568560),TlBr (mp-568560),TlBr (mp-568560),CsI (mp-614603),TlCl (mp-569639),TlBr (mp-568560),TlBr (mp-568560),TlBr (mp-568560),LiI (mp-570935),TlBr (mp-568560)
+TmN (mp-1975),HoN (mp-883),LuN (mp-1102),LuN (mp-1102),LuN (mp-1102),HoN (mp-883),ErN (mp-19830),ErN (mp-19830),HoN (mp-883),ErN (mp-19830),ErN (mp-19830),TbN (mp-2117)
+VO (mp-19184),HgO (mp-1224),MnO (mp-19006),CoO (mp-22408),CoO (mp-22408),HgO (mp-1224),BaO (mp-1342),MnO (mp-19006),MnO (mp-19006),MnO (mp-19006),YbO (mp-1216),NiO (mp-19009)
+YN (mp-2114),HoN (mp-883),TbN (mp-2117),TbN (mp-2117),TbN (mp-2117),HoN (mp-883),GaN (mp-804),DyN (mp-1410),TbN (mp-2117),LuN (mp-1102),LuN (mp-1102),TbN (mp-2117)
+YbO (mp-1216),YbS (mp-1820),YbS (mp-1820),HgO (mp-1224),HgO (mp-1224),YbS (mp-1820),YbS (mp-1820),CaO (mp-2605),YbS (mp-1820),YbS (mp-1820),CaO (mp-2605),YbS (mp-1820)
+YbS (mp-1820),YbSe (mp-286),YbSe (mp-286),YbSe (mp-286),YbSe (mp-286),YbSe (mp-286),YbSe (mp-286),CaS (mp-1672),YbSe (mp-286),YbO (mp-1216),CaS (mp-1672),YbSe (mp-286)
+YbSe (mp-286),YbTe (mp-1779),YbS (mp-1820),YbS (mp-1820),YbS (mp-1820),YbTe (mp-1779),YbS (mp-1820),CaSe (mp-1415),YbS (mp-1820),YbTe (mp-1779),CaSe (mp-1415),YbS (mp-1820)
+YbTe (mp-1779),YbSe (mp-286),YbSe (mp-286),YbSe (mp-286),YbSe (mp-286),YbSe (mp-286),ZnTe (mp-2176),CaTe (mp-1519),YbSe (mp-286),YbSe (mp-286),CaTe (mp-1519),
+ZnO (mp-2133),MgO (mp-1265),NiO (mp-19009),NiO (mp-19009),NiO (mp-19009),MgO (mp-1265),YbO (mp-1216),ZnSe (mp-1190),ZnSe (mp-1190),ZnSe (mp-1190),MgO (mp-1265),ZnSe (mp-1190)
+ZnSe (mp-1190),ZnTe (mp-2176),ZnTe (mp-2176),ZnTe (mp-2176),ZnTe (mp-2176),ZnTe (mp-2176),CdSe (mp-2691),ZnO (mp-2133),CdSe (mp-2691),CdSe (mp-2691),MgSe (mp-1018040),CdSe (mp-2691)
+ZnTe (mp-2176),ZnSe (mp-1190),ZnSe (mp-1190),ZnSe (mp-1190),ZnSe (mp-1190),ZnSe (mp-1190),CdTe (mp-406),CdTe (mp-406),CdTe (mp-406),CdTe (mp-406),MgTe (mp-1039),

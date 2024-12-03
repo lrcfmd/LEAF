@@ -1,0 +1,97 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_427477-ICSD
+_database_code_ICSD 427477
+_audit_creation_date 2014-08-01
+_chemical_name_common 'Europium fluoride chloride (7/12/2)'
+_chemical_formula_structural 'Eu7 F12 Cl2'
+_chemical_formula_sum 'Cl2 Eu7 F12'
+_chemical_name_structure_type Ba7Cl2F12
+_exptl_crystal_density_diffrn 6.63
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Two ternary mixed-anion chlorides with divalent europium: Eu2 H3 Cl and Eu7
+F12 Cl2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2014
+640 1254 1259 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Reckeweg, Olaf'
+primary 'DiSalvo, Francis J.'
+primary 'Wolf, Sarah'
+primary 'Schleid, Thomas'
+_cell_length_a 10.0231(5)
+_cell_length_b 10.0231(5)
+_cell_length_c 3.9254(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 341.52
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P -6'
+_space_group_IT_number 174
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+y, -x, -z'
+2 '-y, x-y, -z'
+3 'x, y, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Eu2+ 2
+F1- -1
+Cl1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Eu1 Eu2+ 1 a 0. 0. 0. 0.0156(2) 1
+Eu2 Eu2+ 3 j 0.40924(7) 0.11002(7) 0. 0.00745(18) 1
+Eu3 Eu2+ 3 k 0.28747(7) 0.40084(7) 0.5 0.00651(17) 1
+F1 F1- 3 j 0.1222(8) 0.2754(9) 0. 0.0115(14) 1
+F2 F1- 3 j 0.4290(9) 0.3678(9) 0. 0.0123(16) 1
+F3 F1- 3 k 0.0472(8) 0.4371(8) 0.5 0.0098(15) 1
+F4 F1- 3 k 0.2183(9) 0.1213(9) 0.5 0.0180(16) 1
+Cl1 Cl1- 1 c 0.3333 0.6667 0. 0.0120(11) 1
+Cl2 Cl1- 1 f 0.6667 0.3333 0.5 0.0082(10) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu1 Eu2+ 0.0113(3) 0.0113(3) 0.0242(5) 0.00566(15) 0. 0.
+Eu2 Eu2+ 0.0078(3) 0.0058(3) 0.0081(3) 0.0029(2) 0. 0.
+Eu3 Eu2+ 0.0061(3) 0.0072(3) 0.0064(3) 0.0035(2) 0. 0.
+F1 F1- 0.005(3) 0.015(3) 0.014(3) 0.004(3) 0. 0.
+F2 F1- 0.012(4) 0.009(3) 0.016(4) 0.006(3) 0. 0.
+F3 F1- 0.006(3) 0.010(4) 0.012(4) 0.003(3) 0. 0.
+F4 F1- 0.021(4) 0.014(4) 0.022(4) 0.011(3) 0. 0.
+Cl1 Cl1- 0.0112(14) 0.0112(14) 0.014(3) 0.0056(7) 0. 0.
+Cl2 Cl1- 0.0087(13) 0.0087(13) 0.007(2) 0.0043(6) 0. 0.
+#End of TTdata_427477-ICSD
+#

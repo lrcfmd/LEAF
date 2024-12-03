@@ -1,0 +1,97 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_247558-ICSD
+_database_code_ICSD 247558
+_audit_creation_date 2011-02-01
+_chemical_name_common 'Lithium trimagnesium tris(vanadomolybdate(VI))'
+_chemical_formula_structural '(Li Mg3) (Mo0.667 V0.333 O4)3'
+_chemical_formula_sum 'Li1 Mg3 Mo2.001 O12 V0.999'
+_chemical_name_structure_type Lyonsite#Li3Fe(MoO4)3
+_exptl_crystal_density_diffrn 3.66
+_diffrn_ambient_temperature 295.
+_citation_title
+
+;
+Synthesis, structural characterization and Li+ ion conductivity of a new
+vanado-molybdate phase, Li Mg3 V Mo2 O12
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2010 183 2589 2597 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Gillie, L.J.'
+primary 'de Souza, S.A.'
+primary 'Sheptyakov, D.'
+primary 'Reeves-McLaren, N.'
+primary 'Pasero, D.'
+primary 'West, A.R.'
+_cell_length_a 5.09044(6)
+_cell_length_b 10.42539(10)
+_cell_length_c 17.58204(19)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 933.08
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+V5+ 5
+Mo6+ 6
+V5+ 5
+Li1+ 1
+Mg2+ 2
+Li1+ 1
+Mg2+ 2
+Li1+ 1
+Mg2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Mo1 Mo6+ 8 d 0.27513(7) 0.52742(7) 0.65688(7) 0.0097(4) 0.718(2)
+V1 V5+ 8 d 0.27513(7) 0.52742(7) 0.65688(7) 0.0097(4) 0.282(1)
+Mo2 Mo6+ 4 c 0.7216(1) 0.75 0.0561(1) 0.0097(4) 0.564(4)
+V2 V5+ 4 c 0.7216(1) 0.75 0.0561(1) 0.0097(4) 0.436(4)
+Li1 Li1+ 4 c 0.2624(6) 0.25 0.29796(6) 0.0150(5) 0.530(5)
+Mg1 Mg2+ 4 c 0.2624(6) 0.25 0.29796(6) 0.0150(5) 0.470(5)
+Li2 Li1+ 8 d 0.7539(3) 0.5755(1) 0.5273(1) 0.0150(5) 0.110(2)
+Mg2 Mg2+ 8 d 0.7539(3) 0.5755(1) 0.5273(1) 0.0150(5) 0.890(2)
+Li3 Li1+ 4 c 0.4001(3) 0.75 0.2514(3) 0.0150(5) 0.25
+Mg3 Mg2+ 4 c 0.4001(3) 0.75 0.2514(3) 0.0150(5) 0.75
+O1 O2- 4 c 0.6436(7) 0.75 0.1526(2) 0.0123(2) 1.
+O2 O2- 4 c 0.4397(7) 0.75 0.9938(2) 0.0123(2) 1.
+O3 O2- 8 d 0.9146(5) 0.6171(2) 0.0343(1) 0.0123(2) 1.
+O4 O2- 8 d 0.0854(5) 0.4926(2) 0.5749(1) 0.0123(2) 1.
+O5 O2- 8 d 0.0764(5) 0.6256(2) 0.7053(2) 0.0123(2) 1.
+O6 O2- 8 d 0.3506(4) 0.3872(2) 0.70532(2) 0.0123(2) 1.
+O7 O2- 8 d 0.5630(5) 0.6139(2) 0.6267(1) 0.0123(2) 1.
+#End of TTdata_247558-ICSD

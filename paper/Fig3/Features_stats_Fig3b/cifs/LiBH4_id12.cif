@@ -1,0 +1,91 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_245568-ICSD
+_database_code_ICSD 245568
+_audit_creation_date 2008-02-01
+_chemical_name_common 'Lithium tetrahydridoborate'
+_chemical_formula_structural 'Li (B H4)'
+_chemical_formula_sum 'H4 B1 Li1'
+_chemical_name_structure_type LiBH4
+_exptl_crystal_density_diffrn 0.66
+_diffrn_ambient_temperature 360.
+_citation_title
+
+;
+Structure and vibrational dynamics of isotypically labeled lithium borohydride
+using neutron diffraction and spectroscopy
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2007 180 1298 1305 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Hartman, M.R.'
+primary 'Rush, J.J.'
+primary 'Udovic, T.J.'
+primary 'Bowman, R.C.jr.'
+primary 'Hwang Song-Jong'
+_cell_length_a 7.1914(5)
+_cell_length_b 4.4256(3)
+_cell_length_c 6.8641(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 218.46
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+B3+ 3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 4 c 0.1651(2) 0.25 0.1082(22) . 1.
+B1 B3+ 4 c 0.2987(9) 0.25 0.4288(10) . 1.
+H1 H1- 4 c 0.3973(17) 0.25 0.5670(22) . 1.
+H2 H1- 4 c 0.3972(22) 0.25 0.2846(19) . 1.
+H3 H1- 8 d 0.1989(11) 0.0372(15) 0.4270(16) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.076(15) 0.045(10) 0.034(10) 0. -0.0046(71) 0.
+B1 B3+ 0.061(4) 0.043(3) 0.045(3) 0. -0.0094(43) 0.
+H1 H1- 0.081(8) 0.095(8) 0.059(6) 0. 0.012(9) 0.
+H2 H1- 0.087(13) 0.192(15) 0.049(7) 0. 0.025(9) 0.
+H3 H1- 0.086(7) 0.089(6) 0.142(8) -0.038(6) 0.044(7) 0.032(7)
+#End of TTdata_245568-ICSD
+#

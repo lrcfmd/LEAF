@@ -1,0 +1,91 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_257946-ICSD
+_database_code_ICSD 257946
+_audit_creation_date 2018-02-01
+_chemical_name_common 'Lithium tin silicon phosphorous sulfide'
+_chemical_formula_structural 'Li10.35 (Sn0.27 Si1.08) P1.65 S12'
+_chemical_formula_sum 'Li10.35 P1.65 S12 Si1.08 Sn0.27'
+_chemical_name_structure_type Li10GeP2S12-frame#LGPS-type
+_exptl_crystal_density_diffrn 2.
+_citation_title
+
+;
+Superionic conductors: Li10+delta[SnySi1-y]1+deltaP2-deltaS12 with a
+Li10GeP2S12-type structure in the Li3PS4-Li4SnS4-Li4SiS4 quasi-ternary system
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2017 29 5858 5864 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Sun, Yulong'
+primary 'Suzuki, Kota'
+primary 'Hori, Satoshi'
+primary 'Hirayama, Masaaki'
+primary 'Kanno, Ryoji'
+_cell_length_a 8.67822(5)
+_cell_length_b 8.67822(5)
+_cell_length_c 12.5744(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 946.99
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 42/n m c S'
+_space_group_IT_number 137
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y+1/2, -x+1/2, z+1/2'
+2 'y+1/2, x+1/2, z+1/2'
+3 '-y, -x, -z'
+4 'y, x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 'y, -x, -z'
+8 '-y, x, -z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, -y, z'
+12 '-x, y, z'
+13 '-x+1/2, -y+1/2, -z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Sn4+ 4
+Si4+ 4
+P5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 16 h 0.239(2) 0.272(3) 0.1880(17) 8.52 0.473
+Li2 Li1+ 4 d 0. 0.5 0.9406(16) 4.73 1.
+Li3 Li1+ 8 f 0.2424(13) 0.2424(13) 0. 9.31 0.75
+Li4 Li1+ 4 c 0. 0. 0.2455(19) 6.07 0.77
+Sn1 Sn4+ 4 d 0. 0.5 0.6903(2) 1.80(6) 0.135
+Si1 Si4+ 4 d 0. 0.5 0.6903(2) 1.80(6) 0.54
+P1 P5+ 4 d 0. 0.5 0.6903(2) 1.80(6) 0.325
+P2 P5+ 2 b 0. 0. 0.5 1.80(9) 1.
+S1 S2- 8 g 0. 0.1887(2) 0.4072(2) 2.81(5) 1.
+S2 S2- 8 g 0. 0.2965(2) 0.0984(2) 2.31(5) 1.
+S3 S2- 8 g 0. 0.6988(2) 0.7911(2) 2.07(5) 1.
+#End of TTdata_257946-ICSD

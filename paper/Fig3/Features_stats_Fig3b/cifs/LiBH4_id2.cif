@@ -1,0 +1,125 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251870-ICSD
+_database_code_ICSD 251870
+_audit_creation_date 2016-02-01
+_chemical_name_common 'Yttrium tris(tetrahydridoborate) heptaammine'
+_chemical_formula_structural 'Y (B H4)3 (N H3)7'
+_chemical_formula_sum 'H33 B3 N7 Y1'
+_exptl_crystal_density_diffrn 0.97
+_diffrn_ambient_temperature 298.
+_citation_title
+
+;
+Trends in syntheses, structures, and properties for three series of ammine
+rare-earth metal borohydrides, M(BH4)3 * nNH3 (M = Y, Gd, and Dy)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 7402 7414 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Jepsen, Lars H.'
+primary 'Ley, Morten B.'
+primary 'Cerny, Radovan'
+primary 'Lee, Young-Su'
+primary 'Cho, Young Whan'
+primary 'Ravnsbaek, Dorthe'
+primary 'Besenbacher, Flemming'
+primary 'Skibsted, Joergen'
+primary 'Jensen, Torben R.'
+_cell_length_a 14.9569(7)
+_cell_length_b 8.4111(4)
+_cell_length_c 13.8122(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1737.62
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P c a 21'
+_space_group_IT_number 29
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y, z'
+2 '-x+1/2, y, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+B3+ 3
+H1+ 1
+H1- -1
+H1+ 1
+H1- -1
+H1+ 1
+H1- -1
+H1+ 1
+H1- -1
+H1+ 1
+H1- -1
+N3- -3
+Y3+ 3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+B1 B3+ 4 a 0.5851 0.1867 0.4077 . 1.
+B2 B3+ 4 a 0.2462 0.2321 0.7268 . 1.
+B3 B3+ 4 a -0.0857 0.3208 0.5529 . 1.
+H1 H1+ 4 a 0.7685 0.2125 0.618 . 1.
+H2 H1+ 4 a 0.0349 0.2416 0.0437 . 1.
+H3 H1+ 4 a 0.2582 0.8202 0.3541 . 1.
+H4 H1- 4 a 0.5781 0.092 0.4756 . 1.
+H5 H1- 4 a 0.3042 0.1284 0.7218 . 1.
+H6 H1- 4 a -0.0228 0.385 0.5102 . 1.
+H7 H1+ 4 a 0.6588 0.5555 0.8029 . 1.
+H8 H1+ 4 a 0.0965 0.2743 0.3187 . 1.
+H9 H1+ 4 a 0.1777 0.4705 0.6184 . 1.
+H10 H1+ 4 a 0.4026 0.1096 0.1978 . 1.
+H11 H1- 4 a -0.0809 0.3491 0.6399 . 1.
+H12 H1+ 4 a 0.0718 0.4623 0.5882 . 1.
+H13 H1+ 4 a 0.6895 0.1225 0.5564 . 1.
+H14 H1+ 4 a 0.3122 -0.0136 0.3376 . 1.
+H15 H1+ 4 a 0.056 0.1053 0.3556 . 1.
+H16 H1+ 4 a 0.1062 0.2225 0.1359 . 1.
+H17 H1+ 4 a 0.5516 0.5608 0.8242 . 1.
+H18 H1- 4 a 0.5148 0.2616 0.3987 . 1.
+H19 H1- 4 a 0.2034 0.2342 0.6506 . 1.
+H20 H1+ 4 a 0.5 0.0798 0.2492 . 1.
+H21 H1+ 4 a 0.4906 0.0669 0.1323 . 1.
+H22 H1+ 4 a 0.1369 0.5902 0.5334 . 1.
+H23 H1+ 4 a 0.0691 0.3982 0.1044 . 1.
+H24 H1+ 4 a 0.3502 0.8522 0.4155 . 1.
+H25 H1+ 4 a 0.7363 0.0331 0.6502 . 1.
+H26 H1- 4 a -0.082 0.1759 0.539 . 1.
+H27 H1- 4 a 0.2815 0.3627 0.74 . 1.
+H28 H1- 4 a 0.6473 0.2804 0.4226 . 1.
+H29 H1+ 4 a 0.6153 0.4515 0.8927 . 1.
+H30 H1+ 4 a 0.0202 0.2702 0.4057 . 1.
+H31 H1- 4 a 0.8437 0.3743 0.5201 . 1.
+H32 H1- 4 a 0.1966 0.2017 0.7956 . 1.
+H33 H1- 4 a 0.602 0.1134 0.3328 . 1.
+N1 N3- 4 a 0.0499 0.2813 0.1123 . 1.
+N2 N3- 4 a 0.4584 0.0375 0.1955 . 1.
+N3 N3- 4 a 0.7131 0.1411 0.6256 . 1.
+N4 N3- 4 a 0.6053 0.4843 0.8216 . 1.
+N5 N3- 4 a 0.1238 0.5402 0.6001 . 1.
+N6 N3- 4 a 0.3218 0.8664 0.3481 . 1.
+N7 N3- 4 a 0.0379 0.2209 0.3402 . 1.
+Y1 Y3+ 4 a 0.0838 0.7518 0.7164 . 1.
+#End of TTdata_251870-ICSD
+#

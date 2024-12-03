@@ -1,0 +1,93 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_26817-ICSD
+_database_code_ICSD 26817
+_audit_creation_date 1980-01-01
+_audit_update_record 2023-02-01
+_chemical_name_common 'Lithium almuminium catena-disilicate'
+_chemical_formula_structural 'Li Al (Si2 O6)'
+_chemical_formula_sum 'Al1 Li1 O6 Si2'
+_chemical_name_structure_type LiAlSi2O6
+_chemical_name_mineral Spodumene-II
+_exptl_crystal_density_diffrn 2.37
+_citation_title 'The crystal structure of LiAlSi2O6-II (beta-spodumene)'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie' 1968 126 46 65 ZEKRDZ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Li Chi-Tang'
+primary 'Peacor, D.R.'
+_cell_length_a 7.541(1)
+_cell_length_b 7.541(1)
+_cell_length_c 9.156(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 520.67
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 43 21 2'
+_space_group_IT_number 96
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, -z+1/4'
+2 '-x+1/2, y+1/2, -z+3/4'
+3 '-y, -x, -z+1/2'
+4 'y, x, -z'
+5 'y+1/2, -x+1/2, z+1/4'
+6 '-y+1/2, x+1/2, z+3/4'
+7 '-x, -y, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+Al3+ 3
+Si4+ 4
+Al3+ 3
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Si1 Si4+ 8 b 0.3323(2) 0.1221(2) 0.2384(2) . 0.6667
+Al1 Al3+ 8 b 0.3323(2) 0.1221(2) 0.2384(2) . 0.3333
+Si2 Si4+ 4 a 0.4178(3) 0.4178(3) 0 . 0.6667
+Al2 Al3+ 4 a 0.4178(3) 0.4178(3) 0 . 0.3333
+O1 O2- 8 b 0.4432(9) 0.1207(8) 0.3931(6) . 1.
+O2 O2- 8 b 0.1245(7) 0.1159(7) 0.2994(6) . 1.
+O3 O2- 8 b 0.3637(9) 0.3046(9) 0.1459(7) . 1.
+Li1 Li1+ 8 b 0.0705(54) 0.1953(62) 0.5011(45) . 0.5
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_beta_11
+_atom_site_aniso_beta_22
+_atom_site_aniso_beta_33
+_atom_site_aniso_beta_12
+_atom_site_aniso_beta_13
+_atom_site_aniso_beta_23
+Si1 Si4+ 0.0012(3) 0.0013(3) 0.0002(2) 0.0001(3) 0.0002(2) -.0003(2)
+Al1 Al3+ 0.0012(3) 0.0013(3) 0.0002(2) 0.0001(3) 0.0002(2) -.0003(2)
+Si2 Si4+ 0.0011(2) 0.0011(2) 0.0005(3) -.0003(3) -.0005(2) 0.0005(2)
+Al2 Al3+ 0.0011(2) 0.0011(2) 0.0005(3) -.0003(3) -.0005(2) 0.0005(2)
+O1 O2- 0.0102(12) 0.0091(11) 0.0037(6) -.0022(9) -.0044(8) 0.0008(8)
+O2 O2- 0.0031(9) 0.0080(12) 0.0020(6) 0.0006(8) 0.0000(6) -.0006(6)
+O3 O2- 0.0129(13) 0.0080(12) 0.0068(8) 0.0006(11) 0.0033(10) 0.0033(8)
+Li1 Li1+ 0.0195(76) 0.0245(97) 0.0083(44) -.0130(72) 0.0066(59) -.0091(63)
+#End of TTdata_26817-ICSD
+#

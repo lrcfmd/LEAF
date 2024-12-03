@@ -1,0 +1,97 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_253757-ICSD
+_database_code_ICSD 253757
+_audit_creation_date 2018-02-01
+_chemical_name_common 'Holmium nitridophosphate oxide'
+_chemical_formula_structural 'Ho3 (P N4) O'
+_chemical_formula_sum 'Ho3 N4 O1 P1'
+_chemical_name_structure_type Perovskite-anti#Cs3(CoCl4)Cl
+_exptl_crystal_density_diffrn 9.33
+_diffrn_ambient_temperature 123.
+_citation_title
+'Antiperovskite nitridophosphate oxide Ho3[PN4]O by high-pressure metathesis'
+_publ_section_comment 'Cell and Type only determined'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2017 2017 1930 1937 EJICFO
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Kloss, Simon D.'
+primary 'Weidmann, Niels'
+primary 'Schnick, Wolfgang'
+_cell_length_a 6.34898(3)
+_cell_length_b 6.34898(3)
+_cell_length_c 10.55186(8)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 425.34
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'I 4/m c m'
+_space_group_IT_number 140
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y, x, -z+1/2'
+2 '-y, -x, -z+1/2'
+3 '-y, x, -z'
+4 'y, -x, -z'
+5 'x, -y, -z+1/2'
+6 '-x, y, -z+1/2'
+7 'x, y, -z'
+8 '-x, -y, -z'
+9 '-y, -x, z+1/2'
+10 'y, x, z+1/2'
+11 'y, -x, z'
+12 '-y, x, z'
+13 '-x, y, z+1/2'
+14 'x, -y, z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+17 'y+1/2, x+1/2, -z'
+18 '-y+1/2, -x+1/2, -z'
+19 '-y+1/2, x+1/2, -z+1/2'
+20 'y+1/2, -x+1/2, -z+1/2'
+21 'x+1/2, -y+1/2, -z'
+22 '-x+1/2, y+1/2, -z'
+23 'x+1/2, y+1/2, -z+1/2'
+24 '-x+1/2, -y+1/2, -z+1/2'
+25 '-y+1/2, -x+1/2, z'
+26 'y+1/2, x+1/2, z'
+27 'y+1/2, -x+1/2, z+1/2'
+28 '-y+1/2, x+1/2, z+1/2'
+29 '-x+1/2, y+1/2, z'
+30 'x+1/2, -y+1/2, z'
+31 '-x+1/2, -y+1/2, z+1/2'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ho3+ 3
+P5+ 5
+O2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ho1 Ho3+ 4 a 0 0 0.25 . 1.
+Ho2 Ho3+ 8 h 0.176 0.676 0 . 1.
+P1 P5+ 4 b 0 0.5 0.25 . 1.
+O1 O2- 4 c 0 0 0 . 1.
+N1 N3- 16 l 0.64 0.14 0.15 . 1.
+#End of TTdata_253757-ICSD
+#

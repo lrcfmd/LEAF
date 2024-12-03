@@ -1,0 +1,259 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_241906-ICSD
+_database_code_ICSD 241906
+_audit_creation_date 2017-08-01
+_chemical_name_common 'Cerium tris(boron tetrahydride)'
+_chemical_formula_structural 'Ce (B H4)3'
+_chemical_formula_sum 'H12 B3 Ce1'
+_chemical_name_structure_type β−Y(BH4)3_(HT)
+_exptl_crystal_density_diffrn 1.53
+_diffrn_ambient_temperature 453.
+_citation_title
+
+;
+From M (B H4)3 (M = La, Ce) borohydride frameworks to controllable synthesis
+of porous hydrides and ion conductors
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 9748 9756 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Ley, Morten Brix'
+primary 'Joergensen, Mathias'
+primary 'Cerny, Radovan'
+primary 'Filinchuk, Yaroslav'
+primary 'Jensen, Torben R.'
+_cell_length_a 11.7106(6)
+_cell_length_b 11.7106(6)
+_cell_length_c 11.7106(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1605.97
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'F m -3 c'
+_space_group_IT_number 226
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y+1/2, x, z'
+2 'y+1/2, x, -z'
+3 'y+1/2, -x, z'
+4 '-y+1/2, -x, -z'
+5 '-z, x, y'
+6 'z, x, -y'
+7 'z, -x, y'
+8 '-z, -x, -y'
+9 'z, -y+1/2, x'
+10 '-z, y+1/2, x'
+11 'z, y+1/2, -x'
+12 '-z, -y+1/2, -x'
+13 'y, -z, x'
+14 '-y, z, x'
+15 'y, z, -x'
+16 '-y, -z, -x'
+17 'x, z, -y+1/2'
+18 'x, -z, y+1/2'
+19 '-x, z, y+1/2'
+20 '-x, -z, -y+1/2'
+21 'x, y, -z'
+22 'x, -y, z'
+23 '-x, y, z'
+24 '-x, -y, -z'
+25 'y+1/2, -x, -z'
+26 '-y+1/2, -x, z'
+27 '-y+1/2, x, -z'
+28 'y+1/2, x, z'
+29 'z, -x, -y'
+30 '-z, -x, y'
+31 '-z, x, -y'
+32 'z, x, y'
+33 '-z, y+1/2, -x'
+34 'z, -y+1/2, -x'
+35 '-z, -y+1/2, x'
+36 'z, y+1/2, x'
+37 '-y, z, -x'
+38 'y, -z, -x'
+39 '-y, -z, x'
+40 'y, z, x'
+41 '-x, -z, y+1/2'
+42 '-x, z, -y+1/2'
+43 'x, -z, -y+1/2'
+44 'x, z, y+1/2'
+45 '-x, -y, z'
+46 '-x, y, -z'
+47 'x, -y, -z'
+48 'x, y, z'
+49 '-y+1/2, x+1/2, z+1/2'
+50 'y+1/2, x+1/2, -z+1/2'
+51 'y+1/2, -x+1/2, z+1/2'
+52 '-y+1/2, -x+1/2, -z+1/2'
+53 '-z, x+1/2, y+1/2'
+54 'z, x+1/2, -y+1/2'
+55 'z, -x+1/2, y+1/2'
+56 '-z, -x+1/2, -y+1/2'
+57 'z, -y, x+1/2'
+58 '-z, y, x+1/2'
+59 'z, y, -x+1/2'
+60 '-z, -y, -x+1/2'
+61 'y, -z+1/2, x+1/2'
+62 '-y, z+1/2, x+1/2'
+63 'y, z+1/2, -x+1/2'
+64 '-y, -z+1/2, -x+1/2'
+65 'x, z+1/2, -y'
+66 'x, -z+1/2, y'
+67 '-x, z+1/2, y'
+68 '-x, -z+1/2, -y'
+69 'x, y+1/2, -z+1/2'
+70 'x, -y+1/2, z+1/2'
+71 '-x, y+1/2, z+1/2'
+72 '-x, -y+1/2, -z+1/2'
+73 'y+1/2, -x+1/2, -z+1/2'
+74 '-y+1/2, -x+1/2, z+1/2'
+75 '-y+1/2, x+1/2, -z+1/2'
+76 'y+1/2, x+1/2, z+1/2'
+77 'z, -x+1/2, -y+1/2'
+78 '-z, -x+1/2, y+1/2'
+79 '-z, x+1/2, -y+1/2'
+80 'z, x+1/2, y+1/2'
+81 '-z, y, -x+1/2'
+82 'z, -y, -x+1/2'
+83 '-z, -y, x+1/2'
+84 'z, y, x+1/2'
+85 '-y, z+1/2, -x+1/2'
+86 'y, -z+1/2, -x+1/2'
+87 '-y, -z+1/2, x+1/2'
+88 'y, z+1/2, x+1/2'
+89 '-x, -z+1/2, y'
+90 '-x, z+1/2, -y'
+91 'x, -z+1/2, -y'
+92 'x, z+1/2, y'
+93 '-x, -y+1/2, z+1/2'
+94 '-x, y+1/2, -z+1/2'
+95 'x, -y+1/2, -z+1/2'
+96 'x, y+1/2, z+1/2'
+97 '-y, x, z+1/2'
+98 'y, x, -z+1/2'
+99 'y, -x, z+1/2'
+100 '-y, -x, -z+1/2'
+101 '-z+1/2, x, y+1/2'
+102 'z+1/2, x, -y+1/2'
+103 'z+1/2, -x, y+1/2'
+104 '-z+1/2, -x, -y+1/2'
+105 'z+1/2, -y+1/2, x+1/2'
+106 '-z+1/2, y+1/2, x+1/2'
+107 'z+1/2, y+1/2, -x+1/2'
+108 '-z+1/2, -y+1/2, -x+1/2'
+109 'y+1/2, -z, x+1/2'
+110 '-y+1/2, z, x+1/2'
+111 'y+1/2, z, -x+1/2'
+112 '-y+1/2, -z, -x+1/2'
+113 'x+1/2, z, -y'
+114 'x+1/2, -z, y'
+115 '-x+1/2, z, y'
+116 '-x+1/2, -z, -y'
+117 'x+1/2, y, -z+1/2'
+118 'x+1/2, -y, z+1/2'
+119 '-x+1/2, y, z+1/2'
+120 '-x+1/2, -y, -z+1/2'
+121 'y, -x, -z+1/2'
+122 '-y, -x, z+1/2'
+123 '-y, x, -z+1/2'
+124 'y, x, z+1/2'
+125 'z+1/2, -x, -y+1/2'
+126 '-z+1/2, -x, y+1/2'
+127 '-z+1/2, x, -y+1/2'
+128 'z+1/2, x, y+1/2'
+129 '-z+1/2, y+1/2, -x+1/2'
+130 'z+1/2, -y+1/2, -x+1/2'
+131 '-z+1/2, -y+1/2, x+1/2'
+132 'z+1/2, y+1/2, x+1/2'
+133 '-y+1/2, z, -x+1/2'
+134 'y+1/2, -z, -x+1/2'
+135 '-y+1/2, -z, x+1/2'
+136 'y+1/2, z, x+1/2'
+137 '-x+1/2, -z, y'
+138 '-x+1/2, z, -y'
+139 'x+1/2, -z, -y'
+140 'x+1/2, z, y'
+141 '-x+1/2, -y, z+1/2'
+142 '-x+1/2, y, -z+1/2'
+143 'x+1/2, -y, -z+1/2'
+144 'x+1/2, y, z+1/2'
+145 '-y, x+1/2, z'
+146 'y, x+1/2, -z'
+147 'y, -x+1/2, z'
+148 '-y, -x+1/2, -z'
+149 '-z+1/2, x+1/2, y'
+150 'z+1/2, x+1/2, -y'
+151 'z+1/2, -x+1/2, y'
+152 '-z+1/2, -x+1/2, -y'
+153 'z+1/2, -y, x'
+154 '-z+1/2, y, x'
+155 'z+1/2, y, -x'
+156 '-z+1/2, -y, -x'
+157 'y+1/2, -z+1/2, x'
+158 '-y+1/2, z+1/2, x'
+159 'y+1/2, z+1/2, -x'
+160 '-y+1/2, -z+1/2, -x'
+161 'x+1/2, z+1/2, -y+1/2'
+162 'x+1/2, -z+1/2, y+1/2'
+163 '-x+1/2, z+1/2, y+1/2'
+164 '-x+1/2, -z+1/2, -y+1/2'
+165 'x+1/2, y+1/2, -z'
+166 'x+1/2, -y+1/2, z'
+167 '-x+1/2, y+1/2, z'
+168 '-x+1/2, -y+1/2, -z'
+169 'y, -x+1/2, -z'
+170 '-y, -x+1/2, z'
+171 '-y, x+1/2, -z'
+172 'y, x+1/2, z'
+173 'z+1/2, -x+1/2, -y'
+174 '-z+1/2, -x+1/2, y'
+175 '-z+1/2, x+1/2, -y'
+176 'z+1/2, x+1/2, y'
+177 '-z+1/2, y, -x'
+178 'z+1/2, -y, -x'
+179 '-z+1/2, -y, x'
+180 'z+1/2, y, x'
+181 '-y+1/2, z+1/2, -x'
+182 'y+1/2, -z+1/2, -x'
+183 '-y+1/2, -z+1/2, x'
+184 'y+1/2, z+1/2, x'
+185 '-x+1/2, -z+1/2, y+1/2'
+186 '-x+1/2, z+1/2, -y+1/2'
+187 'x+1/2, -z+1/2, -y+1/2'
+188 'x+1/2, z+1/2, y+1/2'
+189 '-x+1/2, -y+1/2, z'
+190 '-x+1/2, y+1/2, -z'
+191 'x+1/2, -y+1/2, -z'
+192 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ce3+ 3
+B3+ 3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ce1 Ce3+ 8 b 0 0 0 . 1.
+B1 B3+ 24 c 0 0 0.25 . 1.
+H1 H1- 96 i 0 0.4075(1) 0.3104(1) . 1.
+#End of TTdata_241906-ICSD
+#

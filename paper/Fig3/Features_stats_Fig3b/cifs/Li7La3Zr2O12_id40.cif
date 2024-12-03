@@ -1,0 +1,149 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_196425-ICSD
+_database_code_ICSD 196425
+_audit_creation_date 2016-08-01
+_chemical_name_common
+'Lithium-6.43 gallium-0.52 lanthanum-2.67 dizirconium dodecaoxide'
+_chemical_formula_structural 'Li6.43 Ga0.52 La2.67 Zr2 O12'
+_chemical_formula_sum 'Ga0.52 La2.67 Li6.43 O12 Zr2'
+_exptl_crystal_density_diffrn 5.03
+_diffrn_ambient_temperature 301.
+_citation_title
+
+;
+Symmetry reduction due to gallium substitution in the garnet Li6.43(2)
+Ga0.52(3) La2.67(4) Zr2 O12
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Crystallographic Communications'
+2016 72 287 289 ACSECI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Robben, Lars'
+primary 'Merzlyakova, Elena'
+primary 'Heitjans, Paul'
+primary 'Gesing, Thorsten M.'
+_cell_length_a 12.9681(15)
+_cell_length_b 12.9681(15)
+_cell_length_c 12.9681(15)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2180.87
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'I -4 3 d'
+_space_group_IT_number 220
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y+1/4, -x+3/4, z+3/4'
+2 'y+3/4, -x+1/4, -z+3/4'
+3 '-y+3/4, x+3/4, -z+1/4'
+4 'y+1/4, x+1/4, z+1/4'
+5 'z+1/2, -x+1/2, -y'
+6 '-z+1/2, -x, y+1/2'
+7 '-z, x+1/2, -y+1/2'
+8 'z, x, y'
+9 'z+3/4, -y+1/4, -x+3/4'
+10 '-z+3/4, y+3/4, -x+1/4'
+11 '-z+1/4, -y+3/4, x+3/4'
+12 'z+1/4, y+1/4, x+1/4'
+13 '-y, z+1/2, -x+1/2'
+14 'y+1/2, -z+1/2, -x'
+15 '-y+1/2, -z, x+1/2'
+16 'y, z, x'
+17 '-x+3/4, z+3/4, -y+1/4'
+18 '-x+1/4, -z+3/4, y+3/4'
+19 'x+3/4, -z+1/4, -y+3/4'
+20 'x+1/4, z+1/4, y+1/4'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+25 '-y+3/4, -x+1/4, z+1/4'
+26 'y+1/4, -x+3/4, -z+1/4'
+27 '-y+1/4, x+1/4, -z+3/4'
+28 'y+3/4, x+3/4, z+3/4'
+29 'z, -x, -y+1/2'
+30 '-z, -x+1/2, y'
+31 '-z+1/2, x, -y'
+32 'z+1/2, x+1/2, y+1/2'
+33 'z+1/4, -y+3/4, -x+1/4'
+34 '-z+1/4, y+1/4, -x+3/4'
+35 '-z+3/4, -y+1/4, x+1/4'
+36 'z+3/4, y+3/4, x+3/4'
+37 '-y+1/2, z, -x'
+38 'y, -z, -x+1/2'
+39 '-y, -z+1/2, x'
+40 'y+1/2, z+1/2, x+1/2'
+41 '-x+1/4, z+1/4, -y+3/4'
+42 '-x+3/4, -z+1/4, y+1/4'
+43 'x+1/4, -z+3/4, -y+1/4'
+44 'x+3/4, z+3/4, y+3/4'
+45 '-x, -y+1/2, z'
+46 '-x+1/2, y, -z'
+47 'x, -y, -z+1/2'
+48 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Ga3+ 3
+Zr4+ 4
+O2- -2
+Li1+ 1
+Ga3+ 3
+Li1+ 1
+Ga3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+La1 La3+ 24 d 0.62292(2) 0. 0.25 0.00746(2) 0.889(4)
+Ga1 Ga3+ 24 d 0.62292(2) 0. 0.25 0.00746(2) 0.111(4)
+Zr1 Zr4+ 16 c 0.25005(2) 0.25005(2) 0.25005(2) 0.00552(4) 1
+O1 O2- 48 e 0.19586(18) 0.28163(18) 0.10116(16) 0.0118(3) 1
+O2 O2- 48 e 0.46910(17) 0.55410(17) 0.65064(16) 0.0114(2) 1
+Li1 Li1+ 48 e 0.428(3) 0.593(2) 0.813(2) 0.029(5) 0.33333(14)
+Li2 Li1+ 48 e 0.642(3) 0.178(2) 0.065(2) 0.029(5) 0.33333(14)
+Ga2 Ga3+ 12 b 0.375 0.5 0.75 0.0061(4) 0.0857(12)
+Li3 Li1+ 12 b 0.375 0.5 0.75 0.0061(4) 0.743(4)
+Ga3 Ga3+ 12 a 0.25 0.375 0. 0.0110(9) 0.0403(12)
+Li4 Li1+ 12 a 0.25 0.375 0. 0.0110(9) 0.879(4)
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.00912(4) 0.00656(5) 0.00668(5) 0. 0. -0.00141(3)
+Ga1 Ga3+ 0.00912(4) 0.00656(5) 0.00668(5) 0. 0. -0.00141(3)
+Zr1 Zr4+ 0.00552(4) 0.00552(4) 0.00552(4) 0.00021(3) 0.00021(3) 0.00021(3)
+O1 O2- 0.0129(6) 0.0138(6) 0.0087(5) 0.0014(5) -0.0007(5) 0.0006(5)
+O2 O2- 0.0131(6) 0.0116(6) 0.0096(5) 0.0010(5) 0.0000(5) -0.0013(4)
+Li1 Li1+ 0.051(15) 0.015(6) 0.022(6) -0.013(9) -0.013(8) 0.006(6)
+Li2 Li1+ 0.051(15) 0.015(6) 0.022(6) -0.013(9) -0.013(8) 0.006(6)
+Ga2 Ga3+ 0.0078(10) 0.0052(6) 0.0052(6) 0. 0. 0.
+Li3 Li1+ 0.0078(10) 0.0052(6) 0.0052(6) 0. 0. 0.
+Ga3 Ga3+ 0.0100(14) 0.013(2) 0.0100(14) 0. 0. 0.
+Li4 Li1+ 0.0100(14) 0.013(2) 0.0100(14) 0. 0. 0.
+#End of TTdata_196425-ICSD
+#

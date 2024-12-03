@@ -1,0 +1,117 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_252109-ICSD
+_database_code_ICSD 252109
+_audit_creation_date 2016-08-01
+_chemical_name_common
+'Tris(2-dimethylamino-ethyl)amine sodium tetrahydridoborane'
+_chemical_formula_structural '(C12 H30 N4) Na (B H4)'
+_chemical_formula_sum 'C12 H34 B1 N4 Na1'
+_exptl_crystal_density_diffrn 0.99
+_diffrn_ambient_temperature 123.
+_citation_title
+
+;
+Tetraamine Me6TREN induced monomerization of alkali metal borohydrides and
+aluminohydrides
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Polyhedron 2016 103 94 99 PLYHDE
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Kennedy, Alan R.'
+primary 'McLellan, Ross'
+primary 'McNeil, Greg J.'
+primary 'Mulvey, Robert E.'
+primary 'Robertson, Stuart D.'
+_cell_length_a 10.1151(4)
+_cell_length_b 10.1151(4)
+_cell_length_c 10.1201(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 896.71
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 63'
+_space_group_IT_number 173
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x-y, x, z+1/2'
+2 'y, -x+y, z+1/2'
+3 '-x, -y, z+1/2'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+B3+ 3
+N3- -3
+C2- -2
+H1+ 1
+C2- -2
+H1+ 1
+C1- -1
+H1+ 1
+C1- -1
+H1+ 1
+N3- -3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Na1 Na1+ 2 b 0.3333 0.6667 1.00521(12) 0.0207(3) 1
+B1 B3+ 2 b 0.3333 0.6667 1.2633(4) 0.0354(9) 1
+N1 N3- 6 c 0.60289(14) 0.77832(14) 0.92894(14) 0.0216(3) 1
+C1 C2- 6 c 0.70691(18) 0.90966(18) 1.0094(2) 0.0343(4) 1
+H1 H1+ 6 c 0.8126 0.9415 0.9856 0.052 1
+H2 H1+ 6 c 0.6903 0.8815 1.103 0.052 1
+H3 H1+ 6 c 0.6876 0.9941 0.9934 0.052 1
+C2 C2- 6 c 0.6386(2) 0.6560(2) 0.9481(2) 0.0325(4) 1
+H4 H1+ 6 c 0.7429 0.6906 0.9178 0.049 1
+H5 H1+ 6 c 0.5668 0.5661 0.8971 0.049 1
+H6 H1+ 6 c 0.63 0.6295 1.042 0.049 1
+C3 C1- 6 c 0.61347(17) 0.82171(17) 0.79012(17) 0.0211(3) 1
+H7 H1+ 6 c 0.7125 0.8407 0.7543 0.025 1
+H8 H1+ 6 c 0.611 0.9181 0.7836 0.025 1
+C4 C1- 6 c 0.48501(15) 0.70031(17) 0.70658(17) 0.0200(3) 1
+H9 H1+ 6 c 0.4988 0.7355 0.6137 0.024 1
+H10 H1+ 6 c 0.4908 0.6055 0.7091 0.024 1
+N2 N3- 2 b 0.3333 0.6667 0.7526(2) 0.0168(5) 1
+H11 H1- 2 b 0.3333 0.6667 1.379(6) 0.067(12) 1
+H12 H1- 6 c 0.222(2) 0.577(2) 1.224(2) 0.056(6) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0223(3) 0.0223(3) 0.0174(6) 0.01117(16) 0. 0.
+B1 B3+ 0.0433(13) 0.0433(13) 0.019(2) 0.0217(6) 0. 0.
+N1 N3- 0.0196(6) 0.0200(6) 0.0242(8) 0.0093(5) -0.0041(6) -0.0025(6)
+C1 C2- 0.0289(8) 0.0309(9) 0.0371(11) 0.0104(7) -0.0101(10) -0.0113(9)
+C2 C2- 0.0346(9) 0.0303(9) 0.0367(11) 0.0193(7) -0.0097(8) -0.0010(8)
+C3 C1- 0.0176(7) 0.0195(7) 0.0250(9) 0.0084(6) 0.0022(7) -0.0001(7)
+C4 C1- 0.0209(7) 0.0221(7) 0.0167(8) 0.0107(6) 0.0032(6) 0.0008(7)
+N2 N3- 0.0168(6) 0.0168(6) 0.0169(14) 0.0084(3) 0. 0.
+#End of TTdata_252109-ICSD
+#

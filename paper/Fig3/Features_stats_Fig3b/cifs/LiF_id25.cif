@@ -1,0 +1,111 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_243929-ICSD
+_database_code_ICSD 243929
+_audit_creation_date 2018-02-01
+_chemical_name_common 'Lithium strontium oxonitridosilicate fluoride - Eu doped'
+_chemical_formula_structural 'Li24 Sr12 (Si24 N47 O) F'
+_chemical_formula_sum 'F1 Li24 N47 O1 Si24 Sr12'
+_exptl_crystal_density_diffrn 3.48
+_diffrn_ambient_temperature 293.
+_citation_title
+'Li24Sr12[Si24N47O]F:Eu2+-structure and luminescence of an orange phosphor'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2017 29 4590 4596 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Horky, Katrin'
+primary 'Schnick, Wolfgang'
+_cell_length_a 10.72830(10)
+_cell_length_b 10.72830(10)
+_cell_length_c 10.72830(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1234.78
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P a -3'
+_space_group_IT_number 205
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-z+1/2, x+1/2, y'
+2 'z+1/2, x, -y+1/2'
+3 'z, -x+1/2, y+1/2'
+4 '-z, -x, -y'
+5 'y, -z+1/2, x+1/2'
+6 '-y+1/2, z+1/2, x'
+7 'y+1/2, z, -x+1/2'
+8 '-y, -z, -x'
+9 'x+1/2, y, -z+1/2'
+10 'x, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x, -y, -z'
+13 'z+1/2, -x+1/2, -y'
+14 '-z+1/2, -x, y+1/2'
+15 '-z, x+1/2, -y+1/2'
+16 'z, x, y'
+17 '-y, z+1/2, -x+1/2'
+18 'y+1/2, -z+1/2, -x'
+19 '-y+1/2, -z, x+1/2'
+20 'y, z, x'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Si4+ 4
+N3- -3
+O2- -2
+N3- -3
+O2- -2
+Li1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Sr1 Sr2+ 8 c 0.28398(3) 0.28398(3) 0.28398(3) 0.00818(12) 1
+Sr2 Sr2+ 4 a 0. 0. 0. 0.01494(17) 1
+Si1 Si4+ 24 d 0.02135(8) 0.13099(8) 0.25591(8) 0.00291(15) 1
+N1 N3- 24 d 0.0092(3) 0.2283(3) 0.1243(2) 0.0058(4) 0.9792
+O1 O2- 24 d 0.0092(3) 0.2283(3) 0.1243(2) 0.0058(4) 0.0208
+N2 N3- 24 d 0.0621(3) 0.2309(3) 0.3755(3) 0.0090(5) 0.9792
+O2 O2- 24 d 0.0621(3) 0.2309(3) 0.3755(3) 0.0090(5) 0.0208
+Li1 Li1+ 24 d 0.0293(8) 0.3938(8) 0.2250(8) 0.0199(15) 1
+F1 F1- 4 b 0.5 0.5 0.5 0.069(14) 0.25
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 Sr2+ 0.00818(12) 0.00818(12) 0.00818(12) 0.00067(10) 0.00067(10) 0.00067(10)
+Sr2 Sr2+ 0.01494(17) 0.01494(17) 0.01494(17) -0.00608(15) -0.00608(15)
+-0.00608(15)
+Si1 Si4+ 0.0021(3) 0.0044(3) 0.0022(3) -0.0004(2) 0.0004(2) 0.0000(3)
+N1 N3- 0.0066(10) 0.0069(10) 0.0039(9) 0.0005(8) 0.0010(8) 0.0013(8)
+O1 O2- 0.0066(10) 0.0069(10) 0.0039(9) 0.0005(8) 0.0010(8) 0.0013(8)
+N2 N3- 0.0094(11) 0.0131(13) 0.0047(10) -0.0028(10) -0.0019(9) -0.0030(9)
+O2 O2- 0.0094(11) 0.0131(13) 0.0047(10) -0.0028(10) -0.0019(9) -0.0030(9)
+#End of TTdata_243929-ICSD
+#

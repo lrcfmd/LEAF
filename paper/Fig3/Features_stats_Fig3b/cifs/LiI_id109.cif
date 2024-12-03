@@ -1,0 +1,115 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249796-ICSD
+_database_code_ICSD 249796
+_audit_creation_date 2009-08-01
+_chemical_name_common
+'Hexacesium tris(uranyl(VI)) bis(digermanate(IV)) tetrahydrate'
+_chemical_formula_structural 'Cs6 ((U O2)3 (Ge2 O7)2) (H2 O)4'
+_chemical_formula_sum 'H8 Cs6 Ge4 O24 U3'
+_exptl_crystal_density_diffrn 4.9
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+Synthesis of thermally stable extra-large pore crystalline materials: An
+uranyl germanate with 12-ring channels
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the American Chemical Society' 2009 131 2068 2069 JACSAT
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Lin Chiahui'
+primary 'Chiang Raykuang'
+primary 'Lii Kwanghwa'
+_cell_length_a 7.6417(4)
+_cell_length_b 10.3281(6)
+_cell_length_c 18.8545(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 92.941(2)
+_cell_angle_gamma 90.
+_cell_volume 1486.12
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 21/n 1'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+U6+ 6
+Ge4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 4 e -0.00061(4) 0.81694(4) 0.16128(2) 0.03128(9) 1
+Cs2 Cs1+ 4 e 0.49853(5) 0.69529(3) 0.023802(19) 0.02978(9) 1
+Cs3 Cs1+ 4 e 0.49995(4) 1.07286(3) 0.17010(2) 0.02727(8) 1
+U1 U6+ 4 e 0.49929(2) 0.702119(15) 0.249614(9) 0.01119(5) 1
+U2 U6+ 2 c 0. 0.5 0. 0.01068(6) 1
+Ge1 Ge4+ 4 e 0.30168(6) 0.42695(4) 0.15814(3) 0.01063(10) 1
+Ge2 Ge4+ 4 e -0.27953(6) 0.44670(4) 0.15724(3) 0.00997(10) 1
+O1 O2- 4 e 0.2229(5) 0.4954(4) 0.0797(2) 0.0442(13) 1
+O2 O2- 4 e 0.3164(5) 0.5354(3) 0.2284(2) 0.0230(8) 1
+O3 O2- 4 e 0.1969(4) 0.2847(3) 0.18085(19) 0.0184(7) 1
+O4 O2- 4 e 0.5153(4) 0.3697(4) 0.1430(2) 0.0284(9) 1
+O5 O2- 4 e -0.1801(4) 0.4267(3) 0.07768(19) 0.0232(8) 1
+O6 O2- 4 e -0.1760(5) 0.3691(3) 0.23001(19) 0.0247(8) 1
+O7 O2- 4 e -0.3133(4) 0.6091(3) 0.17775(19) 0.0197(7) 1
+O8 O2- 4 e -0.0490(5) 0.6670(3) 0.0260(2) 0.0294(9) 1
+O9 O2- 4 e 0.4039(4) 0.7901(3) 0.17267(18) 0.0187(7) 1
+O10 O2- 4 e 0.5959(4) 0.6127(3) 0.32587(19) 0.0243(8) 1
+O11 O2- 4 e -0.1577(7) 0.8682(5) -0.0558(3) 0.0575(14) 1
+O12 O2- 4 e 0.7724(7) 0.5583(6) 0.4677(3) 0.0759(18) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.02597(17) 0.0364(2) 0.0313(2) -0.00389(14) -0.00050(15) -0.01049(15)
+Cs2 Cs1+ 0.03643(19) 0.0342(2) 0.01913(18) -0.00433(15) 0.00521(14) -0.00226(14)
+Cs3 Cs1+ 0.02410(16) 0.01905(16) 0.0388(2) 0.00154(12) 0.00276(14) 0.00575(14)
+U1 U6+ 0.01088(8) 0.00973(8) 0.01309(9) 0.00071(6) 0.00175(6) -0.00073(6)
+U2 U6+ 0.01030(10) 0.01388(12) 0.00798(12) 0.00111(8) 0.00153(8) -0.00016(9)
+Ge1 Ge4+ 0.00906(19) 0.0127(2) 0.0101(2) -0.00201(16) 0.00027(17) 0.00188(18)
+Ge2 Ge4+ 0.00863(19) 0.0105(2) 0.0110(2) 0.00052(16) 0.00228(17) 0.00050(17)
+O1 O2- 0.040(2) 0.056(3) 0.035(3) -0.026(2) -0.020(2) 0.034(2)
+O2 O2- 0.0280(18) 0.0178(17) 0.024(2) -0.0083(14) 0.0136(16) -0.0084(15)
+O3 O2- 0.0215(17) 0.0138(16) 0.0205(19) -0.0052(13) 0.0071(14) 0.0021(14)
+O4 O2- 0.0121(16) 0.028(2) 0.046(3) -0.0051(14) 0.0084(16) -0.0216(18)
+O5 O2- 0.0262(18) 0.0285(19) 0.0163(19) -0.0015(15) 0.0145(15) -0.0004(15)
+O6 O2- 0.0300(19) 0.0267(19) 0.0172(19) 0.0158(16) -0.0021(15) 0.0018(15)
+O7 O2- 0.0211(16) 0.0108(16) 0.028(2) 0.0021(13) 0.0121(15) -0.0042(14)
+O8 O2- 0.045(2) 0.0175(18) 0.027(2) 0.0045(17) 0.0147(18) -0.0022(16)
+O9 O2- 0.0190(16) 0.0204(17) 0.0163(19) 0.0001(13) -0.0028(14) 0.0007(14)
+O10 O2- 0.0259(18) 0.0261(19) 0.021(2) 0.0098(15) -0.0007(15) 0.0054(16)
+O11 O2- 0.091(4) 0.049(3) 0.034(3) 0.025(3) 0.010(3) -0.003(2)
+O12 O2- 0.057(3) 0.101(5) 0.070(4) -0.018(3) 0.004(3) 0.032(4)
+#End of TTdata_249796-ICSD
+#

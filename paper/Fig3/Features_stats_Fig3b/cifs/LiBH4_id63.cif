@@ -1,0 +1,119 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237565-ICSD
+_database_code_ICSD 237565
+_audit_creation_date 2015-02-01
+_chemical_name_common 'Lithium magnesium zinc borohydride (3/1/5/15)'
+_chemical_formula_structural 'Li3 Mg Zn5 (B H4)15'
+_chemical_formula_sum 'H60 B15 Li3 Mg1 Zn5'
+_exptl_crystal_density_diffrn 1.13
+_citation_title
+
+;
+Trimetallic borohydride Li3 M Zn5 (B H4)15 (M = Mg, Mn) containing two weakly
+interconnected frameworks
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 9941 9947 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Cerny, Radovan'
+primary 'Schouwink, Pascal'
+primary 'Sadikin, Yolanda'
+primary 'Stare, Katarina'
+primary "Smrcok, L'ubomir"
+primary 'Richter, Bo'
+primary 'Jensen, Torben R.'
+_cell_length_a 26.6285
+_cell_length_b 15.374
+_cell_length_c 8.5689
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 3507.99
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C m c m'
+_space_group_IT_number 63
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Mg2+ 2
+H1- -1
+B3+ 3
+Zn2+ 2
+H1- -1
+B3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Zn1 Zn2+ 8 g 0.165 0.4995 0.75 0.05 1.
+Zn2 Zn2+ 4 c 0. 0.2838 0.25 0.05 1.
+Mg1 Mg2+ 4 c 0. 0.3932 0.75 0.05 1.
+H1 H1- 8 f 0. 0.1055 0.1277 0.05 1.
+H2 H1- 8 g -0.0404 0.1883 0.25 0.05 1.
+H3 H1- 8 f 0. 0.2953 0.5872 0.05 1.
+H4 H1- 8 f 0. 0.425 0.5113 0.05 1.
+H5 H1- 16 h 0.04 0.3364 0.4059 0.05 1.
+H6 H1- 8 g 0.0757 0.3643 0.75 0.05 1.
+H7 H1- 8 g 0.1316 0.6897 0.75 0.05 1.
+H8 H1- 8 g 0.2713 0.4419 0.75 0.05 1.
+H9 H1- 8 g 0.2233 0.3343 0.75 0.05 1.
+H10 H1- 8 g 0.2094 0.6714 0.75 0.05 1.
+H11 H1- 8 g 0.0503 0.4936 0.75 0.05 1.
+H12 H1- 16 h 0.109 0.4553 0.8734 0.05 1.
+H13 H1- 16 h 0.1634 0.5967 0.6257 0.05 1.
+H14 H1- 16 h 0.2087 0.4396 0.8748 0.05 1.
+B1 B3+ 4 c 0. 0.1455 0.25 0.05 1.
+B2 B3+ 8 f 0. 0.3475 0.4786 0.05 1.
+B3 B3+ 8 g 0.2288 0.4128 0.75 0.05 1.
+B4 B3+ 8 g 0.1673 0.6404 0.75 0.05 1.
+B5 B3+ 8 g 0.0861 0.4424 0.75 0.05 1.
+Zn3 Zn2+ 8 g 0.1462 0.1433 0.75 0.05 1.
+H15 H1- 16 h 0.0532 0.0553 0.8721 0.05 1.
+H16 H1- 8 g 0.1148 0.0359 0.75 0.05 1.
+H17 H1- 8 g 0.0759 0.1567 0.75 0.05 1.
+H18 H1- 16 h 0.1479 0.1464 0.4136 0.05 1.
+H19 H1- 16 h 0.2127 0.2117 0.4836 0.05 1.
+H20 H1- 16 h 0.1497 0.2279 0.5959 0.05 1.
+H21 H1- 16 h 0.1897 0.1083 0.9047 0.05 1.
+B6 B3+ 8 g 0.0738 0.0756 0.75 0.05 1.
+B7 B3+ 16 h 0.1745 0.1731 0.519 0.05 1.
+Li1 Li1+ 8 g 0.1972 0.1926 0.25 0.05 1.
+Li2 Li1+ 4 c 0. 0.0035 0.75 0.05 1.
+#End of TTdata_237565-ICSD
+#

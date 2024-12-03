@@ -1,0 +1,100 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_45182-ICSD
+_database_code_ICSD 45182
+_audit_creation_date 2022-08-01
+_chemical_name_common 'Lithium tetralanthanum dinitride heptaiodide'
+_chemical_formula_structural 'Li La4 N2 I7'
+_chemical_formula_sum 'I7 La4 Li1 N2'
+_chemical_name_structure_type LiLa4N2I7
+_exptl_crystal_density_diffrn 5.42
+_diffrn_ambient_temperature 190.
+_citation_title
+
+;
+LiLa$_4$N$_2$I$_7$ as the first lithium-containing nitride halide of the
+lanthanides. Synthesis, crystal structure and spectroscopic characterization
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2020 99 '' '' SSSCFJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Schurz, Christian M.'
+primary 'Niewa, Rainer'
+primary 'Schleid, Thomas'
+_cell_length_a 13.7756(2)
+_cell_length_b 12.1486(3)
+_cell_length_c 10.8253(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1811.66
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+La3+ 3
+N3- -3
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 4 c 0.432(2) 0.25 0.953(4) 0.046(9) 1
+La1 La3+ 4 c 0.08943(5) 0.25 0.87226(6) 0.01191(13) 1
+La2 La3+ 4 c 0.39354(5) 0.25 0.40672(6) 0.01255(14) 1
+La3 La3+ 8 d 0.09131(3) 0.01183(4) 0.12017(5) 0.01234(10) 1
+N1 N3- 8 d 0.4970(5) 0.1244(6) 0.5079(7) 0.0127(12) 1
+I1 I1- 4 c 0.04155(6) 0.25 0.31522(8) 0.01822(17) 1
+I2 I1- 4 c 0.25415(6) 0.25 0.09202(8) 0.01798(17) 1
+I3 I1- 4 c 0.29815(6) 0.25 0.68905(8) 0.01747(17) 1
+I4 I1- 8 d 0.03298(5) 0.07992(5) 0.64865(5) 0.01905(13) 1
+I5 I1- 8 d 0.25791(4) 0.02249(5) 0.38771(6) 0.02009(13) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.018(13) 0.046(18) 0.07(2) 0. 0.023(15) 0.
+La1 La3+ 0.0124(3) 0.0109(3) 0.0124(3) 0. 0.0011(2) 0.
+La2 La3+ 0.0117(3) 0.0104(3) 0.0156(3) 0. -0.0014(2) 0.
+La3 La3+ 0.0129(2) 0.0108(2) 0.0134(2) 0.00012(17) -0.00161(16) 0.00015(16)
+N1 N3- 0.015(3) 0.010(3) 0.013(3) -0.002(3) 0.001(3) -0.001(3)
+I1 I1- 0.0186(4) 0.0213(4) 0.0148(4) 0. -0.0001(3) 0.
+I2 I1- 0.0159(4) 0.0205(4) 0.0175(4) 0. -0.0005(3) 0.
+I3 I1- 0.0169(4) 0.0159(4) 0.0197(4) 0. 0.0050(3) 0.
+I4 I1- 0.0220(3) 0.0204(3) 0.0148(2) -0.0046(2) 0.0020(2) -0.0032(2)
+I5 I1- 0.0188(3) 0.0172(3) 0.0243(3) -0.0030(2) -0.0061(2) 0.0011(2)
+#End of TTdata_45182-ICSD
+#

@@ -1,0 +1,17 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+LEAFeatures/__init__.py
+LEAFeatures/leafs.py
+LEAFeatures.egg-info/PKG-INFO
+LEAFeatures.egg-info/SOURCES.txt
+LEAFeatures.egg-info/dependency_links.txt
+LEAFeatures.egg-info/requires.txt
+LEAFeatures.egg-info/top_level.txt
+data/LEAF_average.csv
+data/icsd_compositions.csv
+data/leaf+.json
+data/leaf+_dic.csv
+data/leaf.csv
+data/leaf_av_magpie.csv

@@ -1,0 +1,86 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_186848-ICSD
+_database_code_ICSD 186848
+_audit_creation_date 2013-08-01
+_chemical_name_common '(Dilithium titanate) (magnesium oxide) (0.984/0.050)'
+_chemical_formula_structural '(Li2 Ti O3)0.984 (Mg O)0.050'
+_chemical_formula_sum 'Li1.968 Mg0.05 O3.002 Ti0.984'
+_chemical_name_structure_type Li2SnO3
+_exptl_crystal_density_diffrn 3.4
+_citation_title
+
+;
+Order-disorder transition in the (1-x)Li2 Ti O3 - x Mg O system (0 <= x <=
+0.5)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'RSC Advances' 2012 2 1598 1604 RSCACL
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Leu, Lii-Cherng'
+primary 'Bian, Jianjiang'
+primary 'Gout, Delphine'
+primary 'Letourneau, Steve'
+primary 'Ubic, Rick'
+_cell_length_a 5.0798
+_cell_length_b 8.8076
+_cell_length_c 9.7729
+_cell_angle_alpha 90
+_cell_angle_beta 100.158
+_cell_angle_gamma 90
+_cell_volume 430.39
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'C 1 2/c 1'
+_space_group_IT_number 15
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Mg2+ 2
+Ti4+ 4
+Mg2+ 2
+Ti4+ 4
+Mg2+ 2
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 8 f 0.231 0.08 0.011 0.016 1
+Li2 Li1+ 4 d 0.75 0.25 0 0.016 1
+Li3 Li1+ 4 e 0 0.924 0.75 0.0102 0.934
+Mg1 Mg2+ 4 e 0 0.924 0.75 0.0102 0.066
+Ti1 Ti4+ 4 e 0 0.583 0.75 0.0102 0.983
+Mg2 Mg2+ 4 e 0 0.583 0.75 0.0102 0.017
+Ti2 Ti4+ 4 e 0.5 0.75 0.75 0.0102 0.983
+Mg3 Mg2+ 4 e 0.5 0.75 0.75 0.0102 0.017
+O1 O2- 8 f 0.1407 0.741 0.6359 0.0121 1
+O2 O2- 8 f 0.6089 0.9148 0.6385 0.0121 1
+O3 O2- 8 f 0.3645 0.5947 0.8639 0.0121 1
+#End of TTdata_186848-ICSD
+#

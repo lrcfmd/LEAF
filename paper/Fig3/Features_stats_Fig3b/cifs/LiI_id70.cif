@@ -1,0 +1,116 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_159597-ICSD
+_database_code_ICSD 159597
+_audit_creation_date 2008-08-01
+_audit_update_record 2012-02-01
+_chemical_name_common 'Potassium europium cyclo-digermanate'
+_chemical_formula_structural 'K Eu (Ge2 O6)'
+_chemical_formula_sum 'Eu1 Ge2 K1 O6'
+_chemical_name_structure_type KEuGe2O6
+_exptl_crystal_density_diffrn 4.86
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Synthesis, crystal structure, magnetic and luminescence properties of K Eu Ge2
+O6: a europium cyclogermanate containing infinite chains of edge-sharing Eu-O
+polyhedra
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Dalton Transactions' 2008 2008 1721 1726 DTARAF
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Chen Peilin'
+primary 'Chiang Peiyun'
+primary 'Yeh Hanching'
+primary 'Chang Borchen'
+primary 'Lii Kwanghwa'
+_cell_length_a 8.6908(4)
+_cell_length_b 10.8647(6)
+_cell_length_c 19.2607(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.8610(10)
+_cell_angle_gamma 90.
+_cell_volume 1773.03
+_cell_formula_units_Z 12
+_space_group_name_H-M_alt 'C 1 2/c 1'
+_space_group_IT_number 15
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Eu3+ 3
+Ge4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+K1 K1+ 8 f 0.18077(11) 0.89456(9) 0.07533(5) 0.0205(2) 1
+K2 K1+ 4 e -0.5 0.89388(12) 0.25 0.0148(3) 1
+Eu1 Eu3+ 4 e 0. 0.85447(2) 0.25 0.00836(7) 1
+Eu2 Eu3+ 8 f -0.32477(2) 0.793489(17) 0.080933(10) 0.00796(6) 1
+Ge1 Ge4+ 8 f 0.23257(5) 0.13232(4) 0.25774(2) 0.00826(9) 1
+Ge2 Ge4+ 8 f 0.02380(4) 0.58869(4) 0.09471(2) 0.00829(9) 1
+Ge3 Ge4+ 8 f 0.11611(5) 0.07952(4) 0.39213(2) 0.00843(9) 1
+O1 O2- 8 f 0.1922(3) -0.0127(2) 0.22392(15) 0.0122(6) 1
+O2 O2- 8 f 0.2508(3) 0.2495(2) 0.19998(14) 0.0100(5) 1
+O3 O2- 8 f 0.1054(3) 0.1728(2) 0.31529(14) 0.0116(6) 1
+O4 O2- 8 f 0.4253(3) 0.1553(3) 0.31784(14) 0.0124(6) 1
+O5 O2- 8 f -0.0022(3) 0.4333(2) 0.10408(15) 0.0125(6) 1
+O6 O2- 8 f -0.1327(3) 0.6692(2) 0.04345(14) 0.0105(6) 1
+O7 O2- 8 f 0.1905(3) 0.6131(3) 0.05623(15) 0.0142(6) 1
+O8 O2- 8 f -0.0174(3) 0.1272(2) 0.43988(15) 0.0121(6) 1
+O9 O2- 8 f 0.1093(3) -0.0758(2) 0.37116(14) 0.0110(6) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0163(5) 0.0254(5) 0.0194(5) 0.0008(4) 0.0030(4) -0.0011(4)
+K2 K1+ 0.0149(6) 0.0154(6) 0.0140(6) 0. 0.0029(5) 0.
+Eu1 Eu3+ 0.00750(13) 0.00914(13) 0.00793(14) 0. 0.00062(10) 0.
+Eu2 Eu3+ 0.00793(9) 0.00880(10) 0.00700(10) -0.00018(7) 0.00132(7) -0.00009(7)
+Ge1 Ge4+ 0.00885(19) 0.0085(2) 0.0070(2) -0.00129(15) 0.00081(15) 0.00082(15)
+Ge2 Ge4+ 0.00791(19) 0.0097(2) 0.0067(2) 0.00167(15) 0.00033(15) -0.00008(15)
+Ge3 Ge4+ 0.00831(19) 0.0090(2) 0.0082(2) 0.00124(15) 0.00224(15) -0.00003(15)
+O1 O2- 0.0152(14) 0.0071(13) 0.0147(15) -0.0030(11) 0.0039(11) -0.0017(11)
+O2 O2- 0.0114(13) 0.0101(13) 0.0069(13) -0.0009(10) -0.0010(10) 0.0029(10)
+O3 O2- 0.0126(13) 0.0108(14) 0.0109(14) 0.0018(11) 0.0019(11) 0.0040(11)
+O4 O2- 0.0104(13) 0.0178(15) 0.0072(14) -0.0026(11) -0.0018(11) 0.0039(11)
+O5 O2- 0.0111(13) 0.0093(14) 0.0165(15) 0.0007(11) 0.0020(11) 0.0001(11)
+O6 O2- 0.0090(13) 0.0150(14) 0.0061(14) 0.0047(11) -0.0013(10) -0.0001(11)
+O7 O2- 0.0100(14) 0.0234(16) 0.0090(14) 0.0011(11) 0.0014(11) 0.0025(12)
+O8 O2- 0.0113(13) 0.0133(14) 0.0129(15) 0.0039(11) 0.0052(11) 0.0021(11)
+O9 O2- 0.0116(13) 0.0085(14) 0.0125(14) 0.0002(10) 0.0021(11) -0.0015(11)
+#End of TTdata_159597-ICSD
+#

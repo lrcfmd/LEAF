@@ -1,0 +1,76 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92200-ICSD
+_database_code_ICSD 92200
+_audit_creation_date 2002-10-01
+_chemical_name_common 'Tetralithium germanium sulfide'
+_chemical_formula_structural 'Li4 Ge S4'
+_chemical_formula_sum 'Ge1 Li4 S4'
+_chemical_name_structure_type Li4(GeS4)
+_exptl_crystal_density_diffrn 2.26
+_citation_title
+
+;
+Synthesis of a new lithium ionic conductor, thio-LISICON lithium germanium
+sulfide system
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 2000 130 97 104 SSIOD3
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Kanno, R.'
+primary 'Hata, T.'
+primary 'Kawamoto, Y.'
+primary 'Irie, M.'
+_cell_length_a 14.0658(2)
+_cell_length_b 7.75102(15)
+_cell_length_c 6.14973(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 670.47
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ge4+ 4
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 8 d 0.165 0.504 0.675 . 1.
+Li2 Li1+ 4 c 0.424 0.75 0.829 . 1.
+Li3 Li1+ 8 d 0.195 0.203 0.982 . 0.5
+Ge1 Ge4+ 4 c 0.4103(3) 0.25 0.6495(6) . 1.
+S1 S2- 8 d 0.3443(3) 0.0135(9) 0.7764(10) . 1.
+S2 S2- 4 c 0.0857(5) 0.75 0.7933(12) . 1.
+S3 S2- 4 c 0.0613(5) 0.25 0.7292(12) . 1.
+#End of TTdata_92200-ICSD

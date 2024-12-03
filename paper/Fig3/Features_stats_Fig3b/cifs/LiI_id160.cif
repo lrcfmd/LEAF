@@ -1,0 +1,119 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_759790-ICSD
+_database_code_ICSD 759790
+_audit_creation_date 2020-02-01
+_chemical_name_common 'Lithium bromide pentahydrate'
+_chemical_formula_structural 'Li Br (H2 O)5'
+_chemical_formula_sum 'H10 Br1 Li1 O5'
+_chemical_name_structure_type LiBr(H2O)5
+_exptl_crystal_density_diffrn 1.77
+_diffrn_ambient_temperature 140.
+_citation_title
+'Higher hydrates of lithium chloride, lithium bromide and lithium iodide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Structural Chemistry' 2018 74 194
+202 ACSCGG
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Sohr, Julia'
+primary 'Schmidt, Horst'
+primary 'Voigt, Wolfgang'
+_cell_length_a 6.353(2)
+_cell_length_b 9.453(4)
+_cell_length_c 11.954(5)
+_cell_angle_alpha 89.15(3)
+_cell_angle_beta 77.53(3)
+_cell_angle_gamma 71.69(3)
+_cell_volume 664.38
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P -1'
+_space_group_IT_number 2
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Br1- -1
+O2- -2
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Br1 Br1- 2 i 0.78481(4) 0.79818(3) 0.66544(2) 0.01628(7) 1
+Br2 Br1- 2 i 0.80949(4) 0.22569(3) 0.11052(2) 0.01645(7) 1
+O1 O2- 2 i 0.2744(4) 0.8763(2) 0.60259(18) 0.0214(4) 1
+O2 O2- 2 i 0.7185(3) 0.6641(2) 0.93852(17) 0.0200(4) 1
+O3 O2- 2 i 0.6827(3) 0.4783(2) 0.61986(18) 0.0199(4) 1
+O4 O2- 2 i 0.3050(3) 0.1121(2) 0.84164(18) 0.0205(4) 1
+O5 O2- 2 i 0.5967(3) 0.1797(2) 0.63535(16) 0.0154(3) 1
+O6 O2- 2 i 0.2358(3) 0.4850(2) 0.62145(18) 0.0197(4) 1
+O7 O2- 2 i 0.4148(3) 0.3942(2) 0.83207(16) 0.0159(3) 1
+O8 O2- 2 i 0.0896(3) 0.1919(2) 0.62827(16) 0.0166(3) 1
+O9 O2- 2 i 0.9231(3) 0.3759(2) 0.83424(16) 0.0171(3) 1
+O10 O2- 2 i 0.7573(3) 0.0965(2) 0.85603(18) 0.0211(4) 1
+Li1 Li1+ 2 i 0.2543(8) 0.2910(5) 0.7244(4) 0.0193(9) 1
+Li2 Li1+ 2 i 0.7544(8) 0.2887(5) 0.7299(4) 0.0205(9) 1
+H1 H1+ 2 i 0.700(7) 0.553(3) 0.644(4) 0.048(13) 1
+H2 H1+ 2 i 0.132(6) 0.561(3) 0.650(3) 0.044(12) 1
+H3 H1+ 2 i 0.260(9) 0.493(5) 0.5513(16) 0.077(19) 1
+H4 H1+ 2 i 0.429(4) 0.095(4) 0.857(4) 0.039(12) 1
+H5 H1+ 2 i 0.102(7) 0.219(3) 0.561(2) 0.032(10) 1
+H6 H1+ 2 i 0.626(9) 0.177(5) 0.5649(16) 0.058(15) 1
+H7 H1+ 2 i 0.144(6) 0.0995(19) 0.621(3) 0.021(9) 1
+H8 H1+ 2 i 0.776(7) 0.125(4) 0.917(2) 0.042(12) 1
+H9 H1+ 2 i 0.627(7) 0.093(2) 0.654(3) 0.030(10) 1
+H10 H1+ 2 i 0.270(6) 0.037(3) 0.845(4) 0.047(13) 1
+H11 H1+ 2 i 0.614(6) 0.704(5) 0.907(4) 0.053(14) 1
+H12 H1+ 2 i 0.807(6) 0.713(5) 0.926(4) 0.051(14) 1
+H13 H1+ 2 i 0.177(5) 0.839(5) 0.633(4) 0.043(13) 1
+H14 H1+ 2 i 0.368(6) 0.860(6) 0.642(4) 0.060(16) 1
+H15 H1+ 2 i 0.549(4) 0.492(5) 0.623(5) 0.059(16) 1
+H16 H1+ 2 i 0.837(6) 0.009(2) 0.843(3) 0.033(11) 1
+H17 H1+ 2 i 0.365(6) 0.487(2) 0.840(3) 0.032(10) 1
+H18 H1+ 2 i 0.869(7) 0.463(2) 0.861(3) 0.035(11) 1
+H19 H1+ 2 i 0.394(7) 0.366(4) 0.899(2) 0.032(10) 1
+H20 H1+ 2 i 0.950(7) 0.323(3) 0.887(3) 0.041(12) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Br1 Br1- 0.01580(12) 0.01556(12) 0.01686(13) -0.00396(9) -0.00397(9) 0.00205(9)
+Br2 Br1- 0.01625(12) 0.01626(12) 0.01735(13) -0.00522(9) -0.00496(9) 0.00353(9)
+O1 O2- 0.0221(9) 0.0234(10) 0.0200(10) -0.0083(8) -0.0059(8) 0.0035(7)
+O2 O2- 0.0209(9) 0.0218(9) 0.0187(9) -0.0078(8) -0.0059(7) 0.0034(7)
+O3 O2- 0.0194(9) 0.0207(9) 0.0226(10) -0.0096(7) -0.0064(8) 0.0034(7)
+O4 O2- 0.0201(9) 0.0182(9) 0.0264(10) -0.0093(7) -0.0071(8) 0.0059(8)
+O5 O2- 0.0172(8) 0.0143(8) 0.0142(9) -0.0047(6) -0.0031(7) 0.0013(6)
+O6 O2- 0.0162(9) 0.0197(9) 0.0207(10) -0.0024(7) -0.0042(7) 0.0040(7)
+O7 O2- 0.0175(8) 0.0140(8) 0.0143(8) -0.0036(6) -0.0021(7) 0.0013(6)
+O8 O2- 0.0173(8) 0.0167(8) 0.0142(9) -0.0034(7) -0.0029(7) -0.0003(7)
+O9 O2- 0.0177(9) 0.0164(8) 0.0162(9) -0.0039(7) -0.0042(7) 0.0009(7)
+O10 O2- 0.0218(9) 0.0180(9) 0.0221(10) -0.0016(7) -0.0088(8) -0.0022(7)
+Li1 Li1+ 0.016(2) 0.022(2) 0.021(2) -0.0061(17) -0.0045(17) 0.0001(17)
+Li2 Li1+ 0.017(2) 0.023(2) 0.022(2) -0.0062(17) -0.0066(17) -0.0029(18)
+#End of TTdata_759790-ICSD
+#

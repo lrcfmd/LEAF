@@ -1,0 +1,101 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_74045-ICSD
+_database_code_ICSD 74045
+_audit_creation_date 1995-01-10
+_chemical_name_common
+'Strontium iron tetrairon(III) pentakis(phosphate) hydroxide hydrate'
+_chemical_formula_structural 'Sr Fe5 (P O4)5 (O H) (H2 O)'
+_chemical_formula_sum 'H3 Fe5 O22 P5 Sr1'
+_chemical_name_structure_type CaFe5(PO4)5OHH2O
+_exptl_crystal_density_diffrn 3.71
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+Hydrothermal synthesis and structural characterization of mixed- valence iron
+phosphates: AFe5(PO4)5(OH).H2O (A=Ca, Sr)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 1993 32 4368 4372 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Dvoncova, E.'
+primary 'Lii, K.-H.'
+_cell_length_a 6.4303(2)
+_cell_length_b 7.8749(8)
+_cell_length_c 15.894(2)
+_cell_angle_alpha 84.75(1)
+_cell_angle_beta 87.96(1)
+_cell_angle_gamma 78.114(9)
+_cell_volume 784.16
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P -1'
+_space_group_IT_number 2
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Fe3+ 3
+Fe2+ 2
+Fe3+ 3
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Sr1 Sr2+ 2 i 0.0231(2) 0.3851(2) 0.14258(8) 0.0127(4) 1.
+Fe1 Fe3+ 2 i 0.0371(3) 0.7913(2) 0.4872(2) 0.0077(6) 1.
+Fe2 Fe2+ 2 i 0.3973(3) 0.5950(2) 0.6221(1) 0.0102(6) 1.
+Fe3 Fe3+ 2 i 0.4008(3) 0.1305(2) 0.2929(1) 0.0074(5) 1.
+Fe4 Fe3+ 2 i 0.2721(3) 0.2768(2) 0.7480(1) 0.0073(5) 1.
+Fe5 Fe3+ 2 i 0.2952(3) 0.7667(2) 0.0099(1) 0.0071(5) 1.
+P1 P5+ 2 i 0.0787(5) 0.9480(4) 0.6776(2) 0.0078(10) 1.
+P2 P5+ 2 i 0.0876(5) 0.4738(4) 0.3621(2) 0.0073(10) 1.
+P3 P5+ 2 i 0.5355(5) 0.7976(4) 0.4367(2) 0.0062(9) 1.
+P4 P5+ 2 i 0.7881(5) 0.8165(4) 0.0500(2) 0.0075(10) 1.
+P5 P5+ 2 i 0.4920(5) 0.4426(4) 0.1499(2) 0.0058(9) 1.
+O1 O2- 2 i 0.011(1) 0.981(1) 0.5815(5) 0.0054(17) 1.
+O2 O2- 2 i -.070(1) 0.375(1) 0.4130(6) 0.0103(19) 1.
+O3 O2- 2 i 0.126(1) 0.626(1) 0.4061(6) 0.0111(19) 1.
+O4 O2- 2 i 0.631(1) 0.254(1) 0.4982(6) 0.0096(18) 1.
+O5 O2- 2 i 0.298(1) 0.817(1) 0.6858(6) 0.0122(19) 1.
+O6 O2- 2 i 0.305(1) 0.351(1) 0.3509(5) 0.0058(17) 1.
+O7 O2- 2 i 0.417(1) 0.333(1) 0.6339(5) 0.0087(18) 1.
+O8 O2- 2 i -.092(1) 0.869(1) 0.7277(6) 0.0105(19) 1.
+O9 O2- 2 i 0.559(1) 0.026(1) 0.6076(6) 0.0105(19) 1.
+O10 O2- 2 i 0.396(1) 0.290(1) 0.1873(5) 0.0075(18) 1.
+O11 O2- 2 i 0.490(1) 0.061(1) 0.7815(6) 0.0094(18) 1.
+O12 O2- 2 i -.015(1) 0.533(1) 0.2770(5) 0.0069(17) 1.
+O13 O2- 2 i 0.157(2) 0.282(1) 0.8626(6) 0.0138(20) 1.
+O14 O2- 2 i 0.577(1) 0.529(1) 0.2191(6) 0.0111(19) 1.
+O15 O2- 2 i 0.098(1) 0.118(1) 0.7098(6) 0.0123(20) 1.
+O16 O2- 2 i 0.741(1) 0.793(1) 0.4802(6) 0.0106(19) 1.
+O17 O2- 2 i 0.595(2) 0.769(1) 0.0145(6) 0.0153(20) 1.
+O18 O2- 2 i 0.254(1) 0.989(1) -.0625(6) 0.0109(19) 1.
+O19 O2- 2 i -.015(1) 0.757(1) -.0060(6) 0.0102(19) 1.
+O20 O2- 2 i 0.203(2) 0.914(1) 0.1149(6) 0.0180(21) 1.
+O21 O2- 2 i 0.315(1) 0.564(1) 0.0981(6) 0.0098(19) 1.
+O22 O2- 2 i 0.325(1) 0.626(1) -.0895(5) 0.0087(18) 1.
+#End of TTdata_74045-ICSD
+#

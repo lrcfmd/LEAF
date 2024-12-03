@@ -1,0 +1,117 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_432460-ICSD
+_database_code_ICSD 432460
+_audit_creation_date 2018-08-01
+_chemical_name_common 'Heptalithium dodecaoxo-diniobotrieuropate(II/III)'
+_chemical_formula_structural 'Li7 Eu3 Nb2 O12'
+_chemical_formula_sum 'Eu3 Li7 Nb2 O12'
+_chemical_name_structure_type Garnet#Li7La3Zr2O12(tet)
+_exptl_crystal_density_diffrn 5.62
+_diffrn_ambient_temperature 293.
+_citation_title
+'Li7Eu3Nb2O12 with a garnet-related structure containing mixed-valent europium'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Kristallographie, Supplement Issue' 2017 37 104 104
+ZKSUP2
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Rudolph, D.'
+primary 'Funk, C.'
+primary 'Schleid, T.'
+_cell_length_a 12.9887(9)
+_cell_length_b 12.9887(9)
+_cell_length_c 12.3508(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2083.65
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'I 41/a c d Z'
+_space_group_IT_number 142
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y+1/4, x+3/4, -z+3/4'
+2 '-y+3/4, x+3/4, -z+1/4'
+3 'x, y+1/2, -z'
+4 '-x, y+1/2, -z+1/2'
+5 '-y+3/4, -x+1/4, z+1/4'
+6 'y+1/4, -x+1/4, z+3/4'
+7 '-x, -y+1/2, z'
+8 'x, -y+1/2, z+1/2'
+9 'y+1/4, -x+3/4, -z+1/4'
+10 '-y+3/4, -x+3/4, -z+3/4'
+11 'x, -y, -z+1/2'
+12 '-x, -y, -z'
+13 '-y+3/4, x+1/4, z+3/4'
+14 'y+1/4, x+1/4, z+1/4'
+15 '-x, y, z+1/2'
+16 'x, y, z'
+17 'y+3/4, x+1/4, -z+1/4'
+18 '-y+1/4, x+1/4, -z+3/4'
+19 'x+1/2, y, -z+1/2'
+20 '-x+1/2, y, -z'
+21 '-y+1/4, -x+3/4, z+3/4'
+22 'y+3/4, -x+3/4, z+1/4'
+23 '-x+1/2, -y, z+1/2'
+24 'x+1/2, -y, z'
+25 'y+3/4, -x+1/4, -z+3/4'
+26 '-y+1/4, -x+1/4, -z+1/4'
+27 'x+1/2, -y+1/2, -z'
+28 '-x+1/2, -y+1/2, -z+1/2'
+29 '-y+1/4, x+3/4, z+1/4'
+30 'y+3/4, x+3/4, z+3/4'
+31 '-x+1/2, y+1/2, z'
+32 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Eu3+ 3
+Eu2+ 2
+Nb5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 8 a 0. 0.25 0.375 0.012(3) 1
+Li2 Li1+ 16 f 0.3211(8) 0.5711(8) 0.125 0.025(3) 1
+Li3 Li1+ 32 g 0.3375(7) 0.1704(7) 0.0557(7) 0.0134(18) 1
+Eu1 Eu3+ 8 b 0. 0.25 0.125 0.00932(13) 1
+Eu2 Eu2+ 16 e 0.37212(3) 0. 0.25 0.00968(12) 1
+Nb1 Nb5+ 16 c 0. 0. 0. 0.00748(15) 1
+O1 O2- 32 g 0.4516(3) 0.3603(3) 0.0396(3) 0.0148(8) 1
+O2 O2- 32 g 0.1997(3) 0.2175(3) 0.1005(3) 0.0105(7) 1
+O3 O2- 32 g 0.3544(3) 0.0285(3) 0.0476(3) 0.0157(8) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu1 Eu3+ 0.00946(16) 0.00946(16) 0.0090(2) 0.00002(18) 0. 0.
+Eu2 Eu2+ 0.00819(19) 0.01135(19) 0.00949(19) 0. 0. -0.00064(13)
+Nb1 Nb5+ 0.0076(3) 0.0073(3) 0.0075(3) -0.0005(2) 0.0004(2) -0.0003(2)
+O1 O2- 0.023(2) 0.0102(18) 0.0109(17) 0.0026(15) 0.0011(15) 0.0003(14)
+O2 O2- 0.0106(17) 0.0146(17) 0.0063(16) -0.0014(14) 0.0014(13) -0.0014(14)
+O3 O2- 0.0149(19) 0.0163(19) 0.0159(19) 0.0053(15) -0.0053(16) -0.0052(15)
+#End of TTdata_432460-ICSD
+#

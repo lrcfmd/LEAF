@@ -1,0 +1,94 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_49596-ICSD
+_database_code_ICSD 49596
+_audit_creation_date 2023-02-01
+_chemical_name_common 'Decalithium tin diphosphide sulfide oxide'
+_chemical_formula_structural 'Li10 Sn0.95 P2 S11.4 O0.5'
+_chemical_formula_sum 'Li10 O0.5 P2 S11.4 Sn0.95'
+_chemical_name_structure_type Li10GeP2S12-frame#LGPS-type
+_exptl_crystal_density_diffrn 2.1
+_citation_title
+
+;
+Li$_{10}$Sn$_{0.95}$P$_2$S$_{11.9-x}$O$_x$. A new sulfide solid electrolyte
+for all-solid-state batteries
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2022 926 '' '' JALCEU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Liu, Dongxu'
+primary 'Wang, Qingtao'
+primary 'Ma, Xuefang'
+primary 'Liu, Qian'
+primary 'Zhou, Xiaozhong'
+primary 'Lei, Ziqiang'
+_cell_length_a 8.747015(29)
+_cell_length_b 8.747015(29)
+_cell_length_c 12.78240(49)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 977.98
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 42/n m c Z'
+_space_group_IT_number 137
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y+1/2, x+1/2, -z+1/2'
+2 '-y, x+1/2, -z+1/2'
+3 'y+1/2, -x, -z+1/2'
+4 '-y, -x, -z+1/2'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z+1/2'
+10 'y, -x+1/2, z+1/2'
+11 '-y+1/2, x, z+1/2'
+12 'y, x, z+1/2'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+P5+ 5
+Sn4+ 4
+S2- -2
+O2- -2
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 16 h 0.458 0.482 0.804 0.09 0.5
+Li2 Li1+ 16 h 0.19 0.528 0.832 0.089 0.3
+Li3 Li1+ 4 d 0.25 0.25 0.809 0.077 1
+Li4 Li1+ 4 c 0.25 0.75 0.966 0.086 0.8
+P1 P5+ 2 a 0.75 0.25 0.75 0.032 1
+P2 P5+ 4 d 0.25 0.25 1.0633 0.044 0.5
+Sn1 Sn4+ 4 d 0.25 0.25 1.0633 0.044 0.475
+S1 S2- 8 g 0.5616 0.25 0.8436 0.045 0.875
+O1 O2- 8 g 0.5616 0.25 0.8436 0.045 0.125
+S2 S2- 8 g 0.25 0.4689 0.6575 0.054 1
+S3 S2- 8 g 0.25 0.4625 0.9591 0.047 1
+#End of TTdata_49596-ICSD
+#

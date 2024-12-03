@@ -1,0 +1,86 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_16176-ICSD
+_database_code_ICSD 16176
+_audit_creation_date 1980-01-01
+_audit_update_record 2010-02-01
+_chemical_name_common 'Trilithium iron(III) tris(molybdate)'
+_chemical_formula_structural 'Li3 Fe (Mo O4)3'
+_chemical_formula_sum 'Fe1 Li3 Mo3 O12'
+_chemical_name_structure_type Lyonsite#Li3Fe(MoO4)3
+_exptl_crystal_density_diffrn 3.94
+_citation_title
+
+;
+Crystal structure of lithium iron molybdates Li3 Fe (Mo O4)3 and Li2 Fe2 (Mo
+O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary Kristallografiya 1970 15 710 715 KRISAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Klevtsova, R.F.'
+primary 'Magarill, S.A.'
+_cell_length_a 5.07
+_cell_length_b 10.48
+_cell_length_c 17.64
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 937.28
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Mo6+ 6
+Fe3+ 3
+Li1+ 1
+Fe3+ 3
+Li1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Mo1 Mo6+ 8 d 0.2784(4) 0.52619(18) 0.15620(11) 0.70(3) 1.
+Mo2 Mo6+ 4 c 0.7795(6) 0.25 0.05712(15) 0.55(4) 1.
+Fe1 Fe3+ 4 c 0.1066(23) 0.25 0.2513(8) 0.69(16) 0.3333
+Li1 Li1+ 4 c 0.1066(23) 0.25 0.2513(8) 0.69(16) 0.6667
+Fe2 Fe3+ 8 d 0.7548(19) 0.5713(9) 0.0265(5) 0.64(11) 0.3333
+Li2 Li1+ 8 d 0.7548(19) 0.5713(9) 0.0265(5) 0.64(11) 0.6667
+Li3 Li1+ 4 c 0.247 0.75 0.3 2.0(2) 1.
+O1 O2- 4 c 0.865(5) 0.25 0.1549(16) 0.8(3) 1.
+O2 O2- 4 c 0.055(5) 0.25 -.0053(16) 0.9(4) 1.
+O3 O2- 8 d 0.580(4) 0.1148(18) 0.0368(10) 0.6(2) 1.
+O4 O2- 8 d 0.082(3) 0.4900(17) 0.0739(10) 0.5(2) 1.
+O5 O2- 8 d 0.078(4) 0.6255(19) 0.2118(11) 1.0(3) 1.
+O6 O2- 8 d 0.358(3) 0.3810(18) 0.207(1) 0.7(2) 1.
+O7 O2- 8 d 0.561(4) 0.612(2) 0.1271(11) 1.0(3) 1.
+#End of TTdata_16176-ICSD
+#

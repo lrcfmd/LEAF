@@ -1,0 +1,73 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_184032-ICSD
+_database_code_ICSD 184032
+_audit_creation_date 2012-08-01
+_chemical_name_common 'Lithium calcium trialanate'
+_chemical_formula_structural 'Li Ca (Al H4)3'
+_chemical_formula_sum 'H12 Al3 Ca1 Li1'
+_exptl_crystal_density_diffrn 1.15
+_citation_title
+'Synthesis, crystal structure and thermal decomposition of Li Ca (Al H4)3'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2012 520 202 206 JALCEU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Liu, D.-M.'
+primary 'Qian, Z.-X.'
+primary 'Si, T.-Z.'
+primary 'Zhang, Q.-A.'
+_cell_length_a 8.9197(12)
+_cell_length_b 8.9197(12)
+_cell_length_c 5.8887(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 405.74
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 63/m'
+_space_group_IT_number 176
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+y, -x, -z+1/2'
+2 '-y, x-y, -z+1/2'
+3 'x, y, -z+1/2'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 'x-y, x, z+1/2'
+8 'y, -x+y, z+1/2'
+9 '-x, -y, z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ca2+ 2
+Al3+ 3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 2 a 0 0 0.25 1.1(2) 1.
+Ca1 Ca2+ 2 d 0.6667 0.3333 0.25 2.6(3) 1.
+Al1 Al3+ 6 h 0.2805(3) 0.9027(4) 0.25 0.4(4) 1.
+#End of TTdata_184032-ICSD
+#

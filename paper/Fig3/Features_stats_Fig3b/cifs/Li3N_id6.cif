@@ -1,0 +1,93 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_421259-ICSD
+_database_code_ICSD 421259
+_audit_creation_date 2011-02-01
+_chemical_name_common 'Tetralithium tristrontium hexanitridodisilicate'
+_chemical_formula_structural 'Li4 Sr3 (Si2 N6)'
+_chemical_formula_sum 'Li4 N6 Si2 Sr3'
+_chemical_name_structure_type Li4Ca3Si2N6
+_exptl_crystal_density_diffrn 3.88
+_diffrn_ambient_temperature 200.
+_citation_title
+
+;
+Li4 Ca3 Si2 N6 and Li4 Sr3 Si2 N6 - Quaternary lithium nitridosilicates with
+isolated [Si2 N6]10- ions
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2010
+636 1907 1909 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Pagano, S.'
+primary 'Lupart, S.'
+primary 'Schmiechen, S.'
+primary 'Schnick, W.'
+_cell_length_a 6.1268(12)
+_cell_length_b 9.6866(19)
+_cell_length_c 6.2200(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.24(3)
+_cell_angle_gamma 90.
+_cell_volume 369.14
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'C 1 2/m 1'
+_space_group_IT_number 12
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si4+ 4
+N3- -3
+Sr2+ 2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Si1 Si4+ 4 i 0.1108(3) 0. 0.3279(3) 0.0047(4) 1
+N1 N3- 8 j 0.2013(7) 0.1498(4) 0.2040(7) 0.0059(8) 1
+N2 N3- 4 i -0.1821(9) 0. 0.3789(10) 0.0066(11) 1
+Sr1 Sr2+ 4 h 0. 0.30841(6) 0.5 0.0056(3) 1
+Sr2 Sr2+ 2 b 0.5 0. 0. 0.0110(3) 1
+Li1 Li1+ 8 j 0.3620(15) 0.3236(9) 0.1216(16) 0.0098(17) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si4+ 0.0073(8) 0.0031(8) 0.0038(8) 0. -0.0018(7) 0.
+N1 N3- 0.0088(18) 0.0039(18) 0.0048(18) -0.0020(13) -0.0030(15) -0.0001(14)
+N2 N3- 0.007(3) 0.010(3) 0.003(2) 0. 0.001(2) 0.
+Sr1 Sr2+ 0.0065(4) 0.0060(4) 0.0043(4) 0. -0.0025(2) 0.
+Sr2 Sr2+ 0.0133(5) 0.0085(5) 0.0112(5) 0. 0.0048(4) 0.
+#End of TTdata_421259-ICSD
+#

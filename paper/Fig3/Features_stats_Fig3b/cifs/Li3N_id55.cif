@@ -1,0 +1,97 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_167577-ICSD
+_database_code_ICSD 167577
+_audit_creation_date 2011-02-01
+_chemical_name_common 'Lithium magnesium nitride (0.48/2.52/1.84)'
+_chemical_formula_structural 'Li0.48 Mg2.52 N1.84'
+_chemical_formula_sum 'Li0.48 Mg2.52 N1.84'
+_chemical_name_structure_type (Mg,Li)3N2-x
+_exptl_crystal_density_diffrn 2.41
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Tunable defect structure in the Li - Mg - N ternary phase system: a powder
+neutron diffraction study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2010 22 3174 3182 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Bailey, A.S.'
+primary 'Hubberstey, P.'
+primary 'Hughes, R.W.'
+primary 'Ritter, C.'
+primary 'Gregory, D.H.'
+_cell_length_a 9.9909(3)
+_cell_length_b 9.9909(3)
+_cell_length_c 9.9909(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 997.27
+_cell_formula_units_Z 16
+_space_group_name_H-M_alt 'I 21 3'
+_space_group_IT_number 199
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-z+1/2, -x, y+1/2'
+2 '-y+1/2, -z, x+1/2'
+3 '-x+1/2, -y, z+1/2'
+4 '-z, x+1/2, -y+1/2'
+5 '-y, z+1/2, -x+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'z+1/2, -x+1/2, -y'
+8 'y+1/2, -z+1/2, -x'
+9 'x+1/2, -y+1/2, -z'
+10 'z, x, y'
+11 'y, z, x'
+12 'x, y, z'
+13 '-z, -x+1/2, y'
+14 '-y, -z+1/2, x'
+15 '-x, -y+1/2, z'
+16 '-z+1/2, x, -y'
+17 '-y+1/2, z, -x'
+18 '-x+1/2, y, -z'
+19 'z, -x, -y+1/2'
+20 'y, -z, -x+1/2'
+21 'x, -y, -z+1/2'
+22 'z+1/2, x+1/2, y+1/2'
+23 'y+1/2, z+1/2, x+1/2'
+24 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Mg2+ 2
+Li1+ 1
+Mg2+ 2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 24 c -0.381(2) -0.382(2) -0.156(2) 0.0023(2) 0.05(2)
+Mg1 Mg2+ 24 c -0.381(2) -0.382(2) -0.156(2) 0.0023(2) 0.95(2)
+Li2 Li1+ 24 c 0.380(3) 0.401(3) 0.141(4) 0.0023(2) 0.27(3)
+Mg2 Mg2+ 24 c 0.380(3) 0.401(3) 0.141(4) 0.0023(2) 0.73(3)
+N1 N3- 12 b 0.980(1) 0 0.25 0.0029(2) 0.88(2)
+N2 N3- 12 b 0.475(1) 0 0.75 0.0029(2) 0.94(2)
+N3 N3- 8 a 0.758(1) 0.758(1) 0.758(1) 0.0029(2) 0.90(1)
+#End of TTdata_167577-ICSD
+#

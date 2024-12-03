@@ -1,0 +1,93 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_51332-ICSD
+_database_code_ICSD 51332
+_audit_creation_date 2002-10-01
+_audit_update_record 2005-10-01
+_chemical_name_common 'Lithium iron titanium phosphate(V) (2/1.08/0.92/3)'
+_chemical_formula_structural 'Li2 (Fe1.075 Ti0.925) (P O4)3'
+_chemical_formula_sum 'Fe1.075 Li2 O12 P3 Ti0.925'
+_chemical_name_structure_type Li2Mn2(SO4)3
+_exptl_crystal_density_diffrn 3.04
+_citation_title
+
+;
+A mixed alpha/beta superstructure in NASICON ionic conductors: neutron
+diffraction study of Li2 Fe Ti (P O4)3 and Li2 Fe Zr (P O4)3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2001 156 305 312 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Catti, M.'
+_cell_length_a 8.5515(1)
+_cell_length_b 8.6229(1)
+_cell_length_c 23.91159(30)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1763.21
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'P b c a'
+_space_group_IT_number 61
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z+1/2'
+3 '-x+1/2, y+1/2, z'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z+1/2'
+7 'x+1/2, -y+1/2, -z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Fe3+ 3
+Ti4+ 4
+Fe3+ 3
+Ti4+ 4
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 8 c 0.0187(23) 0.4667(24) 0.2106(8) 0.001(1) 1.
+Fe1 Fe3+ 8 c 0.5090(11) 0.2781(9) 0.1789(3) 0.015(1) 0.744(9)
+Ti1 Ti4+ 8 c 0.509(1) 0.2781(9) 0.1789(3) 0.015(1) 0.256(9)
+Fe2 Fe3+ 8 c 0.480(3) 0.7131(29) 0.0686(10) 0.002(1) 0.331(8)
+Ti2 Ti4+ 8 c 0.480(3) 0.7131(29) 0.0686(10) 0.002(1) 0.669(8)
+P1 P5+ 8 c 0.3576(9) 0.6442(10) 0.1972(4) 0.004(2) 1.
+P2 P5+ 8 c 0.3467(10) 0.3665(10) 0.0519(4) 0.004(2) 1.
+P3 P5+ 8 c 0.7900(9) 0.4888(10) 0.1200(4) 0.001(1) 1.
+O1 O2- 8 c 0.4112(10) 0.7016(10) 0.1411(3) 0.012(2) 1.
+O2 O2- 8 c 0.4207(9) 0.4893(8) 0.2146(3) 0.001(2) 1.
+O3 O2- 8 c 0.6860(11) 0.3877(11) 0.1586(4) 0.024(2) 1.
+O4 O2- 8 c 0.1804(8) 0.6483(10) 0.2009(3) 0.006(2) 1.
+O5 O2- 8 c 0.4203(10) 0.7642(8) 0.2443(3) 0.002(2) 1.
+O6 O2- 8 c 0.8929(11) 0.5840(11) 0.1613(4) 0.017(2) 1.
+O7 O2- 8 c 0.3955(9) 0.3220(8) 0.1110(3) 0.001(2) 1.
+O8 O2- 8 c 0.3894(9) 0.5398(8) 0.0415(3) 0.001(2) 1.
+O9 O2- 8 c 0.6856(11) 0.6067(11) 0.0907(4) 0.018(2) 1.
+O10 O2- 8 c 0.1706(9) 0.3536(9) 0.0466(3) 0.008(2) 1.
+O11 O2- 8 c 0.4275(10) 0.2536(7) 0.0147(3) 0.005(2) 1.
+O12 O2- 8 c 0.8867(10) 0.4117(9) 0.0773(3) 0.010(2) 1.
+#End of TTdata_51332-ICSD
+#

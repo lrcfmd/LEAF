@@ -1,0 +1,78 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_259612-ICSD
+_database_code_ICSD 259612
+_audit_creation_date 2018-08-01
+_chemical_name_common 'Diindium disilicate - F-doped'
+_chemical_formula_structural 'In2 Si2 O7'
+_chemical_formula_sum 'In2 O7 Si2'
+_chemical_name_structure_type Sc2Si2O7
+_exptl_crystal_density_diffrn 4.93
+_citation_title
+
+;
+Improved scintillation luminescence and thermal stability of In2Si2O7 ceramic
+phosphor
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Luminescence' 2017 183 166 172 JLUMA8
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Xu, Jian'
+primary 'Cao, Lei'
+primary 'Feng, Yongyi'
+primary 'Huang, Yanlin'
+primary 'Wang, Yaorong'
+primary 'Qin, Lin'
+primary 'Seo, Hyo Jin'
+_cell_length_a 6.6747(11)
+_cell_length_b 8.6870(14)
+_cell_length_c 4.7393(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 102.948
+_cell_angle_gamma 90.
+_cell_volume 267.81
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'C 1 2/m 1'
+_space_group_IT_number 12
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+In3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+In1 In3+ 4 g 0 0.3062(6) 0 0.0556(22) 1.
+Si1 Si4+ 4 i 0.2188 0 0.4106 -0.002(5) 1.
+O1 O2- 2 c 0 0 0.5 0.049(4) 1.
+O2 O2- 4 i 0.3848 0 0.7093 0.040(4) 1.
+O3 O2- 8 j 0.2348 0.1491 0.2225 0.0002 1.
+#End of TTdata_259612-ICSD
+#

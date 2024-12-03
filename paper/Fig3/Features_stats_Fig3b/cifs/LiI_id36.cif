@@ -1,0 +1,121 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_121061-ICSD
+_database_code_ICSD 121061
+_audit_creation_date 2021-08-01
+_chemical_name_common 'Dibarium trisilicotriborate hydroxide'
+_chemical_formula_structural 'Ba2 (Si3 B3 O12 (O H))'
+_chemical_formula_sum 'H1 B3 Ba2 O13 Si3'
+_exptl_crystal_density_diffrn 3.84
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+Flux synthesis and characterization of two barium hydroxyborosilicates with
+triple and single tetrahedral layers. Ba$_2$[Si$_3$B$_3$O$_{12}$(OH)] and
+Ba[Si$_2$BO$_6$(OH)]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2020 287 '' '' JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Chang, Ling-Wei'
+primary 'Liu, Hsin-Kuan'
+primary 'Lii, Kwang-Hwa'
+_cell_length_a 4.7112(2)
+_cell_length_b 29.9482(14)
+_cell_length_c 7.3773(4)
+_cell_angle_alpha 90
+_cell_angle_beta 92.593(2)
+_cell_angle_gamma 90
+_cell_volume 1039.81
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 1 21/n 1'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ba2+ 2
+B3+ 3
+Si4+ 4
+O2- -2
+H1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ba1 Ba2+ 4 e 0.22421(5) 0.82417(2) 0.54095(3) 0.01046(8) 1
+Ba2 Ba2+ 4 e -0.26788(5) 0.52811(2) 0.71314(3) 0.01023(8) 1
+B1 B3+ 4 e 0.2016(9) 0.71507(14) 0.7556(6) 0.0062(8) 1
+B2 B3+ 4 e 0.6733(9) 0.62985(14) 0.4673(6) 0.0057(7) 1
+B3 B3+ 4 e 0.2154(9) 0.58063(15) 1.0240(6) 0.0082(8) 1
+Si1 Si4+ 4 e 0.6746(2) 0.72354(4) 0.55041(14) 0.0070(2) 1
+Si2 Si4+ 4 e 0.2029(2) 0.62175(4) 0.67756(15) 0.0072(2) 1
+Si3 Si4+ 4 e 0.7291(2) 0.55928(4) 0.21276(14) 0.0074(2) 1
+O1 O2- 4 e 0.3611(6) 0.73741(9) 0.6175(4) 0.0100(5) 1
+O2 O2- 4 e 0.2913(6) 0.66843(9) 0.7708(4) 0.0097(5) 1
+O3 O2- 4 e -0.1074(6) 0.71907(9) 0.7254(4) 0.0090(5) 1
+O4 O2- 4 e 0.2775(6) 0.73367(10) 0.9368(4) 0.0098(6) 1
+O5 O2- 4 e 0.7675(6) 0.60850(10) 0.3032(4) 0.0100(6) 1
+O6 O2- 4 e 0.3882(6) 0.61203(9) 0.5042(4) 0.0103(6) 1
+O7 O2- 4 e 0.6690(6) 0.67845(9) 0.4277(4) 0.0097(6) 1
+O8 O2- 4 e 0.8657(6) 0.61846(9) 0.6277(4) 0.0096(5) 1
+O9 O2- 4 e 0.4140(6) 0.55039(9) 1.1183(4) 0.0104(6) 1
+O10 O2- 4 e -0.0707(6) 0.56161(10) 1.0375(4) 0.0106(6) 1
+O11 O2- 4 e 0.2352(6) 0.62636(9) 1.1022(4) 0.0100(5) 1
+H1 H1+ 4 e 0.2062 0.6188 0.2123 0.05 1
+O12 O2- 4 e 0.2760(6) 0.58309(10) 0.8279(4) 0.0092(5) 1
+O13 O2- 4 e 0.7866(6) 0.51882(10) 0.3497(4) 0.0107(6) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 Ba2+ 0.01099(13) 0.01072(13) 0.00968(13) 0.00056(8) 0.00077(9) -0.00169(8)
+Ba2 Ba2+ 0.01158(13) 0.01033(13) 0.00887(13) -0.00079(8) 0.00145(9) -0.00036(8)
+B1 B3+ 0.0079(19) 0.0081(19) 0.0024(18) -0.0005(15) -0.0006(14) -0.0018(15)
+B2 B3+ 0.0045(18) 0.0065(18) 0.0063(19) 0.0019(14) 0.0015(14) -0.0003(15)
+B3 B3+ 0.0070(19) 0.011(2) 0.0064(19) 0.0003(15) 0.0009(15) -0.0008(15)
+Si1 Si4+ 0.0077(5) 0.0081(5) 0.0052(5) 0.0005(4) 0.0008(4) 0.0005(4)
+Si2 Si4+ 0.0083(5) 0.0070(5) 0.0063(5) -0.0001(4) 0.0006(4) 0.0004(4)
+Si3 Si4+ 0.0076(5) 0.0085(5) 0.0061(5) 0.0005(4) 0.0013(4) -0.0001(4)
+O1 O2- 0.0085(13) 0.0123(14) 0.0094(14) -0.0002(10) 0.0044(10) 0.0032(11)
+O2 O2- 0.0106(13) 0.0100(14) 0.0084(13) 0.0007(10) -0.0007(11) -0.0005(11)
+O3 O2- 0.0080(13) 0.0121(14) 0.0071(13) -0.0009(10) 0.0016(10) 0.0011(11)
+O4 O2- 0.0105(13) 0.0117(14) 0.0071(13) 0.0013(10) -0.0004(10) -0.0020(10)
+O5 O2- 0.0127(13) 0.0096(13) 0.0078(13) -0.0011(10) 0.0027(11) -0.0009(10)
+O6 O2- 0.0096(13) 0.0135(14) 0.0082(13) -0.0009(11) 0.0036(10) -0.0019(11)
+O7 O2- 0.0132(14) 0.0087(13) 0.0071(13) 0.0014(10) 0.0007(11) -0.0015(10)
+O8 O2- 0.0084(12) 0.0095(13) 0.0110(13) -0.0001(10) 0.0013(10) 0.0027(11)
+O9 O2- 0.0073(13) 0.0126(14) 0.0112(14) 0.0008(10) -0.0007(10) 0.0021(11)
+O10 O2- 0.0076(13) 0.0149(14) 0.0095(13) -0.0038(11) 0.0029(10) -0.0040(11)
+O11 O2- 0.0132(14) 0.0084(13) 0.0087(13) -0.0009(10) 0.0047(10) -0.0006(11)
+O12 O2- 0.0104(13) 0.0125(14) 0.0049(12) 0.0004(10) 0.0018(10) 0.0017(10)
+O13 O2- 0.0114(13) 0.0097(13) 0.0110(14) 0.0028(11) 0.0000(11) 0.0028(11)
+#End of TTdata_121061-ICSD
+#

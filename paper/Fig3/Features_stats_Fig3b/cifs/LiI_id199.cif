@@ -1,0 +1,111 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_249903-ICSD
+_database_code_ICSD 249903
+_audit_creation_date 2010-02-01
+_chemical_name_common
+'Sodium hexarubidium fluoride tris(uranyl(VI))bis(disilicate)'
+_chemical_formula_structural '(Na Rb6 F) ((U O2)3 (Si2 O7)2)'
+_chemical_formula_sum 'F1 Na1 O20 Rb6 Si4 U3'
+_exptl_crystal_density_diffrn 4.76
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+Flux synthesis of salt-inclusion uranyl silicates: [K3 Cs4 F] [(U O2)3 (Si2
+O7)2] and [Na Rb6 F] [(U O2)3 (Si2 O7)2]
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2009 48 8357 8361 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Lee Cheng shiuan'
+primary 'Wang Sue Lein'
+primary 'Chen Yenhung'
+primary 'Lii Kwanghwa'
+_cell_length_a 11.1429(2)
+_cell_length_b 13.5151(3)
+_cell_length_c 7.8868(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1187.73
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P n n m'
+_space_group_IT_number 58
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x+1/2, y+1/2, z+1/2'
+3 'x, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x+1/2, -y+1/2, -z+1/2'
+7 '-x, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Rb1+ 1
+U6+ 6
+Si4+ 4
+O2- -2
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Na1 Na1+ 2 b 0.5 0.5 0. 0.0259(8) 1
+Rb1 Rb1+ 8 h 0.31489(4) 0.05679(3) 0.24782(5) 0.02240(10) 1
+Rb2 Rb1+ 4 g 0.56908(5) 0.19895(4) -0.5 0.01450(11) 1
+U1 U6+ 4 g 0.611405(16) 0.226616(15) 0. 0.00780(5) 1
+U2 U6+ 2 a 0.5 0.5 -0.5 0.00747(6) 1
+Si1 Si4+ 8 h 0.35789(8) 0.32433(8) 0.19626(13) 0.00787(19) 1
+O1 O2- 4 g 0.3233(3) 0.3597(3) 0. 0.0110(7) 1
+O2 O2- 8 h 0.2386(2) 0.2801(2) 0.2838(3) 0.0170(6) 1
+O3 O2- 8 h 0.4597(2) 0.2387(2) 0.1856(3) 0.0129(5) 1
+O4 O2- 8 h 0.4024(2) 0.4232(2) 0.2914(4) 0.0181(6) 1
+O5 O2- 4 g 0.6298(3) 0.3623(3) 0. 0.0139(8) 1
+O6 O2- 4 g 0.5947(4) 0.0919(3) 0. 0.0178(9) 1
+O7 O2- 4 g 0.3807(3) 0.5932(3) -0.5 0.0147(8) 1
+F1 F1- 2 c 0.5 0. -0.5 0.0247(11) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0238(17) 0.0160(18) 0.038(2) -0.0010(15) 0. 0.
+Rb1 Rb1+ 0.0224(2) 0.0213(2) 0.0235(2) -0.00149(17) -0.00441(16) -0.00261(17)
+Rb2 Rb1+ 0.0140(2) 0.0189(3) 0.0107(2) 0.0000(2) 0. 0.
+U1 U6+ 0.00646(9) 0.00963(10) 0.00732(9) 0.00109(7) 0. 0.
+U2 U6+ 0.00868(12) 0.00736(13) 0.00637(12) -0.00101(10) 0. 0.
+Si1 Si4+ 0.0066(4) 0.0111(5) 0.0059(4) -0.0004(4) 0.0005(4) 0.0000(4)
+O1 O2- 0.0130(17) 0.0141(19) 0.0058(17) 0.0043(15) 0. 0.
+O2 O2- 0.0103(12) 0.0264(16) 0.0141(13) -0.0029(12) 0.0030(11) 0.0017(12)
+O3 O2- 0.0123(12) 0.0148(14) 0.0117(13) 0.0031(11) 0.0027(10) 0.0021(11)
+O4 O2- 0.0198(14) 0.0181(15) 0.0164(14) -0.0033(12) -0.0039(12) -0.0065(12)
+O5 O2- 0.0129(18) 0.0124(19) 0.0165(19) 0.0002(15) 0. 0.
+O6 O2- 0.021(2) 0.0089(19) 0.023(2) 0.0020(16) 0. 0.
+O7 O2- 0.0119(18) 0.014(2) 0.018(2) 0.0033(16) 0. 0.
+F1 F1- 0.028(3) 0.017(3) 0.030(3) -0.005(2) 0. 0.
+#End of TTdata_249903-ICSD
+#

@@ -1,0 +1,91 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_424835-ICSD
+_database_code_ICSD 424835
+_audit_creation_date 2013-08-01
+_chemical_name_common 'Trilithium arsenic trisulfide'
+_chemical_formula_structural 'Li3 As S3'
+_chemical_formula_sum 'As1 Li3 S3'
+_chemical_name_structure_type Li3AsS3
+_exptl_crystal_density_diffrn 2.4
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Preparation, crystal structure, electronic structure, impedance spectroscopy,
+and Raman spectroscopy of Li3 Sb S3 and Li3 As S3
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2012
+638 2542 2548 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Huber, Sebastian'
+primary 'Preitschaft, Christian'
+primary 'Weihrich, Richard'
+primary 'Pfitzner, Arno'
+_cell_length_a 8.0900(10)
+_cell_length_b 6.6580(10)
+_cell_length_c 9.8680(10)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 531.52
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n a 21'
+_space_group_IT_number 33
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+As3+ 3
+S2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+As1 As3+ 4 a 0.246662(13) 0.09720(2) 0. 0.01515(6) 1
+S1 S2- 4 a 0.16072(5) 0.29093(8) 0.17325(5) 0.01762(9) 1
+S2 S2- 4 a 0.04451(4) 0.86014(5) 0.99019(6) 0.01691(7) 1
+S3 S2- 4 a 0.18468(5) 0.28033(8) 0.81393(5) 0.01824(10) 1
+Li1 Li1+ 4 a 0.9343(4) 0.0495(6) 0.2184(4) 0.0305(6) 1
+Li2 Li1+ 4 a 0.0784(4) 0.6462(5) 0.1889(3) 0.0264(6) 1
+Li3 Li1+ 4 a 0.2513(4) 0.6155(6) 0.8890(4) 0.0287(8) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 As3+ 0.01483(8) 0.01548(9) 0.01513(8) 0.00094(4) -0.00056(6) -0.00040(7)
+S1 S2- 0.02102(15) 0.0157(2) 0.01613(17) -0.00028(13) -0.00048(14) -0.00197(15)
+S2 S2- 0.01940(14) 0.01515(16) 0.01619(12) -0.00154(11) -0.00171(17) 0.00072(19)
+S3 S2- 0.0228(2) 0.0166(2) 0.01540(17) -0.00143(13) -0.00057(12) 0.00090(16)
+Li1 Li1+ 0.0290(15) 0.0239(18) 0.0386(16) -0.0008(13) 0.0037(12) 0.0025(13)
+Li2 Li1+ 0.0271(12) 0.0249(18) 0.0273(14) 0.0046(11) 0.0010(11) 0.0036(12)
+Li3 Li1+ 0.0314(19) 0.023(2) 0.0317(19) 0.0005(10) 0.0033(11) -0.0016(12)
+#End of TTdata_424835-ICSD
+#

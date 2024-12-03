@@ -1,0 +1,126 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239151-ICSD
+_database_code_ICSD 239151
+_audit_creation_date 2016-08-01
+_chemical_name_common
+
+;
+Lithium hydrogen lanthanum zirconium oxide (1.87/4.93/2.97/1.98/12) -
+c150-LLZO
+;
+_chemical_formula_structural 'Li1.87 H4.93 La2.97 Zr1.98 O12'
+_chemical_formula_sum 'H4.93 La2.97 Li1.87 O12 Zr1.98'
+_chemical_name_mineral Garnet
+_exptl_crystal_density_diffrn 4.79
+_diffrn_ambient_temperature 77.
+_citation_title
+
+;
+Influence of Li+ and H+ distribution on the crystal structure of Li7-x Hx La3
+Zr2 O12 (0 <= x <= 5) garnets
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2016 55 1324 1332 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Orera, Alodia'
+primary 'Larraz, Guillermo'
+primary 'Rodriguez-Velamazan, Jose Alberto'
+primary 'Campo, Javier'
+primary 'Sanjuan, Maria Luisa'
+_cell_length_a 13.06245(3)
+_cell_length_b 13.06245(3)
+_cell_length_c 13.06245(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2228.79
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'I -4 3 d'
+_space_group_IT_number 220
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y+1/4, -x+3/4, z+3/4'
+2 'y+3/4, -x+1/4, -z+3/4'
+3 '-y+3/4, x+3/4, -z+1/4'
+4 'y+1/4, x+1/4, z+1/4'
+5 'z+1/2, -x+1/2, -y'
+6 '-z+1/2, -x, y+1/2'
+7 '-z, x+1/2, -y+1/2'
+8 'z, x, y'
+9 'z+3/4, -y+1/4, -x+3/4'
+10 '-z+3/4, y+3/4, -x+1/4'
+11 '-z+1/4, -y+3/4, x+3/4'
+12 'z+1/4, y+1/4, x+1/4'
+13 '-y, z+1/2, -x+1/2'
+14 'y+1/2, -z+1/2, -x'
+15 '-y+1/2, -z, x+1/2'
+16 'y, z, x'
+17 '-x+3/4, z+3/4, -y+1/4'
+18 '-x+1/4, -z+3/4, y+3/4'
+19 'x+3/4, -z+1/4, -y+3/4'
+20 'x+1/4, z+1/4, y+1/4'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+25 '-y+3/4, -x+1/4, z+1/4'
+26 'y+1/4, -x+3/4, -z+1/4'
+27 '-y+1/4, x+1/4, -z+3/4'
+28 'y+3/4, x+3/4, z+3/4'
+29 'z, -x, -y+1/2'
+30 '-z, -x+1/2, y'
+31 '-z+1/2, x, -y'
+32 'z+1/2, x+1/2, y+1/2'
+33 'z+1/4, -y+3/4, -x+1/4'
+34 '-z+1/4, y+1/4, -x+3/4'
+35 '-z+3/4, -y+1/4, x+1/4'
+36 'z+3/4, y+3/4, x+3/4'
+37 '-y+1/2, z, -x'
+38 'y, -z, -x+1/2'
+39 '-y, -z+1/2, x'
+40 'y+1/2, z+1/2, x+1/2'
+41 '-x+1/4, z+1/4, -y+3/4'
+42 '-x+3/4, -z+1/4, y+1/4'
+43 'x+1/4, -z+3/4, -y+1/4'
+44 'x+3/4, z+3/4, y+3/4'
+45 '-x, -y+1/2, z'
+46 '-x+1/2, y, -z'
+47 'x, -y, -z+1/2'
+48 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Zr4+ 4
+Li1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+La1 La3+ 24 d 0.1309(2) 0 0.25 . 0.99
+Zr1 Zr4+ 16 c 0.0120(1) 0.0120(1) 0.0120(1) . 0.99
+Li1 Li1+ 12 a 0.25 0.375 0 . 0.34
+Li2 Li1+ 12 b 0.75 0.625 0 . 0.908
+O1 O2- 48 e 0.2862(2) 0.1086(2) 0.1955(2) . 1.
+O2 O2- 48 e 0.7273(2) 0.9042(2) 0.8113(2) . 1.
+H1 H1+ 48 e 0.3441(6) 0.3912(5) 0.0692(6) . 0.821
+#End of TTdata_239151-ICSD
+#

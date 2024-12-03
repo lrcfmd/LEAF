@@ -1,0 +1,150 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_431393-ICSD
+_database_code_ICSD 431393
+_audit_creation_date 2017-08-01
+_chemical_name_common
+'Iron lanthanum lithium zirconium oxide (0.2/2.96/5.59/2/12) - LLZO'
+_chemical_formula_structural 'Fe0.20 La2.96 Li5.59 Zr2 O12'
+_chemical_formula_sum 'Fe0.2 La2.96 Li5.59 O12 Zr2'
+_chemical_name_mineral Garnet
+_exptl_crystal_density_diffrn 5.08
+_diffrn_ambient_temperature 298.
+_citation_title
+
+;
+Fast Li-ion-conducting garnet-related Li7-3x Fex La3 Zr2 O12 with uncommon
+I43d structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2016 28 5943 5951 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Wagner, Reinhard'
+primary 'Redhammer, Guenther J.'
+primary 'Rettenwander, Daniel'
+primary 'Tippelt, Gerold'
+primary 'Welzl, Andreas'
+primary 'Taibl, Stefanie'
+primary 'Fleig, Juergen'
+primary 'Franz, Alexandra'
+primary 'Lottermoser, Werner'
+primary 'Amthauer, Georg'
+_cell_length_a 12.97670(10)
+_cell_length_b 12.97670(10)
+_cell_length_c 12.97670(10)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2185.2
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'I -4 3 d'
+_space_group_IT_number 220
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y+1/4, -x+3/4, z+3/4'
+2 'y+3/4, -x+1/4, -z+3/4'
+3 '-y+3/4, x+3/4, -z+1/4'
+4 'y+1/4, x+1/4, z+1/4'
+5 'z+1/2, -x+1/2, -y'
+6 '-z+1/2, -x, y+1/2'
+7 '-z, x+1/2, -y+1/2'
+8 'z, x, y'
+9 'z+3/4, -y+1/4, -x+3/4'
+10 '-z+3/4, y+3/4, -x+1/4'
+11 '-z+1/4, -y+3/4, x+3/4'
+12 'z+1/4, y+1/4, x+1/4'
+13 '-y, z+1/2, -x+1/2'
+14 'y+1/2, -z+1/2, -x'
+15 '-y+1/2, -z, x+1/2'
+16 'y, z, x'
+17 '-x+3/4, z+3/4, -y+1/4'
+18 '-x+1/4, -z+3/4, y+3/4'
+19 'x+3/4, -z+1/4, -y+3/4'
+20 'x+1/4, z+1/4, y+1/4'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+25 '-y+3/4, -x+1/4, z+1/4'
+26 'y+1/4, -x+3/4, -z+1/4'
+27 '-y+1/4, x+1/4, -z+3/4'
+28 'y+3/4, x+3/4, z+3/4'
+29 'z, -x, -y+1/2'
+30 '-z, -x+1/2, y'
+31 '-z+1/2, x, -y'
+32 'z+1/2, x+1/2, y+1/2'
+33 'z+1/4, -y+3/4, -x+1/4'
+34 '-z+1/4, y+1/4, -x+3/4'
+35 '-z+3/4, -y+1/4, x+1/4'
+36 'z+3/4, y+3/4, x+3/4'
+37 '-y+1/2, z, -x'
+38 'y, -z, -x+1/2'
+39 '-y, -z+1/2, x'
+40 'y+1/2, z+1/2, x+1/2'
+41 '-x+1/4, z+1/4, -y+3/4'
+42 '-x+3/4, -z+1/4, y+1/4'
+43 'x+1/4, -z+3/4, -y+1/4'
+44 'x+3/4, z+3/4, y+3/4'
+45 '-x, -y+1/2, z'
+46 '-x+1/2, y, -z'
+47 'x, -y, -z+1/2'
+48 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Zr4+ 4
+O2- -2
+Li1+ 1
+Fe3+ 3
+Li1+ 1
+Fe3+ 3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+La1 La3+ 24 d 0.11983(2) 0 0.25 0.00606(6) 0.985(3)
+Zr1 Zr4+ 16 c -0.00022(2) -0.00022(2) -0.00022(2) 0.00470(10) 1
+O1 O2- 48 e 0.09754(18) 0.19627(18) 0.27948(18) 0.0083(4) 1
+O2 O2- 48 e 0.0337(2) 0.4453(2) 0.14704(18) 0.0104(4) 1
+Li1 Li1+ 12 a 0.375 0 0.25 0.0034(8) 0.626(3)
+Fe1 Fe3+ 12 a 0.375 0 0.25 0.0034(8) 0.124(3)
+Li2 Li1+ 12 b 0.875 0 0.25 0.016(3) 0.739(3)
+Fe2 Fe3+ 12 b 0.875 0 0.25 0.016(3) 0.011(3)
+Li3 Li1+ 48 e 0.0971(8) 0.1864(8) 0.4275(8) 0.0113(18) 0.5897
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La1 La3+ 0.00638(9) 0.00585(10) 0.00595(10) 0 0 0.00073(6)
+Zr1 Zr4+ 0.00470(10) 0.00470(10) 0.00470(10) 0.00010(7) 0.00010(7) 0.00010(7)
+O1 O2- 0.0080(9) 0.0079(9) 0.0090(9) -0.0007(7) 0.0013(7) -0.0002(7)
+O2 O2- 0.0128(10) 0.0124(10) 0.0060(9) 0.0018(8) -0.0008(7) 0.0011(7)
+Li1 Li1+ 0.0043(16) 0.0029(11) 0.0029(11) 0 0 0
+Fe1 Fe3+ 0.0043(16) 0.0029(11) 0.0029(11) 0 0 0
+Li2 Li1+ 0.013(6) 0.018(4) 0.018(4) 0 0 0
+Fe2 Fe3+ 0.013(6) 0.018(4) 0.018(4) 0 0 0
+Li3 Li1+ 0.018(5) 0.011(4) 0.005(4) -0.005(3) 0.002(3) 0.000(3)
+#End of TTdata_431393-ICSD
+#

@@ -1,0 +1,95 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_45753-ICSD
+_database_code_ICSD 45753
+_audit_creation_date 2022-08-01
+_chemical_name_common 'Neodymium scandium tetrakis(orthoborate)'
+_chemical_formula_structural 'Nd1.42 Sc2.58 (B O3)4'
+_chemical_formula_sum 'B4 Nd1.42 O12 Sc2.58'
+_chemical_name_structure_type Huntite#CaMg3(CO3)4
+_exptl_crystal_density_diffrn 4.22
+_citation_title
+
+;
+Study of RBO$_3$-ScBO$_3$ phase diagrams and RSc$_3$(BO$_3$)$_4$ orthoborates
+(R = La, Pr and Nd)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2022 905 '' '' JALCEU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Jamous, A.Y.'
+primary 'Kuznetsov, A.B.'
+primary 'Kokh, K.A.'
+primary 'Svetlichnyi, V.A.'
+primary 'Kononova, N.G.'
+primary 'Shevchenko, V.S.'
+primary 'Ryadun, A.A.'
+primary 'Kokh, A.E.'
+_cell_length_a 9.7703(4)
+_cell_length_b 9.7703(4)
+_cell_length_c 7.9479(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 657.05
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'R 3 2 H'
+_space_group_IT_number 155
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+2/3, -x+y+1/3, -z+1/3'
+8 'x-y+2/3, -y+1/3, -z+1/3'
+9 'y+2/3, x+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+1/3, -x+y+2/3, -z+2/3'
+14 'x-y+1/3, -y+2/3, -z+2/3'
+15 'y+1/3, x+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Nd3+ 3
+Sc3+ 3
+Nd3+ 3
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Nd1 Nd3+ 9 d 0.1172(8) 0.3333 0.3333 0.0108(3) 0.1458(6)
+Sc1 Sc3+ 9 d 0.1172(8) 0.3333 0.3333 0.0108(3) 0.8541(6)
+Sc2 Sc3+ 3 a 0.3333 0.6667 0.6667 0.0049(6) 0.0179(7)
+Nd2 Nd3+ 3 a 0.3333 0.6667 0.6667 0.0049(6) 0.9820(7)
+B1 B3+ 9 e 0 0.5744(6) 0.5 0.0441(3) 1
+B2 B3+ 3 b 0 0 0.5 0.0125(4) 1
+O1 O2- 9 e 0 0.3975(2) 0.5 0.0277(3) 1
+O2 O2- 9 e 0.1475(8) 0.1475(8) 0.5 0.0156(5) 1
+O3 O2- 18 f 0.1249(5) 0.6623(2) 0.4695(8) 0.0879(3) 1
+#End of TTdata_45753-ICSD
+#

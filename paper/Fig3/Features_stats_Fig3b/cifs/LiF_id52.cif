@@ -1,0 +1,128 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_280609-ICSD
+_database_code_ICSD 280609
+_audit_creation_date 2008-07-07
+_audit_update_record 2013-02-01
+_chemical_name_common 'Potassium tantalum oxide (0.96/1/2.96)'
+_chemical_formula_structural 'K0.959 Ta O2.958'
+_chemical_formula_sum 'K0.959 O2.958 Ta1'
+_chemical_name_structure_type Perovskite#CaTiO3
+_exptl_crystal_density_diffrn 6.87
+_diffrn_ambient_temperature 295.
+_citation_title
+
+;
+A novel perovskite-like Ta-bronze K Ta1+z O3:preparation, stoichiometry,
+conductivity and crystalstructure studies
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section B: Structural Science' 2001 57 157 162
+ASBSDK
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Arakcheeva, A.V.'
+primary 'Chapuis, G.'
+primary 'Grinevich, V.V.'
+primary 'Shamrai, V.F.'
+_cell_length_a 4.0050(4)
+_cell_length_b 4.0050(4)
+_cell_length_c 4.0050(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 64.24
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P m -3 m'
+_space_group_IT_number 221
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'z, y, -x'
+2 'y, x, -z'
+3 'x, z, -y'
+4 'z, x, -y'
+5 'y, z, -x'
+6 'x, y, -z'
+7 'z, -y, x'
+8 'y, -x, z'
+9 'x, -z, y'
+10 'z, -x, y'
+11 'y, -z, x'
+12 'x, -y, z'
+13 '-z, y, x'
+14 '-y, x, z'
+15 '-x, z, y'
+16 '-z, x, y'
+17 '-y, z, x'
+18 '-x, y, z'
+19 '-z, -y, -x'
+20 '-y, -x, -z'
+21 '-x, -z, -y'
+22 '-z, -x, -y'
+23 '-y, -z, -x'
+24 '-x, -y, -z'
+25 '-z, -y, x'
+26 '-y, -x, z'
+27 '-x, -z, y'
+28 '-z, -x, y'
+29 '-y, -z, x'
+30 '-x, -y, z'
+31 '-z, y, -x'
+32 '-y, x, -z'
+33 '-x, z, -y'
+34 '-z, x, -y'
+35 '-y, z, -x'
+36 '-x, y, -z'
+37 'z, -y, -x'
+38 'y, -x, -z'
+39 'x, -z, -y'
+40 'z, -x, -y'
+41 'y, -z, -x'
+42 'x, -y, -z'
+43 'z, y, x'
+44 'y, x, z'
+45 'x, z, y'
+46 'z, x, y'
+47 'y, z, x'
+48 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ta5+ 4.957
+K1+ 1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ta1 Ta5+ 1 a 0 0 0 . 1.
+K1 K1+ 1 b 0.5 0.5 0.5 . 0.959(1)
+O1 O2- 6 e 0.515(1) 0 0 . 0.493(8)
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ta1 Ta5+ 0.0065(1) 0.0065(1) 0.0065(1) 0 0 0
+K1 K1+ 0.004208 0.0042(2) 0.0042(2) 0 0 0
+O1 O2- 0.0010(2) 0.0078(2) 0.0078(2) 0 0 0
+#End of TTdata_280609-ICSD
+#

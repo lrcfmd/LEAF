@@ -1,0 +1,85 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_161794-ICSD
+_database_code_ICSD 161794
+_audit_creation_date 2009-02-01
+_chemical_name_common 'Lithium iron phosphate(V) silicate (0.5/1.5/0.5/0.5)'
+_chemical_formula_structural '(Li0.5 Fe1.5) ((P O4)0.5 (Si O4)0.5)'
+_chemical_formula_sum 'Fe1.5 Li0.5 O4 P0.5 Si0.5'
+_chemical_name_structure_type Olivine#Mg2SiO4
+_chemical_name_mineral Triphylite-fayalite
+_exptl_crystal_density_diffrn 3.99
+_citation_title
+
+;
+Formation of a complete solid solution between the triphylite and fayalite
+olivine structures
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2008 20 6798 6809 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Recham, N.'
+primary 'Casas-Cabanas, M.'
+primary 'Cabana, J.'
+primary 'Grey, C.P.'
+primary 'Jumas, J.C.'
+primary 'Dupont, L.'
+primary 'Armand, M.'
+primary 'Tarascon, J.-M.'
+_cell_length_a 10.4398(1)
+_cell_length_b 6.04957(7)
+_cell_length_c 4.77074(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 301.3
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Fe2+ 2
+P5+ 5
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 4 a 0 0 0 2.1(1) 0.506(3)
+Fe1 Fe2+ 4 a 0 0 0 2.1(1) 0.494(3)
+Fe2 Fe2+ 4 c 0.2810(1) 0.25 0.9850(4) 1.51(5) 1.
+P1 P5+ 4 c 0.0977(3) 0.25 0.4260(5) 1.60(8) 0.506(3)
+Si1 Si4+ 4 c 0.0977(3) 0.25 0.4260(5) 1.60(8) 0.494(3)
+O1 O2- 4 c 0.0944(6) 0.25 0.7507(8) 2.42(8) 1.
+O2 O2- 4 c 0.459(5) 0.25 0.2037(9) 2.42(8) 1.
+O3 O2- 8 d 0.1651(5) 0.0443(6) 0.2926(7) 2.42(8) 1.
+#End of TTdata_161794-ICSD
+#

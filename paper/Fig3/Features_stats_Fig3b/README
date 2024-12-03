@@ -1,0 +1,5 @@
+1) READ Liion_roomT.csv
+2) get ICSD structures: get_Li*py -> save cifs in cifs/
+3) for each cif calculate lostops: calc_lostops*py -> save results as pickles in features/
+4) process lostops via stats.py -> save results in lostops.csv and lostops.pickle 
+5) arrange statistics in regard to conductivity: process_stats.py

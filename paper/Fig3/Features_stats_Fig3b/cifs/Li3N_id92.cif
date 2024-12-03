@@ -1,0 +1,77 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_161796-ICSD
+_database_code_ICSD 161796
+_audit_creation_date 2009-02-01
+_chemical_name_common 'Calcium aluminium silicon nitride (1/0.54/1.38/3)'
+_chemical_formula_structural 'Ca (Al0.54 Si1.38) N3'
+_chemical_formula_sum 'Al0.54 Ca1 N3 Si1.38'
+_chemical_name_structure_type Na2SiO3
+_exptl_crystal_density_diffrn 3.23
+_citation_title
+
+;
+Yellow-orange-emitting Ca Al Si N3 : Ce(3+) phosphor: structure,
+photoluminescence and application in white LED's
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2008 20 6704 6714 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Li, Y.Q.'
+primary 'Hirosaki, N.'
+primary 'Xie, R.J.'
+primary 'Takeda, T.'
+primary 'Mitomo, M.'
+_cell_length_a 9.7558(2)
+_cell_length_b 5.6473(1)
+_cell_length_c 5.0524(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 278.36
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C m c 21'
+_space_group_IT_number 36
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, z+1/2'
+7 '-x+1/2, y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ca2+ 2
+Al3+ 3
+Si4+ 4
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ca1 Ca2+ 4 a 0 0.3154(3) 0.4921(4) 0.0200(1) 1.
+Al1 Al3+ 8 b 0.1723(2) 0.1560(3) 0.0177(1) 0.0004(1) 0.27
+Si1 Si4+ 8 b 0.1723(2) 0.1560(3) 0.0177(1) 0.0004(1) 0.69
+N1 N3- 8 b 0.2120(4) 0.1264(8) 0.3708(6) 0.0008(2) 1.
+N2 N3- 4 a 0 0.2379(7) -0.0308(13) 0.0004(1) 1.
+#End of TTdata_161796-ICSD
+#

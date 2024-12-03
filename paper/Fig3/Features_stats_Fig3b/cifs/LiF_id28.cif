@@ -1,0 +1,105 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_144215-ICSD
+_database_code_ICSD 144215
+_audit_creation_date 2022-08-01
+_chemical_name_common 'Potassium monoammine pentafluorido silicate(IV)'
+_chemical_formula_structural 'K (Si F5 (N H3))'
+_chemical_formula_sum 'H3 F5 K1 N1 Si1'
+_exptl_crystal_density_diffrn 2.39
+_diffrn_ambient_temperature 100.
+_citation_title
+
+;
+Reactions of [SiF\(_4\)(NH\(_3\))\(_2\)] with fluorides AF (A = Li-Cs, Tl,
+NH\(_4\)) in liquid NH\(_3\). A [NH\(_4\)(NH\(_3\))\(_2\)]\(^+\) cation and a
+thallophilic interaction in [Tl\(_2\)(NH\(_3\))\(_6\)]\(^{2+}\)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2021 60 15031 15040 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Rudel, Stefan S.'
+primary 'Graubner, Tim'
+primary 'Karttunen, Antti J.'
+primary 'Dehnen, Stefanie'
+primary 'Kraus, Florian'
+_cell_length_a 6.0005(9)
+_cell_length_b 6.0005(9)
+_cell_length_c 6.9039(14)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 248.58
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 4/n m m Z'
+_space_group_IT_number 129
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y+1/2, x+1/2, -z'
+2 '-y, x+1/2, -z'
+3 'y+1/2, -x, -z'
+4 '-y, -x, -z'
+5 'x+1/2, y+1/2, -z'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y, -z'
+8 '-x, -y, -z'
+9 '-y+1/2, -x+1/2, z'
+10 'y, -x+1/2, z'
+11 '-y+1/2, x, z'
+12 'y, x, z'
+13 '-x+1/2, -y+1/2, z'
+14 'x, -y+1/2, z'
+15 '-x+1/2, y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Si4+ 4
+F1- -1
+N3- -3
+H1+ 1
+F1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+K1 K1+ 2 a 0.75 0.25 0. 0.0179(2) 1
+Si1 Si4+ 2 c 0.75 0.75 0.25865(12) 0.0155(2) 1
+F1 F1- 2 c 0.75 0.75 0.0158(3) 0.0196(4) 1
+N1 N3- 2 c 0.75 0.75 0.5337(4) 0.0178(5) 1
+H1 H1+ 16 k 0.751159 0.607024 0.577599 0.027 0.125
+H2 H1+ 16 k 0.625599 0.820484 0.577599 0.027 0.125
+H3 H1+ 16 k 0.873241 0.822492 0.5776 0.027 0.125
+F2 F1- 8 j 0.94825(12) 0.55175(12) 0.26066(13) 0.0204(3) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0171(2) 0.0171(2) 0.0195(3) 0. 0. 0.
+Si1 Si4+ 0.0148(3) 0.0148(3) 0.0168(4) 0. 0. 0.
+F1 F1- 0.0210(6) 0.0210(6) 0.0167(8) 0. 0. 0.
+N1 N3- 0.0175(7) 0.0175(7) 0.0185(11) 0. 0. 0.
+F2 F1- 0.0197(3) 0.0197(3) 0.0220(5) 0.0052(3) 0.0002(2) -0.0002(2)
+#End of TTdata_144215-ICSD
+#

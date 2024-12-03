@@ -1,0 +1,105 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_410779-ICSD
+_database_code_ICSD 410779
+_audit_creation_date 2002-04-01
+_chemical_name_common 'Trilithium hexafluorchromate(III) - beta'
+_chemical_formula_structural 'Li3 (Cr F6)'
+_chemical_formula_sum 'Cr1 F6 Li3'
+_chemical_name_structure_type Zn4Ta2O9
+_exptl_crystal_density_diffrn 3.02
+_citation_title
+'Preparation, magnetic properties and structure of beta-Li3 Cr F6'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Materials Research Bulletin' 2000 35 135 141 MRBUAC
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Tyagi, A.K.'
+primary 'Koehler, J.'
+_cell_length_a 14.381(1)
+_cell_length_b 8.605(1)
+_cell_length_c 10.012(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 94.85(1)
+_cell_angle_gamma 90.
+_cell_volume 1234.53
+_cell_formula_units_Z 12
+_space_group_name_H-M_alt 'C 1 2/c 1'
+_space_group_IT_number 15
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cr3+ 3
+F1- -1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Cr1 Cr3+ 4 a 0 0 0 . 1.
+Cr2 Cr3+ 8 f 0.33660(3) 0.00194(8) 0.70494(5) . 1.
+F1 F1- 8 f 0.09480(14) 0.3404(3) 0.1959(2) . 1.
+F2 F1- 8 f 0.23055(15) 0.3396(3) 0.8890(2) . 1.
+F3 F1- 8 f 0.10047(15) 0.3414(3) 0.6943(2) . 1.
+F4 F1- 8 f 0.24758(14) 0.0188(2) 0.83647(19) . 1.
+F5 F1- 8 f 0.07671(15) 0.1607(3) -.0632(2) . 1.
+F6 F1- 8 f -.07267(15) 0.1645(2) 0.0656(2) . 1.
+F7 F1- 8 f 0.42130(14) -.0088(3) 0.56830(19) . 1.
+F8 F1- 8 f 0.26193(14) 0.1549(3) 0.6068(2) . 1.
+F9 F1- 8 f 0.07270(14) 0.0063(3) 0.16572(19) . 1.
+Li1 Li1+ 4 e 0 0.1913(11) 0.25 . 1.
+Li2 Li1+ 8 f 0.2986(4) 0.3573(8) 0.5677(7) . 1.
+Li3 Li1+ 8 f 0.3331(5) 0.2123(9) 0.9491(7) . 1.
+Li4 Li1+ 8 f 0.0232(5) 0.3513(8) 0.5397(7) . 1.
+Li5 Li1+ 8 f 0.1404(5) -.1460(8) 0.2671(7) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cr1 Cr3+ 0.0079(3) 0.0070(4) 0.0089(3) -.0002(4) 0.0017(2) -.0006(4)
+Cr2 Cr3+ 0.0085(3) 0.0070(3) 0.0085(3) 0.0000(2) 0.00172(18) 0.0004(2)
+F1 F1- 0.0123(11) 0.0134(11) 0.0151(12) -.0035(9) 0.0025(9) -.0045(9)
+F2 F1- 0.0135(11) 0.0145(11) 0.0147(13) 0.0036(9) 0.0010(9) 0.0035(9)
+F3 F1- 0.0170(11) 0.0116(10) 0.0140(11) -.0020(9) -.0018(9) -.0003(9)
+F4 F1- 0.0137(10) 0.0122(11) 0.0126(9) 0.0011(9) 0.0056(8) 0.0033(9)
+F5 F1- 0.0151(11) 0.0133(11) 0.0161(12) -.0067(9) 0.0036(9) 0.0010(9)
+F6 F1- 0.0122(10) 0.0112(11) 0.0127(12) 0.0017(9) 0.0024(9) -.0020(9)
+F7 F1- 0.0151(9) 0.0145(11) 0.0145(9) 0.0013(10) 0.0071(8) -.0006(10)
+F8 F1- 0.0151(11) 0.0132(11) 0.0137(12) 0.0018(9) -.0010(9) 0.0047(9)
+F9 F1- 0.0157(9) 0.0155(10) 0.0123(9) 0.0025(10) -.0013(7) 0.0002(10)
+Li1 Li1+ 0.019(5) 0.020(5) 0.015(5) 0 0.001(4) 0
+Li2 Li1+ 0.016(3) 0.016(3) 0.018(3) -.004(3) 0.002(3) -.003(3)
+Li3 Li1+ 0.018(3) 0.031(4) 0.016(3) 0.008(3) 0.002(3) -.002(3)
+Li4 Li1+ 0.020(3) 0.020(3) 0.019(3) 0.000(3) 0.000(3) -.001(3)
+Li5 Li1+ 0.019(3) 0.015(3) 0.029(4) -.003(3) -.003(3) -.005(3)
+#End of TTdata_410779-ICSD
+#

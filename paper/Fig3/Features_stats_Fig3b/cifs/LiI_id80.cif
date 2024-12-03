@@ -1,0 +1,73 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_203048-ICSD
+_database_code_ICSD 203048
+_audit_creation_date 1990-12-27
+_audit_update_record 2010-08-01
+_chemical_name_common 'Tungsten(V) phosphorus oxide'
+_chemical_formula_structural 'W P O5'
+_chemical_formula_sum 'O5 P1 W1'
+_chemical_name_structure_type WPO5
+_exptl_crystal_density_diffrn 5.12
+_citation_title
+
+;
+Crystal structure of W P O5, the second member of the monophosphate tungsten
+bronze series (W O3)2m (P O2)4
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1989 82 298 302 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Wang, S.-L.'
+primary 'Wang, C.-C.'
+primary 'Lii, K.-H.'
+_cell_length_a 11.174(3)
+_cell_length_b 6.550(2)
+_cell_length_c 5.228(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 382.64
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n a 21'
+_space_group_IT_number 33
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, z'
+2 '-x+1/2, y+1/2, z+1/2'
+3 '-x, -y, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+W5+ 5
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+W1 W5+ 4 a 0.43894(3) 0.16885(6) 0 0.0037(1) 1.
+P1 P5+ 4 a 0.1552(2) -.0295(4) 0.007(4) 0.0064(5) 1.
+O1 O2- 4 a 0.2128(7) -.479(1) 0.479(3) 0.008(2) 1.
+O2 O2- 4 a 0.0853(9) 0.166(1) 0.976(3) 0.016(2) 1.
+O3 O2- 4 a 0.131(1) -.120(2) 0.734(3) 0.016(3) 1.
+O4 O2- 4 a 0.123(1) -.176(2) 0.207(3) 0.023(3) 1.
+O5 O2- 4 a -.005(1) -.524(2) 0.275(3) 0.009(2) 1.
+#End of TTdata_203048-ICSD
+#

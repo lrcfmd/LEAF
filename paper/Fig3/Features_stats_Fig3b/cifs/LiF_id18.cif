@@ -1,0 +1,118 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_171748-ICSD
+_database_code_ICSD 171748
+_audit_creation_date 2006-10-01
+_chemical_name_common
+'Pentalithiun vanadium(III) bis(orthophosphate) difluoride'
+_chemical_formula_structural 'Li5 V (P O4)2 F2'
+_chemical_formula_sum 'F2 Li5 O8 P2 V1'
+_exptl_crystal_density_diffrn 2.93
+_diffrn_ambient_temperature 150.
+_citation_title
+'Dimensional reduction: synthesis and structure of layered Li5 V (P O4)2 F2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2006 18 1745 1752 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Yin, S.-C.'
+primary 'Herle, P.S.'
+primary 'Higgins, A.'
+primary 'Taylor, N.J.'
+primary 'Makimura, Y.'
+primary 'Nazar, L.F.'
+_cell_length_a 6.3589(4)
+_cell_length_b 10.7795(6)
+_cell_length_c 10.3836(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.019(1)
+_cell_angle_gamma 90.
+_cell_volume 711.75
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 1 21/c 1'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V3+ 3
+P5+ 5
+O2- -2
+P5+ 5
+O2- -2
+F1- -1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+V1 V3+ 2 a 0. 0. 0. 0.00504(9) 1
+V2 V3+ 2 c 0. 0.5 0. 0.00504(9) 1
+P1 P5+ 4 e 0.25228(7) 0.24486(4) -0.02391(5) 0.00549(9) 1
+O1 O2- 4 e 0.23725(19) 0.38069(11) 0.02574(12) 0.0062(2) 1
+O2 O2- 4 e 0.05840(19) 0.17578(11) 0.03365(12) 0.0072(2) 1
+O3 O2- 4 e 0.44757(19) 0.18415(11) 0.03134(12) 0.0075(2) 1
+O4 O2- 4 e 0.2437(2) 0.24439(11) -0.17161(12) 0.0084(2) 1
+P2 P5+ 4 e 0.74141(7) 0.42066(4) 0.24432(4) 0.00517(9) 1
+O5 O2- 4 e 0.5459(2) 0.48654(11) 0.19560(13) 0.0077(2) 1
+O6 O2- 4 e 0.76408(19) 0.44413(11) 0.39077(12) 0.0070(2) 1
+O7 O2- 4 e 0.7395(2) 0.28209(11) 0.21687(12) 0.0080(2) 1
+O8 O2- 4 e 0.93987(19) 0.48174(11) 0.18299(12) 0.0069(2) 1
+F1 F1- 4 e -0.22356(16) 0.02856(9) 0.13221(10) 0.0089(2) 1
+F2 F1- 4 e -0.21151(17) 0.37695(9) -0.05764(11) 0.0110(2) 1
+Li1 Li1+ 2 b 0.5 0. 0. 0.0143(10) 1
+Li2 Li1+ 2 d 0.5 0.5 0. 0.0172(11) 1
+Li3 Li1+ 4 e 0.7408(5) -0.0834(3) 0.2715(3) 0.0120(7) 1
+Li4 Li1+ 4 e 0.7448(5) 0.2237(3) 0.0250(3) 0.0098(6) 1
+Li5 Li1+ 4 e 0.4930(5) 0.1648(3) 0.2313(3) 0.0136(7) 1
+Li6 Li1+ 4 e 0.9677(6) 0.1643(3) 0.2528(4) 0.0195(8) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V3+ 0.00536(18) 0.00408(16) 0.00569(18) 0.00011(13) -0.00045(14) 0.00023(14)
+V2 V3+ 0.00589(18) 0.00422(16) 0.00501(18) 0.00069(13) 0.00020(14) 0.00047(14)
+P1 P5+ 0.00537(19) 0.00431(18) 0.0068(2) -0.00002(14) -0.00026(15) -0.00019(15)
+O1 O2- 0.0072(5) 0.0047(5) 0.0068(6) 0.0002(4) -0.0007(4) -0.0005(4)
+O2 O2- 0.0056(5) 0.0056(5) 0.0103(6) -0.0006(4) 0.0009(5) -0.0001(4)
+O3 O2- 0.0066(6) 0.0066(5) 0.0092(6) 0.0012(4) -0.0011(4) 0.0003(4)
+O4 O2- 0.0116(6) 0.0073(5) 0.0063(6) -0.0002(4) -0.0005(5) -0.0009(4)
+P2 P5+ 0.00543(19) 0.00485(18) 0.0052(2) -0.00020(15) -0.00024(14) -0.00002(15)
+O5 O2- 0.0063(5) 0.0082(5) 0.0085(6) 0.0004(4) -0.0004(4) 0.0012(5)
+O6 O2- 0.0081(6) 0.0081(5) 0.0050(6) -0.0008(4) -0.0009(4) -0.0010(4)
+O7 O2- 0.0096(6) 0.0052(5) 0.0093(6) -0.0001(4) -0.0008(5) -0.0013(4)
+O8 O2- 0.0064(5) 0.0082(5) 0.0062(6) -0.0009(4) 0.0010(4) 0.0002(4)
+F1 F1- 0.0091(5) 0.0096(5) 0.0080(5) 0.0009(4) 0.0019(4) 0.0012(4)
+F2 F1- 0.0128(5) 0.0082(5) 0.0118(6) -0.0034(4) -0.0039(4) 0.0013(4)
+Li1 Li1+ 0.013(2) 0.0071(19) 0.023(3) 0.0011(17) 0.005(2) -0.0007(18)
+Li2 Li1+ 0.019(3) 0.021(3) 0.011(2) -0.010(2) -0.001(2) 0.005(2)
+Li3 Li1+ 0.0115(16) 0.0115(15) 0.0132(17) 0.0000(12) 0.0003(13) 0.0004(12)
+Li4 Li1+ 0.0083(14) 0.0103(14) 0.0108(16) 0.0004(11) -0.0006(12) -0.0020(12)
+Li5 Li1+ 0.0162(17) 0.0116(15) 0.0130(18) -0.0031(13) 0.0013(14) 0.0007(13)
+Li6 Li1+ 0.022(2) 0.0119(16) 0.024(2) 0.0046(14) -0.0083(16) -0.0008(14)
+#End of TTdata_171748-ICSD
+#
