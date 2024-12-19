@@ -1,0 +1,84 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_181150-ICSD
+_database_code_ICSD 181150
+_audit_creation_date 2012-02-01
+_chemical_name_common 'Gadolinium lanthanum scandium borate (0.22/0.78/3/4)'
+_chemical_formula_structural '(Gd0.22 La0.78) Sc3 (B O3)4'
+_chemical_formula_sum 'B4 Gd0.22 La0.78 O12 Sc3'
+_chemical_name_structure_type Huntite#CaMg3(CO3)4
+_exptl_crystal_density_diffrn 3.87
+_diffrn_ambient_temperature 293.
+_citation_title 'Gdx La1-x Sc3 (B O3)4: a new nonlinear optical crystal'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Crystal Growth' 2011 324 304 308 JCRGAE
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Xu Xiang'
+primary 'Ye Ning'
+_cell_length_a 9.7933(7)
+_cell_length_b 9.7933(7)
+_cell_length_c 7.9540(12)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 660.65
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'R 3 2 H'
+_space_group_IT_number 155
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x+y, -x, z'
+5 '-y, x-y, z'
+6 'x, y, z'
+7 '-x+2/3, -x+y+1/3, -z+1/3'
+8 'x-y+2/3, -y+1/3, -z+1/3'
+9 'y+2/3, x+1/3, -z+1/3'
+10 '-x+y+2/3, -x+1/3, z+1/3'
+11 '-y+2/3, x-y+1/3, z+1/3'
+12 'x+2/3, y+1/3, z+1/3'
+13 '-x+1/3, -x+y+2/3, -z+2/3'
+14 'x-y+1/3, -y+2/3, -z+2/3'
+15 'y+1/3, x+2/3, -z+2/3'
+16 '-x+y+1/3, -x+2/3, z+2/3'
+17 '-y+1/3, x-y+2/3, z+2/3'
+18 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Gd3+ 3
+Sc3+ 3
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+La1 La3+ 3 a 0 0 0 0.0086(3) 0.78
+Gd1 Gd3+ 3 a 0 0 0 0.0086(3) 0.22
+Sc1 Sc3+ 9 d 0.3333 0.21454 0.6667 0.0046(3) 1.
+B1 B3+ 3 b 0 0 0.5 0.004(2) 1.
+B2 B3+ 9 e -0.1173 0.216 0.1667 0.0058(11) 1.
+O1 O2- 9 e 0.1403 0.1403 0.5 0.0059(10) 1.
+O2 O2- 18 f 0.2114 0.0201 -0.1807 0.0088(7) 1.
+O3 O2- 9 e 0.4104 0.4104 0.5 0.0116(12) 1.
+#End of TTdata_181150-ICSD
+#

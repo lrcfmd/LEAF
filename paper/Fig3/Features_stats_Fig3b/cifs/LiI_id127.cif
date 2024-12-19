@@ -1,0 +1,84 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79402-ICSD
+_database_code_ICSD 79402
+_audit_creation_date 1996-10-14
+_audit_update_record 2005-10-01
+_chemical_name_common 'Cesium tecto-trititanopentaphosphate - beta - HT'
+_chemical_formula_structural 'Cs (Ti3 P5 O19)'
+_chemical_formula_sum 'Cs1 O19 P5 Ti3'
+_exptl_crystal_density_diffrn 3.11
+_diffrn_ambient_temperature 298.
+_citation_title
+'Synthesis and crystal structures of alpha- and beta- Cs Ti3 P5 O19'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 115 120 125 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Lii, K.-H.'
+primary 'Gier, T.E.'
+primary 'Stucky, G.D.'
+_cell_length_a 10.987(1)
+_cell_length_b 16.588(1)
+_cell_length_c 8.7618(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.09(1)
+_cell_angle_gamma 90.
+_cell_volume 1572.16
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C 1 2/c 1'
+_space_group_IT_number 15
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+Ti4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 8 f 0.0113(4) 0.9261(2) 0.1989(9) 0.091(1) 0.25
+Cs2 Cs1+ 8 f -.0049(4) 0.9348(2) 0.3393(8) 0.091(1) 0.25
+Ti1 Ti4+ 8 f 0.63994(6) 0.11029(4) 0.98936(7) 0.0107(2) 1.
+Ti2 Ti4+ 4 c 0.25 0.25 0 0.0116(3) 1.
+P1 P5+ 8 f 0.87365(9) 0.20759(5) 0.1831(1) 0.0105(3) 1.
+P2 P5+ 4 e 0.5 0.20327(8) 0.25 0.0113(4) 1.
+P3 P5+ 8 f 0.65907(9) 0.92768(5) 0.1281(1) 0.0109(3) 1.
+O1 O2- 8 f 0.5189(3) -.0744(2) 0.0917(3) 0.0158(8) 1.
+O2 O2- 8 f 0.8070(2) 0.1488(2) 0.0671(3) 0.0163(8) 1.
+O3 O2- 8 f 0.7176(3) 0.8624(2) 0.0405(3) 0.0185(8) 1.
+O4 O2- 8 f 0.5814(3) 0.1486(2) 0.1669(3) 0.0163(8) 1.
+O5 O2- 8 f 0.9042(3) 0.2844(2) 0.1092(3) 0.0195(9) 1.
+O6 O2- 8 f 0.7037(3) 0.0817(2) 0.8025(3) 0.0171(8) 1.
+O7 O2- 8 f 0.8126(3) 0.2193(2) 0.3233(3) 0.0205(9) 1.
+O8 O2- 8 f 0.7005(3) 0.0095(2) 0.0773(3) 0.0163(8) 1.
+O9 O2- 4 e 0 0.1619(2) 0.25 0.015(1) 1.
+O10 O2- 8 f 0.9160(2) 0.7578(2) 0.1330(3) 0.0155(8) 1.
+#End of TTdata_79402-ICSD
+#

@@ -1,0 +1,110 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_432590-ICSD
+_database_code_ICSD 432590
+_audit_creation_date 2018-02-01
+_chemical_name_common 'Dodecalithium nonanitrido triphosphate'
+_chemical_formula_structural 'Li12 N9 P3'
+_chemical_formula_sum 'Li12 N9 P3'
+_exptl_crystal_density_diffrn 2.23
+_diffrn_ambient_temperature 100.
+_citation_title
+
+;
+Li12P3N9 with non-condensed [P3N9]12--rings and its high-pressure polymorph
+Li4PN3 with infinite chains of PN4-tetrahedra
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry - A European Journal' 2017 23 9592 9599 CEUJED
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Bertschler, Eva-Maria'
+primary 'Niklaus, Robin'
+primary 'Schnick, Wolfgang'
+_cell_length_a 12.094(5)
+_cell_length_b 7.649(3)
+_cell_length_c 9.711(4)
+_cell_angle_alpha 90
+_cell_angle_beta 90.534(16)
+_cell_angle_gamma 90
+_cell_volume 898.29
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C 1 c 1'
+_space_group_IT_number 9
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+N3- -3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+P1 P5+ 4 a 0.12676(11) 0.1655(2) 0.30236(15) 0.0033(3) 1
+P2 P5+ 4 a 0.38275(12) 0.6692(2) 0.30474(16) 0.0040(3) 1
+P3 P5+ 4 a 0.00604(17) 0.44223(16) 0.15234(15) 0.0038(2) 1
+N1 N3- 4 a 0.2309(4) 0.1604(7) 0.4098(6) 0.0044(10) 1
+N2 N3- 4 a 0.2818(4) 0.6837(7) 0.4147(5) 0.0051(10) 1
+N3 N3- 4 a 0.5082(6) 0.1534(5) 0.1603(5) 0.0055(8) 1
+N4 N3- 4 a 0.1347(4) 0.0265(7) 0.1793(6) 0.0043(10) 1
+N5 N3- 4 a 0.0061(5) 0.1228(5) 0.3914(4) 0.0049(8) 1
+N6 N3- 4 a 0.1157(5) 0.3748(7) 0.2494(5) 0.0044(10) 1
+N7 N3- 4 a 0.0000(5) 0.3578(5) 0.0000(4) 0.0045(8) 1
+N8 N3- 4 a 0.3638(4) 0.5300(7) 0.1821(6) 0.0056(10) 1
+N9 N3- 4 a 0.3978(5) 0.1256(7) 0.7459(5) 0.0060(11) 1
+Li1 Li1+ 4 a 0.2626(10) 0.4167(15) 0.3351(13) 0.008(2) 1
+Li2 Li1+ 4 a 0.2497(9) 0.0835(15) 0.7963(11) 0.008(2) 1
+Li3 Li1+ 4 a 0.5037(12) 0.4019(12) 0.2575(9) 0.0104(18) 1
+Li4 Li1+ 4 a 0.1202(9) 0.1816(14) 0.5701(11) 0.006(2) 1
+Li5 Li1+ 4 a 0.0063(12) 0.3923(12) 0.4387(10) 0.0076(17) 1
+Li6 Li1+ 4 a 0.6158(10) 0.1318(16) 0.3412(13) 0.010(2) 1
+Li7 Li1+ 4 a 0.2242(9) 0.4352(13) 0.0861(11) 0.007(2) 1
+Li8 Li1+ 4 a 0.4048(10) 0.3259(15) 0.0617(12) 0.011(2) 1
+Li9 Li1+ 4 a 0.2459(10) 0.0753(15) 0.0354(12) 0.013(2) 1
+Li10 Li1+ 4 a 0.3957(9) 0.1222(16) 0.3309(12) 0.009(2) 1
+Li11 Li1+ 4 a 0.0181(10) 0.0974(12) 0.0425(10) 0.009(2) 1
+Li12 Li1+ 4 a 0.3419(9) 0.2376(14) 0.5558(11) 0.011(2) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0049(8) 0.0021(7) 0.0031(8) -0.0001(6) 0.0002(5) -0.0001(5)
+P2 P5+ 0.0064(8) 0.0026(7) 0.0030(8) -0.0004(6) -0.0001(5) -0.0006(6)
+P3 P5+ 0.0065(5) 0.0016(5) 0.0034(5) -0.0004(7) -0.0012(6) 0.0004(5)
+N1 N3- 0.006(2) 0.001(2) 0.006(2) 0.0002(19) 0.0024(19) 0.0015(18)
+N2 N3- 0.010(3) 0.004(2) 0.002(2) -0.0004(19) 0.0004(19) -0.0020(18)
+N3 N3- 0.009(2) 0.0034(17) 0.0046(18) -0.001(3) 0.001(2) 0.0000(17)
+N4 N3- 0.004(2) 0.002(2) 0.007(2) 0.0016(19) -0.0015(19) -0.0013(19)
+N5 N3- 0.008(2) 0.0056(18) 0.0010(17) 0.001(2) 0.001(2) 0.0010(15)
+N6 N3- 0.007(3) 0.002(2) 0.004(2) 0.001(2) 0.001(2) 0.0013(19)
+N7 N3- 0.008(2) 0.0029(19) 0.0027(19) -0.002(2) -0.004(2) 0.0001(14)
+N8 N3- 0.004(2) 0.006(3) 0.006(2) 0.000(2) -0.0024(19) -0.001(2)
+N9 N3- 0.011(3) 0.004(3) 0.004(3) 0.000(2) 0.001(2) -0.0003(19)
+#End of TTdata_432590-ICSD
+#

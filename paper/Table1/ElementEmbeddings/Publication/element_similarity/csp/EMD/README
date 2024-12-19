@@ -1,0 +1,2 @@
+Take smact predicted ab structures
+use EMD to predict class, see how it does vs LEAF(86% accuracy)

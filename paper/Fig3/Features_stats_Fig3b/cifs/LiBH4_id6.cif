@@ -1,0 +1,81 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_265067-ICSD
+_database_code_ICSD 265067
+_audit_creation_date 2019-02-01
+_audit_update_record 2021-08-01
+_chemical_name_common 'α - Ytterbium bis(borohydride)'
+_chemical_formula_structural 'Yb (B H4)2'
+_chemical_formula_sum 'H8 B2 Yb1'
+_chemical_name_structure_type Ca(BH4)2(oF88)
+_exptl_crystal_density_diffrn 3.11
+_citation_title 'From metal hydrides to metal borohydrides'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2018 57 10768 10780 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Richter, Bo'
+primary 'Grinderslev, Jakob B.'
+primary 'Moeller, Kasper T.'
+primary 'Paskevicius, Mark'
+primary 'Jensen, Torben R.'
+_cell_length_a 8.77215(11)
+_cell_length_b 13.0619(2)
+_cell_length_c 7.54838(13)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 864.9
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'F 2 d d'
+_space_group_IT_number 43
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/4, -y+1/4, z+1/4'
+2 'x+1/4, y+1/4, -z+1/4'
+3 'x, -y, -z'
+4 'x, y, z'
+5 'x+1/4, -y+3/4, z+3/4'
+6 'x+1/4, y+3/4, -z+3/4'
+7 'x, -y+1/2, -z+1/2'
+8 'x, y+1/2, z+1/2'
+9 'x+3/4, -y+1/4, z+3/4'
+10 'x+3/4, y+1/4, -z+3/4'
+11 'x+1/2, -y, -z+1/2'
+12 'x+1/2, y, z+1/2'
+13 'x+3/4, -y+3/4, z+1/4'
+14 'x+3/4, y+3/4, -z+1/4'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Yb2+ 2
+B3+ 3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Yb1 Yb2+ 8 a 0. 0. 0. 0.01937 1.
+B1 B3+ 16 b 0.0056 0.2243 0.0081 0.02155 1.
+H1 H1- 16 b 0.019 0.1648 0.1272 0.00253 1.
+H2 H1- 16 b 0.0345 0.1817 0.8744 0.00253 1.
+H3 H1- 16 b 0.882 0.2553 0.012 0.00253 1.
+H4 H1- 16 b 0.091 0.2922 0.028 0.00253 1.
+#End of TTdata_265067-ICSD
+#

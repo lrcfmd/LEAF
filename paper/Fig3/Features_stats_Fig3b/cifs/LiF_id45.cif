@@ -1,0 +1,84 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_248719-ICSD
+_database_code_ICSD 248719
+_audit_creation_date 2015-02-01
+_chemical_name_common 'Dithulium disilicate'
+_chemical_formula_structural 'Tm2 Si2 O7'
+_chemical_formula_sum 'O7 Si2 Tm2'
+_chemical_name_structure_type Sc2Si2O7
+_exptl_crystal_density_diffrn 6.02
+_diffrn_ambient_temperature 293.
+_citation_title 'Thortveitite-type Tm2Si2O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2014 70
+i34 i35 ACSEBH
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Kahlenberg, Volker'
+primary 'Aichholzer, Paul'
+_cell_length_a 6.8205(14)
+_cell_length_b 8.9062(18)
+_cell_length_c 4.6937(11)
+_cell_angle_alpha 90
+_cell_angle_beta 101.78(2)
+_cell_angle_gamma 90
+_cell_volume 279.11
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'C 1 2/m 1'
+_space_group_IT_number 12
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Tm3+ 3
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Tm1 Tm3+ 4 h 0.5 0.19345(4) 0.5 0.0045(2) 1
+Si1 Si4+ 4 i 0.2186(3) 0 0.9130(5) 0.0044(5) 1
+O1 O2- 4 i 0.3804(9) 0 0.2130(12) 0.0069(12) 1
+O2 O2- 2 a 0 0 0 0.0129(19) 1
+O3 O2- 8 j 0.2357(6) 0.1505(5) 0.7213(9) 0.0073(8) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tm1 Tm3+ 0.0032(3) 0.0043(3) 0.0058(3) 0 0.00056(15) 0
+Si1 Si4+ 0.0049(11) 0.0043(11) 0.0042(11) 0 0.0013(9) 0
+O1 O2- 0.006(3) 0.007(3) 0.005(3) 0 -0.004(2) 0
+O2 O2- 0.008(4) 0.019(5) 0.011(5) 0 0.001(4) 0
+O3 O2- 0.006(2) 0.007(2) 0.009(2) 0.0042(17) 0.0026(17) 0.0045(17)
+#End of TTdata_248719-ICSD
+#

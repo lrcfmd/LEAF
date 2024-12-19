@@ -1,0 +1,116 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_252041-ICSD
+_database_code_ICSD 252041
+_audit_creation_date 2016-02-01
+_chemical_name_common 'Decalithium dodecathiostannodiphosphate'
+_chemical_formula_structural 'Li9.81 Sn0.81 P2.19 S12'
+_chemical_formula_sum 'Li9.81 P2.19 S12 Sn0.81'
+_chemical_name_structure_type Li10GeP2S12-frame#LGPS-type
+_exptl_crystal_density_diffrn 2.06
+_diffrn_ambient_temperature 800.
+_citation_title
+
+;
+Structure-property relationships in lithium superionic conductors having a
+Li10GeP2S12-type structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+
+;
+Acta Crystallographica, Section B: Structural Science, Crystal Engineering and
+Materials
+; 2015 71 727 736 ACSBDA
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Hori, Satoshi'
+primary 'Taminato, Sou'
+primary 'Suzuki, Kota'
+primary 'Hirayama, Masaaki'
+primary 'Kato, Yuki'
+primary 'Kanno, Ryoji'
+_cell_length_a 8.81049(3)
+_cell_length_b 8.81049(3)
+_cell_length_c 12.79398(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 993.13
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 42/n m c S'
+_space_group_IT_number 137
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y+1/2, -x+1/2, z+1/2'
+2 'y+1/2, x+1/2, z+1/2'
+3 '-y, -x, -z'
+4 'y, x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 'y, -x, -z'
+8 '-y, x, -z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, -y, z'
+12 '-x, y, z'
+13 '-x+1/2, -y+1/2, -z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Sn4+ 4
+P5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 16 h 0.2815(10) 0.2780(7) 0.1970(8) 14.4(6) 0.451(7)
+Li2 Li1+ 4 d 0 0.5 -0.0509(5) 9.5(3) 0.798(7)
+Li3 Li1+ 8 f 0.2452(4) 0.2452(4) 0 21.8(8) 0.795(14)
+Li4 Li1+ 4 c 0 0 0.2406(4) 9.4(4) 0.710(9)
+Sn1 Sn4+ 4 d 0 0.5 0.69148(10) 3.31(3) 0.405
+P1 P5+ 4 d 0 0.5 0.69148(10) 3.31(3) 0.595
+P2 P5+ 2 b 0 0 0.5 3.35(4) 1
+S1 S2- 8 g 0 0.18796(16) 0.40966(15) 3.77(5) 1
+S2 S2- 8 g 0 0.2925(2) 0.1040(2) 5.98(6) 1
+S3 S2- 8 g 0 0.6970(2) 0.79120(15) 4.02(5) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.181(11) 0.050(6) 0.32(2) 0.017(6) 0.124(8) -0.027(7)
+Li2 Li1+ 0.192(10) 0.072(5) 0.097(6) 0 0 0
+Li3 Li1+ 0.079(4) 0.079(4) 0.67(3) -0.00045745 0.106(4) -0.106(4)
+Li4 Li1+ 0.082(9) 0.230(13) 0.044(6) 0 0 0
+Sn1 Sn4+ 0.0549(13) 0.0367(12) 0.0343(11) 0 0 0
+P1 P5+ 0.0549(13) 0.0367(12) 0.0343(11) 0 0 0
+P2 P5+ 0.0398(9) 0.0398(9) 0.0476(19) 0 0 0
+S1 S2- 0.0912(19) 0.0231(15) 0.0291(15) 0 0 0.0219(14)
+S2 S2- 0.0781(19) 0.0530(14) 0.0961(17) 0 0 -0.0015(15)
+S3 S2- 0.0529(18) 0.0531(15) 0.0468(16) 0 0 0.0325(16)
+#End of TTdata_252041-ICSD
+#

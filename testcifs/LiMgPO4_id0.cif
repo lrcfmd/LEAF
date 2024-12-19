@@ -1,0 +1,83 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_36797-ICSD
+_database_code_ICSD 36797
+_audit_creation_date 2022-02-01
+_chemical_name_common 'Lithium magnesium orthophosphate'
+_chemical_formula_structural 'Li0.94 Mg0.97 In0.04 (P O4)'
+_chemical_formula_sum 'In0.04 Li0.94 Mg0.97 O4 P1'
+_chemical_name_structure_type Olivine#Mg2SiO4
+_exptl_crystal_density_diffrn 3.05
+_citation_title
+
+;
+An insight into indium effect on the crystal structure and thermoluminescence
+of LiMgPO$_4$. Combined experiment and ab initio calculations
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2020 846 '' '' JALCEU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Kellerman, D.G.'
+primary 'Kalinkin, M.O.'
+primary 'Tyutyunnik, A.P.'
+primary 'Medvedeva, N.I.'
+primary 'Abashev, R.M.'
+primary 'Surdo, A.I.'
+_cell_length_a 10.15195(5)
+_cell_length_b 5.912525(28)
+_cell_length_c 4.700715(22)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 282.15
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+In3+ 3
+Mg2+ 2
+In3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 4 a 0 0 0 0.0497(20) 0.993
+In1 In3+ 4 a 0 0 0 0.0497(20) 0.002(1)
+Mg1 Mg2+ 4 c 0.77836(7) 0.25 0.51905(16) 0.02583(22) 0.944
+In2 In3+ 4 c 0.77836(7) 0.25 0.51905(16) 0.02583(22) 0.038(1)
+P1 P5+ 4 c 0.59509(7) 0.25 0.08355(14) 0.02564(18) 1
+O1 O2- 4 c 0.60312(16) 0.25 0.75852(29) 0.02405(47) 1
+O2 O2- 4 c 0.95321(16) 0.25 0.30379(29) 0.02426(48) 1
+O3 O2- 8 d 0.16623(13) 0.04343(18) 0.27911(21) 0.02517(33) 1
+#End of TTdata_36797-ICSD
+#

@@ -1,0 +1,97 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_45751-ICSD
+_database_code_ICSD 45751
+_audit_creation_date 2022-08-01
+_chemical_name_common 'Lanthanum scandium tetrakis(orthoborate)'
+_chemical_formula_structural 'La1.035 Sc2.965 (B O3)4'
+_chemical_formula_sum 'B4 La1.035 O12 Sc2.965'
+_chemical_name_structure_type NdAl3(BO3)4
+_exptl_crystal_density_diffrn 3.83
+_citation_title
+
+;
+Study of RBO$_3$-ScBO$_3$ phase diagrams and RSc$_3$(BO$_3$)$_4$ orthoborates
+(R = La, Pr and Nd)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2022 905 '' '' JALCEU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Jamous, A.Y.'
+primary 'Kuznetsov, A.B.'
+primary 'Kokh, K.A.'
+primary 'Svetlichnyi, V.A.'
+primary 'Kononova, N.G.'
+primary 'Shevchenko, V.S.'
+primary 'Ryadun, A.A.'
+primary 'Kokh, A.E.'
+_cell_length_a 7.7504(8)
+_cell_length_b 9.8486(3)
+_cell_length_c 12.0729(18)
+_cell_angle_alpha 90.
+_cell_angle_beta 105.496(4)
+_cell_angle_gamma 90.
+_cell_volume 888.03
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C 1 c 1'
+_space_group_IT_number 9
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 'x, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+La3+ 3
+Sc3+ 3
+La3+ 3
+Sc3+ 3
+La3+ 3
+B3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+La1 La3+ 4 a 0.2442(3) 0.7524(4) -0.0307(3) 0.0124(5) 0.130(2)
+Sc1 Sc3+ 4 a 0.2442(3) 0.7524(4) -0.0307(3) 0.0124(5) 0.870(2)
+Sc2 Sc3+ 4 a 0.8350(4) 0.7469(3) 0.0253(5) 0.0089(2) 1
+La2 La3+ 4 a 0.7930(7) 0.5695(7) 0.2603(9) 0.0015(2) 0.012(5)
+Sc3 Sc3+ 4 a 0.7930(7) 0.5695(7) 0.2603(9) 0.0015(2) 0.988(5)
+Sc4 Sc3+ 4 a 0.7960(5) 0.0351(9) 0.2556(2) 0.0052(4) 0.107(3)
+La3 La3+ 4 a 0.7960(5) 0.0351(9) 0.2556(2) 0.0052(4) 0.893(3)
+B1 B3+ 4 a 0.5562(8) 0.5338(3) 0.0149(6) 0.0125(6) 1
+B2 B3+ 4 a 0.0305(7) 0.7109(4) 0.7239(4) 0.0125(6) 1
+B3 B3+ 4 a 0.0431(7) 0.4875(6) -0.0105(2) 0.0125(6) 1
+B4 B3+ 4 a 0.5864(7) 0.3245(9) 0.2858(6) 0.0125(6) 1
+O1 O2- 4 a 0.5826(9) 0.4311(1) 0.2316(3) 0.0111(5) 1
+O2 O2- 4 a 0.3912(5) 0.5870(6) -0.0754(3) 0.0111(5) 1
+O3 O2- 4 a 0.9595(7) 0.5618(4) 0.7280(4) 0.0111(5) 1
+O4 O2- 4 a 0.1473(9) 0.7722(4) 0.7805(9) 0.0111(5) 1
+O5 O2- 4 a 0.9049(6) 0.4023(2) -0.0768(2) 0.0111(5) 1
+O6 O2- 4 a 0.7288(7) 0.2484(5) 0.3511(2) 0.0111(5) 1
+O7 O2- 4 a 0.4423(4) 0.2244(6) 0.1928(5) 0.0111(5) 1
+O8 O2- 4 a 0.1637(3) 0.3931(3) 0.0404(2) 0.0111(5) 1
+O9 O2- 4 a 0.0336(2) 0.6274(7) -0.0095(9) 0.0111(5) 1
+O10 O2- 4 a 0.5622(2) 0.3914(1) 0.0111(8) 0.0111(5) 1
+O11 O2- 4 a 0.9009(6) 0.7585(4) 0.6341(1) 0.0111(5) 1
+O12 O2- 4 a 0.6734(7) 0.5966(3) 0.0579(5) 0.0111(5) 1
+#End of TTdata_45751-ICSD
+#

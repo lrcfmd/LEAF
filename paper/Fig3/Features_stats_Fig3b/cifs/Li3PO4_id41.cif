@@ -1,0 +1,85 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_79426-ICSD
+_database_code_ICSD 79426
+_audit_creation_date 1996-10-14
+_chemical_name_common 'Lithium phosphorus oxide nitride (2.9/1/3.7/0.1)'
+_chemical_formula_structural 'Li2.88 P O3.73 N0.14'
+_chemical_formula_sum 'Li2.88 N0.14 O3.73 P1'
+_chemical_name_structure_type Li3PO4
+_exptl_crystal_density_diffrn 2.37
+_citation_title
+
+;
+Synthesis, crystal structure, and ionic conductivity of a polycrystalline
+lithium phosphorus oxynitride with the gamma-Li3 P O4 structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1995 115 313 323 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Wang, B.'
+primary 'Chakoumakos, B.C.'
+primary 'Sales, B.C.'
+primary 'Kwak, B.S.'
+primary 'Bates, J.B.'
+_cell_length_a 6.1153(9)
+_cell_length_b 10.469(1)
+_cell_length_c 4.9195(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 314.95
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P m n b'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, y+1/2, -z+1/2'
+2 '-x+1/2, y, z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x, -y+1/2, z+1/2'
+6 'x+1/2, -y, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+P5+ 5
+O2- -2
+N3- -3
+O2- -2
+N3- -3
+O2- -2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 8 d 0.496(1) 0.158(1) 0.313(1) 0.017(2) 0.96
+Li2 Li1+ 4 c 0.75 0.421(1) 0.196(2) 0.017(3) 0.96
+P1 P5+ 4 c 0.25 0.4147(6) 0.3060(1) 0.015(1) 1.
+O1 O2- 8 d 0.0401(6) 0.3429(3) 0.2167(8) 0.0133(9) 0.9325
+N1 N3- 8 d 0.0401(6) 0.3429(3) 0.2167(8) 0.0133(9) 0.035
+O2 O2- 4 c 0.25 0.0519(5) 0.2786(1) 0.008(1) 0.9325
+N2 N3- 4 c 0.25 0.0519(5) 0.2786(1) 0.008(1) 0.035
+O3 O2- 4 c 0.75 0.0898(6) 0.1309(9) 0.016(1) 0.9325
+N3 N3- 4 c 0.75 0.0898(6) 0.1309(9) 0.016(1) 0.035
+#End of TTdata_79426-ICSD
+#

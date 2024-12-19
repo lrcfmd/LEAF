@@ -1,0 +1,105 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69856-ICSD
+_database_code_ICSD 69856
+_audit_creation_date 1993-01-06
+_chemical_name_common
+'Potassium oxovanadium(IV) oxodivanadium diphosphate (1/1/1/2)'
+_chemical_formula_structural 'K (V O) (V2 O) (P2 O7)2'
+_chemical_formula_sum 'K1 O16 P4 V3'
+_exptl_crystal_density_diffrn 3.05
+_citation_title
+
+;
+Synthesis and characterization of KV3P4O16: a new mixed - valence vanadium
+(III,IV,IV) diphosphate
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1991 92 362 369 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Lee, C.-S.'
+primary 'Lii, K.-H.'
+_cell_length_a 5.201(1)
+_cell_length_b 12.661(2)
+_cell_length_c 9.476(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 94.11(2)
+_cell_angle_gamma 90.
+_cell_volume 622.39
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 21/m 1'
+_space_group_IT_number 11
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+V4+ 3.5
+V4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+K1 K1+ 2 d 0.5 0.5 0.5 . 1.
+V1 V4+ 4 f 0.39253(13) 0.39707(6) 0.08903(7) . 1.
+V2 V4+ 2 e 0.98973(19) 0.25 0.59508(10) . 1.
+P1 P5+ 4 f 0.14919(19) 0.63536(8) 0.12274(10) . 1.
+P2 P5+ 4 f 0.92348(19) 0.36609(8) 0.28983(10) . 1.
+O1 O2- 4 f 0.4042(8) 0.2608(5) 0.0958(4) . 0.5
+O2 O2- 4 f 0.9141(6) 0.35969(22) 0.4493(3) . 1.
+O3 O2- 4 f 0.6893(5) 0.42276(21) 0.2251(3) . 1.
+O4 O2- 4 f 0.1756(5) 0.41146(22) 0.2485(3) . 1.
+O5 O2- 2 e 0.9084(8) 0.25 0.2269(4) . 1.
+O6 O2- 4 f 0.3736(5) 0.56918(20) 0.0722(3) . 1.
+O7 O2- 2 e 0.2151(8) 0.75 0.0679(4) . 1.
+O8 O2- 4 f 0.1043(5) 0.39705(22) 0.9487(3) . 1.
+O9 O2- 2 e 0.2932(9) 0.25 0.6214(5) . 1.
+O10 O2- 4 f 0.1485(6) 0.64106(21) 0.2818(3) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0345(10) 0.0674(14) 0.0490(12) 0.0215(10) -.0014(9) -.0358(11)
+V1 V4+ 0.0060(3) 0.0179(4) 0.0082(3) 0.0010(3) 0.0002(2) -.0028(3)
+V2 V4+ 0.0102(5) 0.0069(4) 0.0060(4) 0 0.0007(4) 0
+P1 P5+ 0.0061(5) 0.0039(5) 0.0055(5) 0.0003(4) 0.0005(3) 0.0000(4)
+P2 P5+ 0.0080(5) 0.0048(5) 0.0061(5) 0.0001(4) 0.0014(4) 0.0003(4)
+O1 O2- 0.0103(21) 0.0083(25) 0.0099(21) -.001(3) 0.0002(17) -.002(3)
+O2 O2- 0.0269(17) 0.0085(13) 0.0052(13) 0.0035(2) 0.0040(12) 0.0007(11)
+O3 O2- 0.0084(14) 0.0078(13) 0.0150(14) 0.0004(10) -.0024(11) 0.0003(11)
+O4 O2- 0.0080(14) 0.0114(14) 0.0132(14) -.0026(11) 0.0056(11) -.0026(12)
+O5 O2- 0.0178(22) 0.0053(18) 0.0063(19) 0 0.0015(16) 0
+O6 O2- 0.0081(13) 0.0050(12) 0.0096(13) 0.0005(10) 0.004(1) -.0009(11)
+O7 O2- 0.0167(21) 0.0046(18) 0.0074(19) 0 0.0069(16) 0
+O8 O2- 0.0083(13) 0.0110(14) 0.0160(15) -.0003(11) -.0024(11) 0.0009(12)
+O9 O2- 0.0184(24) 0.031(3) 0.025(3) 0 -.0023(20) 0
+O10 O2- 0.0210(16) 0.0077(13) 0.0058(13) 0.0000(12) 0.0032(11) 0.0001(11)
+#End of TTdata_69856-ICSD
+#

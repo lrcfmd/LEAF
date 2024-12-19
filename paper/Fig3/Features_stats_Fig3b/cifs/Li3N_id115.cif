@@ -1,0 +1,93 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_432591-ICSD
+_database_code_ICSD 432591
+_audit_creation_date 2018-02-01
+_chemical_name_common 'Tetralithium trinitridophosphate'
+_chemical_formula_structural 'Li4 P N3'
+_chemical_formula_sum 'Li4 N3 P1'
+_chemical_name_mineral Jezekite
+_exptl_crystal_density_diffrn 2.4
+_diffrn_ambient_temperature 298.
+_citation_title
+
+;
+Li12P3N9 with non-condensed [P3N9]12--rings and its high-pressure polymorph
+Li4PN3 with infinite chains of PN4-tetrahedra
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry - A European Journal' 2017 23 9592 9599 CEUJED
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Bertschler, Eva-Maria'
+primary 'Niklaus, Robin'
+primary 'Schnick, Wolfgang'
+_cell_length_a 9.6597(4)
+_cell_length_b 11.8392(6)
+_cell_length_c 4.8674(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 556.65
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'P c c n'
+_space_group_IT_number 56
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x+1/2, y, z+1/2'
+3 'x+1/2, y+1/2, -z'
+4 '-x, -y, -z'
+5 '-x, y+1/2, -z+1/2'
+6 'x+1/2, -y, -z+1/2'
+7 '-x+1/2, -y+1/2, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+P5+ 5
+N3- -3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+P1 P5+ 8 e 0.52591(8) 0.17130(6) 0.29496(16) 0.0058(2) 1
+N1 N3- 8 e 0.6270(3) 0.0671(2) 0.2115(5) 0.0076(5) 1
+N2 N3- 8 e 0.5721(3) 0.2926(2) 0.1210(5) 0.0075(5) 1
+N3 N3- 8 e 0.1370(3) 0.3567(2) 0.2652(6) 0.0093(5) 1
+Li1 Li1+ 8 e 0.2162(6) 0.6574(5) 0.0754(12) 0.0148(12) 1
+Li2 Li1+ 8 e 0.2425(8) 0.0332(5) 0.0097(14) 0.0226(13) 1
+Li3 Li1+ 8 e 0.0387(9) 0.5356(7) 0.2187(18) 0.0407(19) 1
+Li4 Li1+ 8 e 0.1580(14) 0.1880(12) 0.189(3) 0.023(3) 0.494(17)
+Li5 Li1+ 8 e 0.159(2) 0.179(2) 0.336(6) 0.023(3) 0.290(16)
+Li6 Li1+ 4 c 0.25 0.25 0.019(4) 0.019(6) 0.43(3)
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 P5+ 0.0056(4) 0.0062(3) 0.0056(3) -0.0006(3) -0.0005(3) -0.0001(3)
+N1 N3- 0.0068(11) 0.0072(11) 0.0088(12) 0.0005(9) 0.0000(10) -0.0006(10)
+N2 N3- 0.0092(11) 0.0085(11) 0.0048(10) -0.0017(10) -0.0015(10) 0.0009(10)
+N3 N3- 0.0061(12) 0.0096(12) 0.0123(13) -0.0026(9) -0.0004(10) -0.0009(10)
+#End of TTdata_432591-ICSD
+#

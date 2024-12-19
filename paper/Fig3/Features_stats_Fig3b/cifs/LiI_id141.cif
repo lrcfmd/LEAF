@@ -1,0 +1,110 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_238273-ICSD
+_database_code_ICSD 238273
+_audit_creation_date 2015-08-01
+_chemical_name_common 'Tetrarubidium tris(uranyl(VI)) dioxo bis(arsenate(V))'
+_chemical_formula_structural 'Rb4 ((U O2)3 O2 (As O4)2)'
+_chemical_formula_sum 'As2 O16 Rb4 U3'
+_exptl_crystal_density_diffrn 5.63
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+High-temperature, high-pressure hydrothermal synthesis, characterization, and
+structural relationships of layered uranyl arsenates
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2014 53 9065 9072 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Liu, Hsin-Kuan'
+primary 'Ramachandran, Eswaran'
+primary 'Chen, Yi-Hsin'
+primary 'Chang, Wen-Jung'
+primary 'Lii, Kwang-Hwa'
+_cell_length_a 6.9783(3)
+_cell_length_b 17.4513(8)
+_cell_length_c 7.0867(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.808(3)
+_cell_angle_gamma 90.
+_cell_volume 862.93
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 21/m 1'
+_space_group_IT_number 11
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y+1/2, z'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+U6+ 6
+As5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Rb1 Rb1+ 4 f 0.10508(11) 0.61613(5) 0.46014(12) 0.02223(18) 1
+Rb2 Rb1+ 2 e 0.94822(15) 0.25 1.04154(15) 0.0186(2) 1
+Rb3 Rb1+ 2 a 0. 0.5 1. 0.0884(8) 1
+U1 U6+ 2 e 0.42120(5) 0.25 0.71805(6) 0.00872(9) 1
+U2 U6+ 4 f 0.42284(4) 0.356140(14) 0.22018(4) 0.00804(7) 1
+As1 As5+ 4 f 0.39946(10) 0.44578(4) 0.71620(10) 0.00924(15) 1
+O1 O2- 4 f 0.1909(7) 0.4846(3) 0.6648(8) 0.0189(12) 1
+O2 O2- 4 f 0.5782(7) 0.5086(3) 0.7593(7) 0.0138(11) 1
+O3 O2- 4 f 0.3779(8) 0.3826(3) 0.8963(8) 0.0245(14) 1
+O4 O2- 4 f 0.4714(7) 0.3799(3) 0.5540(7) 0.0139(11) 1
+O5 O2- 2 e 0.6805(10) 0.25 0.7398(11) 0.0141(16) 1
+O6 O2- 2 e 0.1619(10) 0.25 0.6925(11) 0.0150(16) 1
+O7 O2- 2 e 0.4329(11) 0.25 0.4007(11) 0.0184(17) 1
+O8 O2- 2 e 0.3971(10) 0.25 0.0356(10) 0.0122(15) 1
+O9 O2- 4 f 0.6799(7) 0.3553(3) 0.1934(8) 0.0188(12) 1
+O10 O2- 4 f 0.1645(7) 0.3630(3) 0.2413(8) 0.0162(12) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0182(4) 0.0267(4) 0.0217(4) -0.0033(3) -0.0028(3) 0.0043(3)
+Rb2 Rb1+ 0.0159(6) 0.0243(6) 0.0156(5) 0. -0.0016(4) 0.
+Rb3 Rb1+ 0.1192(17) 0.1113(18) 0.0357(10) 0.0824(15) 0.0352(11) 0.0189(11)
+U1 U6+ 0.0120(2) 0.00884(17) 0.00533(18) 0. -0.00090(14) 0.
+U2 U6+ 0.01165(15) 0.00633(12) 0.00613(13) -0.00068(11) -0.00004(10)
+-0.00049(11)
+As1 As5+ 0.0155(4) 0.0052(3) 0.0071(4) -0.0004(3) 0.0001(3) -0.0001(3)
+O1 O2- 0.012(3) 0.015(3) 0.030(3) 0.002(2) -0.004(2) 0.002(2)
+O2 O2- 0.020(3) 0.004(2) 0.017(3) -0.001(2) -0.003(2) 0.001(2)
+O3 O2- 0.046(4) 0.017(3) 0.010(3) -0.010(3) 0.000(3) 0.007(2)
+O4 O2- 0.023(3) 0.008(2) 0.010(3) 0.005(2) -0.002(2) -0.002(2)
+O5 O2- 0.013(4) 0.015(4) 0.014(4) 0. -0.003(3) 0.
+O6 O2- 0.013(4) 0.015(4) 0.018(4) 0. 0.003(3) 0.
+O7 O2- 0.037(5) 0.006(3) 0.011(4) 0. -0.006(3) 0.
+O8 O2- 0.025(4) 0.004(3) 0.008(4) 0. -0.004(3) 0.
+O9 O2- 0.014(3) 0.020(3) 0.023(3) 0.005(2) 0.002(2) -0.010(3)
+O10 O2- 0.017(3) 0.017(3) 0.015(3) 0.002(2) -0.003(2) -0.004(2)
+#End of TTdata_238273-ICSD
+#

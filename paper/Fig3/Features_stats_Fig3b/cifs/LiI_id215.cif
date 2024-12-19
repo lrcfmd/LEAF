@@ -1,0 +1,80 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80167-ICSD
+_database_code_ICSD 80167
+_audit_creation_date 1996-10-14
+_chemical_name_common 'Tripotassium triiron tetrakis(phosphate(V)) hydrate'
+_chemical_formula_structural 'K3 Fe3 (P O4)4 (H2 O)'
+_chemical_formula_sum 'H2 Fe3 K3 O17 P4'
+_exptl_crystal_density_diffrn 3.11
+_citation_title
+'K3 Fe3 (P O4)4 . (H2 O) : an iron(III) phosphate with a layer structure'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Solid State and Inorganic Chemistry' 1995 32 917
+926 EJSCE5
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Lii, K.-H.'
+_cell_length_a 10.717(1)
+_cell_length_b 20.823(4)
+_cell_length_c 6.5296(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1457.15
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n n a'
+_space_group_IT_number 52
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y+1/2, z+1/2'
+2 '-x, y+1/2, z+1/2'
+3 'x+1/2, y, -z'
+4 '-x, -y, -z'
+5 '-x+1/2, y+1/2, -z+1/2'
+6 'x, -y+1/2, -z+1/2'
+7 '-x+1/2, -y, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Fe3+ 3
+P5+ 5
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+K1 K1+ 4 c 0.75 0 0.3175(2) 0.0194(3) 1.
+K2 K1+ 8 e 0.01654(8) 0.09118(5) 0.1417(1) 0.0189(2) 1.
+Fe1 Fe3+ 4 d 0.50192(5) 0.25 0.25 0.0062(2) 1.
+Fe2 Fe3+ 8 e 0.75217(4) 0.16308(2) 0.49870(6) 0.0071(2) 1.
+P1 P5+ 8 e 0.25272(7) 0.20500(4) 0.0006(1) 0.0061(2) 1.
+P2 P5+ 8 e 0.000010(7) 0.90202(4) 0.3509(1) 0.0063(2) 1.
+O1 O2- 8 e 0.2778(2) 0.1632(1) 0.8144(4) 0.0104(6) 1.
+O2 O2- 8 e 0.3620(2) 0.2547(1) 0.0346(3) 0.0077(6) 1.
+O3 O2- 8 e 0.2267(2) 0.1657(1) 0.1915(4) 0.0094(6) 1.
+O4 O2- 8 e 0.1440(2) 0.2545(1) 0.9607(3) 0.0084(6) 1.
+O5 O2- 8 e 0.8815(2) 0.8988(1) 0.4861(3) 0.0099(7) 1.
+O6 O2- 8 e 0.1139(2) 0.8987(1) 0.4956(3) 0.0108(7) 1.
+O7 O2- 8 e 0.0013(2) 0.9629(1) 0.2285(4) 0.0124(7) 1.
+O8 O2- 8 e 0.0008(2) 0.8419(1) 0.2134(4) 0.0094(7) 1.
+O9 O2- 4 c 0.75 0 0.9020(7) 0.034(1) 1.
+H1 H1+ 8 e 0.6707 0.004 0.823 0.05(1) 1.
+#End of TTdata_80167-ICSD

@@ -1,0 +1,91 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_80595-ICSD
+_database_code_ICSD 80595
+_audit_creation_date 1997-05-13
+_audit_update_record 2012-02-01
+_chemical_name_common 'Lithium antimony phyllo-dimolybdate'
+_chemical_formula_structural 'Li Sb (Mo2 O8)'
+_chemical_formula_sum 'Li1 Mo2 O8 Sb1'
+_chemical_name_structure_type LiSb(Mo2O8)
+_exptl_crystal_density_diffrn 5.12
+_citation_title
+
+;
+Synthesis and crystal structure of a new antimony(III) molybdate: Li Sb Mo2 O8
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1991 93 503 509 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Lii, K.-H.'
+primary 'Chueh, B.R.'
+_cell_length_a 21.640(6)
+_cell_length_b 4.9305(7)
+_cell_length_c 5.5448(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 100.35(1)
+_cell_angle_gamma 90.
+_cell_volume 581.98
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C 1 2/c 1'
+_space_group_IT_number 15
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sb3+ 3
+Mo6+ 6
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Sb1 Sb3+ 4 e 0 0.3087(1) 0.25 . 1.
+Mo1 Mo6+ 8 f 0.36197(3) 0.2511(1) 0.2147(1) . 1.
+O1 O2- 8 f 0.8394(2) 0.452(1) 0.0432(9) . 1.
+O2 O2- 8 f 0.2902(2) 0.407(1) 0.2124(9) . 1.
+O3 O2- 8 f 0.1042(2) 0.048(1) -.0072(9) . 1.
+O4 O2- 8 f 0.5522(2) 0.091(1) 0.1190(9) . 1.
+Li1 Li1+ 4 d 0.75 0.25 0 1.6(3) 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 Sb3+ 0.0074(4) 0.0086(4) 0.0069(4) 0 0.0016(2) 0
+Mo1 Mo6+ 0.0085(3) 0.0098(4) 0.0056(3) 0.0004(2) 0.0009(2) 0.0003(2)
+O1 O2- 0.010(2) 0.008(2) 0.005(2) -.002(2) 0.002(2) -.003(2)
+O2 O2- 0.009(2) 0.011(2) 0.007(2) 0.002(2) 0.000(2) 0.002(2)
+O3 O2- 0.010(2) 0.008(2) 0.006(2) 0.000(2) 0.002(2) 0.002(2)
+O4 O2- 0.008(2) 0.010(2) 0.004(2) -.003(2) -.001(2) 0.001(2)
+#End of TTdata_80595-ICSD
+#

@@ -1,0 +1,114 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_193947-ICSD
+_database_code_ICSD 193947
+_audit_creation_date 2015-08-01
+_chemical_name_common 'Lithium thiogermanate thiophosphate (10.35/1.35/1.65)'
+_chemical_formula_structural 'Li10.35 ((Ge1.35 P1.65) S12)'
+_chemical_formula_sum 'Ge1.35 Li10.35 P1.65 S12'
+_chemical_name_structure_type Li10GeP2S12-frame#LGPS-type
+_exptl_crystal_density_diffrn 2.1
+_diffrn_ambient_temperature 300.
+_citation_title
+
+;
+Synthesis, structure, and conduction mechanism of the lithium superionic
+conductor Li10+d Ge1+d P2-d S12
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary
+'Journal of Materials Chemistry A: Materials for Energy and Sustainability' 2015 3 438 446 JMCAET
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Kwon, Ohmin'
+primary 'Hirayama, Masaaki'
+primary 'Suzuki, Kota'
+primary 'Kato, Yuki'
+primary 'Saito, Toshiya'
+primary 'Yonemura, Masao'
+primary 'Kamiyama, Takashi'
+primary 'Kanno, Ryoji'
+_cell_length_a 8.713(5)
+_cell_length_b 8.713(5)
+_cell_length_c 12.6397(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 959.56
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 42/n m c S'
+_space_group_IT_number 137
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y+1/2, -x+1/2, z+1/2'
+2 'y+1/2, x+1/2, z+1/2'
+3 '-y, -x, -z'
+4 'y, x, -z'
+5 'y+1/2, -x+1/2, z+1/2'
+6 '-y+1/2, x+1/2, z+1/2'
+7 'y, -x, -z'
+8 '-y, x, -z'
+9 'x+1/2, -y+1/2, -z+1/2'
+10 '-x+1/2, y+1/2, -z+1/2'
+11 'x, -y, z'
+12 '-x, y, z'
+13 '-x+1/2, -y+1/2, -z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 '-x, -y, z'
+16 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ge4+ 4
+Li1+ 1
+P5+ 5
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Ge1 Ge4+ 4 d 0. 0.5 0.6886 . 0.675
+Li1 Li1+ 16 h 0.2478 0.2616 0.2018 . 0.4738
+Li2 Li1+ 4 d 0. 0.5 0.9525 . 1.
+Li3 Li1+ 8 f 0.2464 0.2464 0. . 0.7595
+Li4 Li1+ 4 c 0. 0. 0.2586 . 0.7708
+P1 P5+ 4 d 0. 0.5 0.6886 . 0.325
+P2 P5+ 2 b 0. 0. 0.5 . 1.
+S1 S2- 8 g 0. 0.1921 0.4091 . 1.
+S2 S2- 8 g 0. 0.2958 0.099 . 1.
+S3 S2- 8 g 0. 0.7019 0.7886 . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ge1 Ge4+ 0.0527 0.0447 0.0431 0. 0. 0.
+Li1 Li1+ 0.0745 0.0508 0.2007 0.019 -0.0973 -0.059
+Li2 Li1+ 0.0901 0.0518 0.0249 0. 0. 0.
+Li3 Li1+ 0.0486 0.0486 0.2597 -0.0335 0.0929 -0.0929
+Li4 Li1+ 0.0265 0.0966 0.1084 0. 0. 0.
+P1 P5+ 0.0527 0.0447 0.0431 0. 0. 0.
+P2 P5+ 0.0382 0.0382 0.0622 0. 0. 0.
+S1 S2- 0.0789 0.0239 0.0381 0. 0. 0.0143
+S2 S2- 0.0553 0.036 0.0527 0. 0. -0.0103
+S3 S2- 0.0446 0.0096 0.0524 0. 0. 0.0021
+#End of TTdata_193947-ICSD
+#

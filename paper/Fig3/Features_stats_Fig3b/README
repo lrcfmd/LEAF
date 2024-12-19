@@ -1,0 +1,9 @@
+Figure 3b can be produced by running Figure3b.py directly
+
+To reproduce the data for this figure:
+1) READ LiION_roomT.csv
+2) get ICSD structures: get_Li_cif.py -> save cifs in cifs/
+   Note: this requires API access to ICSD
+3) for each cif calculate lostops: calc_lostops*py -> save results as pickles in features/
+4) process lostops via stats.py -> save results in lostops.csv and lostops.pickle 
+5) arrange statistics in regard to conductivity: process_stats.py

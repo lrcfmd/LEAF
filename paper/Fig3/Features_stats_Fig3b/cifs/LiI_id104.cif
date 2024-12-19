@@ -1,0 +1,83 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_97510-ICSD
+_database_code_ICSD 97510
+_audit_creation_date 2004-10-01
+_chemical_name_common 'Strontium bismuth dioxide iodide'
+_chemical_formula_structural 'Sr Bi O2 I'
+_chemical_formula_sum 'Bi1 I1 O2 Sr1'
+_chemical_name_structure_type PbSbO2Cl#SrPdGa3
+_exptl_crystal_density_diffrn 6.64
+_citation_title
+
+;
+A reinvestigation of quaternary layered bismuth oxyhalides of the Sillen X1
+type
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 2003 175 316 321 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Charkin, D.O.'
+primary 'Berdonosov, P.S.'
+primary 'Dolgikh, V.A.'
+primary 'Lightfoot, P.'
+_cell_length_a 5.8723(1)
+_cell_length_b 13.5344(2)
+_cell_length_c 5.7363(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 455.91
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C m c m'
+_space_group_IT_number 63
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+Bi3+ 3
+O2- -2
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Sr1 Sr2+ 4 c 0 0.4050(3) 0.25 0.018(1) 1.
+Bi1 Bi3+ 4 c 0 0.0739(2) 0.25 0.023(1) 1.
+O1 O2- 8 e 0.247(1) 0 0 0.026(4) 1.
+I1 I1- 4 c 0 0.7445(2) 0.25 0.031(1) 1.
+#End of TTdata_97510-ICSD
+#

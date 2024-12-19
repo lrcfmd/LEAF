@@ -1,0 +1,80 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_167585-ICSD
+_database_code_ICSD 167585
+_audit_creation_date 2011-02-01
+_chemical_name_common
+'Lithium magnesium nitride (1.09/0.91/0.97) - orthorhombic'
+_chemical_formula_structural '(Li1.09 Mg0.91) N0.97'
+_chemical_formula_sum 'Li1.09 Mg0.91 N0.97'
+_chemical_name_structure_type LiMgN
+_exptl_crystal_density_diffrn 2.29
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Tunable defect structure in the Li - Mg - N ternary phase system: a powder
+neutron diffraction study
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Chemistry of Materials' 2010 22 3174 3182 CMATEX
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Bailey, A.S.'
+primary 'Hubberstey, P.'
+primary 'Hughes, R.W.'
+primary 'Ritter, C.'
+primary 'Gregory, D.H.'
+_cell_length_a 7.1450(6)
+_cell_length_b 3.5126(2)
+_cell_length_c 5.0042(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 125.59
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Mg2+ 2
+Li1+ 1
+Mg2+ 2
+N3- -3
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 4 c 0.097(2) 0.25 0.533(4) 0.0219(29) 0.941(7)
+Mg1 Mg2+ 4 c 0.097(2) 0.25 0.533(4) 0.0219(29) 0.059(7)
+Li2 Li1+ 4 c 0.1417(8) 0.25 0.015(1) 0.0107(20) 0.149(6)
+Mg2 Mg2+ 4 c 0.1417(8) 0.25 0.015(1) 0.0107(20) 0.851(6)
+N1 N3- 4 c 0.3777(6) 0.25 0.2679(5) 0.0100(8) 0.97
+#End of TTdata_167585-ICSD
+#

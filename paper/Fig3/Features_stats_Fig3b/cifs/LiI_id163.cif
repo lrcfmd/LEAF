@@ -1,0 +1,95 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_37763-ICSD
+_database_code_ICSD 37763
+_audit_creation_date 2022-08-01
+_chemical_name_common 'Lithium heptaiodidotristannate'
+_chemical_formula_structural 'Li0.974 Sn3.026 I7'
+_chemical_formula_sum 'I7 Li0.974 Sn3.026'
+_exptl_crystal_density_diffrn 5.22
+_diffrn_ambient_temperature 100.01
+_citation_title
+
+;
+The lithium iodostannate LiSn\(_3\)I\(_7\). Synthesis, properties and its
+relationship to SnI\(_2\)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'European Journal of Inorganic Chemistry' 2021 2021 4929 4934 EJICFO
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Löber, Manuel'
+primary 'Ströbele, Markus'
+primary 'Eichele, Klaus'
+primary 'Romao, Carl P.'
+primary 'Meyer, Hans‐Jürgen'
+_cell_length_a 14.1850(4)
+_cell_length_b 4.41403(10)
+_cell_length_c 13.2188(3)
+_cell_angle_alpha 90
+_cell_angle_beta 105.446(3)
+_cell_angle_gamma 90
+_cell_volume 797.76
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'C 1 2/m 1'
+_space_group_IT_number 12
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z'
+2 '-x, -y, -z'
+3 'x, -y, z'
+4 'x, y, z'
+5 '-x+1/2, y+1/2, -z'
+6 '-x+1/2, -y+1/2, -z'
+7 'x+1/2, -y+1/2, z'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sn2+ 2
+Li1+ 1
+Sn2+ 2
+I1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Sn1 Sn2+ 4 i 0.12272(4) 0. -0.07202(5) 0.0162(2) 0.5130(19)
+Li1 Li1+ 4 i 0.12272(4) 0. -0.07202(5) 0.0162(2) 0.4870(19)
+Sn2 Sn2+ 4 i 0.68327(2) 0. 0.33761(3) 0.01645(8) 1
+I1 I1- 4 i 0.52252(2) 0.5 0.29788(2) 0.01332(7) 1
+I2 I1- 4 i 0.65220(2) 0. 0.55092(2) 0.01012(7) 1
+I3 I1- 4 i 0.24020(2) 0.5 -0.14310(2) 0.01930(8) 1
+I4 I1- 2 b 0.5 0. 0. 0.02226(11) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn1 Sn2+ 0.0177(3) 0.0159(3) 0.0163(3) 0. 0.0065(2) 0.
+Li1 Li1+ 0.0177(3) 0.0159(3) 0.0163(3) 0. 0.0065(2) 0.
+Sn2 Sn2+ 0.01967(16) 0.01611(16) 0.01524(16) 0. 0.00757(12) 0.
+I1 I1- 0.01037(13) 0.01085(14) 0.01804(15) 0. 0.00258(10) 0.
+I2 I1- 0.00973(13) 0.01075(13) 0.01007(13) 0. 0.00297(9) 0.
+I3 I1- 0.03044(18) 0.01627(15) 0.01394(15) 0. 0.01072(12) 0.
+I4 I1- 0.0165(2) 0.0132(2) 0.0417(3) 0. 0.01578(19) 0.
+#End of TTdata_37763-ICSD
+#

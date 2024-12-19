@@ -1,0 +1,80 @@
+Cross-Validation Accuracy Scores:
+[0.75       0.7625     0.69620253 0.78481013 0.73417722] [0.6875     0.6779661  0.64705882 0.73846154 0.61818182]
+Mean Accuracy: 0.75 (+/- 0.03)
+Mean F1: 0.67 (+/- 0.03)
+
+Top 74 Features:
+11, Li_rectangular see-saw-like CN_4, 0.0241
+19, Li_pentagonal pyramidal CN_6, 0.0202
+36, Li_q6 CN_12, 0.0202
+18, Li_octahedral CN_6, 0.0201
+20, Li_hexagonal pyramidal CN_7, 0.0200
+51, cat_pentagonal planar CN_5, 0.0198
+29, Li_q6 CN_10, 0.0194
+21, Li_pentagonal bipyramidal CN_7, 0.0193
+7, Li_trigonal non-coplanar CN_3, 0.0191
+10, Li_tetrahedral CN_4, 0.0176
+34, Li_q2 CN_12, 0.0174
+27, Li_q2 CN_10, 0.0173
+16, Li_trigonal bipyramidal CN_5, 0.0173
+40, cat_bent 120 degrees CN_2, 0.0170
+3, Li_bent 120 degrees CN_2, 0.0170
+53, cat_trigonal bipyramidal CN_5, 0.0167
+2, Li_water-like CN_2, 0.0167
+43, cat_trigonal planar CN_3, 0.0166
+15, Li_square pyramidal CN_5, 0.0165
+25, Li_q4 CN_9, 0.0164
+14, Li_pentagonal planar CN_5, 0.0164
+6, Li_trigonal planar CN_3, 0.0162
+31, Li_q4 CN_11, 0.0161
+0, Li_sgl_bd CN_1, 0.0158
+4, Li_bent 150 degrees CN_2, 0.0157
+47, cat_tetrahedral CN_4, 0.0154
+49, cat_see-saw-like CN_4, 0.0146
+1, Li_L-shaped CN_2, 0.0144
+62, cat_q4 CN_9, 0.0141
+23, Li_hexagonal bipyramidal CN_8, 0.0140
+44, cat_trigonal non-coplanar CN_3, 0.0139
+12, Li_see-saw-like CN_4, 0.0137
+28, Li_q4 CN_10, 0.0137
+5, Li_linear CN_2, 0.0136
+58, cat_pentagonal bipyramidal CN_7, 0.0136
+57, cat_hexagonal pyramidal CN_7, 0.0136
+71, cat_q2 CN_12, 0.0136
+50, cat_trigonal pyramidal CN_4, 0.0135
+30, Li_q2 CN_11, 0.0135
+52, cat_square pyramidal CN_5, 0.0133
+22, Li_body-centered cubic CN_8, 0.0130
+42, cat_linear CN_2, 0.0129
+8, Li_T-shaped CN_3, 0.0122
+54, cat_hexagonal planar CN_6, 0.0120
+69, cat_q6 CN_11, 0.0120
+24, Li_q2 CN_9, 0.0115
+65, cat_q4 CN_10, 0.0114
+46, cat_square co-planar CN_4, 0.0113
+37, cat_sgl_bd CN_1, 0.0112
+13, Li_trigonal pyramidal CN_4, 0.0110
+38, cat_L-shaped CN_2, 0.0110
+39, cat_water-like CN_2, 0.0107
+26, Li_q6 CN_9, 0.0106
+59, cat_body-centered cubic CN_8, 0.0105
+48, cat_rectangular see-saw-like CN_4, 0.0104
+17, Li_hexagonal planar CN_6, 0.0104
+73, cat_q6 CN_12, 0.0102
+61, cat_q2 CN_9, 0.0102
+32, Li_q6 CN_11, 0.0102
+70, cat_cuboctahedral CN_12, 0.0101
+9, Li_square co-planar CN_4, 0.0099
+56, cat_pentagonal pyramidal CN_6, 0.0095
+60, cat_hexagonal bipyramidal CN_8, 0.0094
+64, cat_q2 CN_10, 0.0092
+68, cat_q4 CN_11, 0.0091
+33, Li_cuboctahedral CN_12, 0.0091
+72, cat_q4 CN_12, 0.0086
+67, cat_q2 CN_11, 0.0084
+41, cat_bent 150 degrees CN_2, 0.0083
+63, cat_q6 CN_9, 0.0081
+55, cat_octahedral CN_6, 0.0079
+66, cat_q6 CN_10, 0.0074
+35, Li_q4 CN_12, 0.0074
+45, cat_T-shaped CN_3, 0.0070

@@ -1,0 +1,117 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_240352-ICSD
+_database_code_ICSD 240352
+_audit_creation_date 2007-04-01
+_audit_update_record 2014-08-01
+_chemical_name_common 'Disodium triiron tris(oxalate) bis(methylphosphonate)'
+_chemical_formula_structural 'Na2 Mn3 (C2 O4)3 (C H3  P O3 H)2'
+_chemical_formula_sum 'C8 H8 Mn3 Na2 O18 P2'
+_chemical_name_structure_type Na2Mn3(C2O4)3(CH3PO3H)2
+_exptl_crystal_density_diffrn 2.41
+_citation_title
+
+;
+Ionothermal Synthesis of Metal Oxalatophosphonates with a Three-Dimensional
+Framework Structure: Na2M3(C2O4)3(CH3PO3H)2 (M = FeII and MnII)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2006 45 6361 6364 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Tsao, C.-P.'
+primary 'Sheu, C.-Y.'
+primary 'Nguyen, N.'
+primary 'Lii, K.-H.'
+_cell_length_a 5.8734(9)
+_cell_length_b 10.5573(15)
+_cell_length_c 14.863(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 96.691(2)
+_cell_angle_gamma 90.
+_cell_volume 915.34
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 1 21/n 1'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x+1/2, y+1/2, -z+1/2'
+2 '-x, -y, -z'
+3 'x+1/2, -y+1/2, z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Na1+ 1
+Mn2+ 2
+P3+ 3
+O2- -2
+H1+ 1
+O2- -2
+C4+ 4
+C3+ 3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Na1 Na1+ 4 e -0.12084(19) 0.74804(11) 0.17692(8) 0.0185(3) 1
+Mn1 Mn2+ 4 e 0.40879(7) 0.55541(4) 0.24413(3) 0.01245(13) 1
+Mn2 Mn2+ 2 c 0.5 0. 0.5 0.01642(17) 1
+P1 P3+ 4 e 0.56968(15) 0.68488(8) 0.45438(6) 0.0200(2) 1
+O1 O2- 4 e 0.5060(4) 0.82065(19) 0.43902(15) 0.0248(5) 1
+O2 O2- 4 e 0.4502(4) 0.5884(2) 0.38934(14) 0.0219(5) 1
+O3 O2- 4 e 0.5116(6) 0.6505(2) 0.55235(18) 0.0397(7) 1
+H1 H1+ 4 e 0.524(8) 0.583(4) 0.567(3) 0.05 1
+O4 O2- 4 e 0.2914(3) 0.35849(19) 0.25700(14) 0.0165(5) 1
+O5 O2- 4 e -0.0160(3) 0.24339(18) 0.27728(14) 0.0175(5) 1
+O6 O2- 4 e -0.2716(3) 0.45354(19) 0.26404(16) 0.0200(5) 1
+O7 O2- 4 e 0.0376(3) 0.56715(18) 0.24059(15) 0.0172(5) 1
+O8 O2- 4 e 0.7167(4) 0.5668(2) 0.07574(14) 0.0192(5) 1
+O9 O2- 4 e 0.3454(3) 0.5388(2) 0.09019(14) 0.0176(5) 1
+C1 C4+ 4 e 0.8735(7) 0.6664(4) 0.4540(3) 0.0497(13) 1
+C2 C3+ 4 e 0.0850(5) 0.3447(3) 0.26357(19) 0.0121(6) 1
+C3 C3+ 4 e -0.0645(5) 0.4662(3) 0.25461(19) 0.0127(6) 1
+C4 C3+ 4 e 0.5184(5) 0.5309(3) 0.0477(2) 0.0142(6) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 Na1+ 0.0163(6) 0.0148(6) 0.0247(7) 0.0018(5) 0.0036(5) 0.0018(5)
+Mn1 Mn2+ 0.0109(2) 0.0109(2) 0.0156(2) -0.00068(17) 0.00130(17) 0.00018(18)
+Mn2 Mn2+ 0.0144(3) 0.0154(3) 0.0198(4) 0.0005(3) 0.0033(3) -0.0002(3)
+P1 P3+ 0.0265(5) 0.0163(4) 0.0163(4) 0.0028(3) -0.0008(3) -0.0020(3)
+O1 O2- 0.0346(13) 0.0153(11) 0.0236(13) 0.0026(10) -0.0004(10) -0.0023(9)
+O2 O2- 0.0320(13) 0.0183(11) 0.0150(12) -0.0012(10) 0.0012(10) -0.0013(9)
+O3 O2- 0.083(2) 0.0208(13) 0.0154(13) 0.0028(14) 0.0066(13) -0.0004(11)
+O4 O2- 0.0097(10) 0.0149(10) 0.0248(12) 0.0015(8) 0.0020(9) 0.0012(9)
+O5 O2- 0.0167(11) 0.0095(10) 0.0277(13) 0.0002(8) 0.0084(9) 0.0024(9)
+O6 O2- 0.0099(10) 0.0159(11) 0.0348(13) 0.0011(8) 0.0050(9) 0.0047(9)
+O7 O2- 0.0129(10) 0.0109(10) 0.0277(12) 0.0008(8) 0.0021(9) 0.0032(9)
+O8 O2- 0.0143(11) 0.0256(12) 0.0174(12) -0.0024(9) 0.0006(9) -0.0056(9)
+O9 O2- 0.0153(11) 0.0235(12) 0.0145(11) -0.0013(9) 0.0036(9) -0.0041(9)
+C1 C4+ 0.024(2) 0.043(2) 0.079(3) 0.0111(18) -0.009(2) -0.024(2)
+C2 C3+ 0.0140(14) 0.0129(14) 0.0093(14) 0.0003(11) 0.0006(11) -0.0004(11)
+C3 C3+ 0.0132(14) 0.0133(14) 0.0112(14) 0.0009(11) -0.0009(11) -0.0002(11)
+C4 C3+ 0.0160(15) 0.0136(14) 0.0125(15) -0.0006(11) -0.0003(12) 0.0014(11)
+#End of TTdata_240352-ICSD
+#

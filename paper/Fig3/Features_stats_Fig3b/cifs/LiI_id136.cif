@@ -1,0 +1,94 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_65678-ICSD
+_database_code_ICSD 65678
+_audit_creation_date 1990-06-08
+_audit_update_record 2012-08-01
+_chemical_name_common 'Cesium vanadium(III) diphosphate'
+_chemical_formula_structural 'Cs V (P2 O7)'
+_chemical_formula_sum 'Cs1 O7 P2 V1'
+_chemical_name_structure_type KAlP2O7
+_exptl_crystal_density_diffrn 3.83
+_diffrn_ambient_temperature 296.
+_citation_title 'Structure of Cs V P22 O7'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Crystal Structure Communications'
+1989 45 1210 1211 ACSCEE
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Wang, Y.-P.'
+primary 'Lii, K.-H.'
+_cell_length_a 7.701(3)
+_cell_length_b 9.997(2)
+_cell_length_c 8.341(4)
+_cell_angle_alpha 90.
+_cell_angle_beta 104.82(4)
+_cell_angle_gamma 90.
+_cell_volume 620.79
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 1 21/c 1'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Cs1+ 1
+V3+ 3
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Cs1 Cs1+ 4 e 0.80211(6) 0.20510(5) 0.96096(6) . 1.
+V1 V3+ 4 e 0.75946(14) -.39878(11) 0.74130(13) . 1.
+P1 P5+ 4 e 0.86838(21) -.09430(18) 0.66697(20) . 1.
+P2 P5+ 4 e 0.57426(22) -.37300(17) 0.31783(20) . 1.
+O1 O2- 4 e 0.9052(6) -.2372(5) 0.7296(6) . 1.
+O2 O2- 4 e 0.6777(7) -.3974(6) 0.4931(6) . 1.
+O3 O2- 4 e 0.6119(6) -.5660(5) 0.7280(6) . 1.
+O4 O2- 4 e 0.8423(7) -.4163(5) 0.9841(6) . 1.
+O5 O2- 4 e 0.5639(6) -.2725(5) 0.7673(6) . 1.
+O6 O2- 4 e 0.9882(6) -.5031(5) 0.7336(6) . 1.
+O7 O2- 4 e 0.6817(6) -.4513(5) 0.2033(6) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs1 Cs1+ 0.01032(23) 0.0178(3) 0.01183(22) -.00271(18) -.00129(15) 0.00577(18)
+V1 V3+ 0.0027(5) 0.0043(5) 0.0036(5) 0.0000(4) 0.0010(4) 0.0002(4)
+P1 P5+ 0.0033(7) 0.0052(8) 0.0046(7) -.0006(6) 0.0018(6) 0.0004(6)
+P2 P5+ 0.0026(7) 0.0050(8) 0.0043(7) 0.0003(6) 0.0011(6) 0.0005(6)
+O1 O2- 0.0088(22) 0.0034(22) 0.0114(23) 0.0020(18) 0.0047(18) 0.0006(18)
+O2 O2- 0.0151(25) 0.017(3) 0.0060(23) 0.0005(21) -.0012(19) 0.0026(20)
+O3 O2- 0.0031(21) 0.0067(24) 0.0147(24) -.0022(17) 0.0039(18) 0.0003(19)
+O4 O2- 0.0095(23) 0.018(3) 0.0037(22) 0.0046(20) 0.0013(18) 0.0016(19)
+O5 O2- 0.0064(21) 0.0058(24) 0.0132(23) -.0004(18) 0.0020(18) 0.0007(19)
+O6 O2- 0.0065(21) 0.0070(21) 0.0085(22) 0.0047(18) 0.0037(17) 0.0020(19)
+O7 O2- 0.0032(21) 0.0076(22) 0.0118(23) 0.0018(18) 0.0052(17) -.0013(19)
+#End of TTdata_65678-ICSD
+#

@@ -1,0 +1,86 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_114257-ICSD
+_database_code_ICSD 114257
+_audit_creation_date 2022-08-01
+_chemical_name_common 'Trilithium phosphate'
+_chemical_formula_structural 'Li3 (P O4)'
+_chemical_formula_sum 'Li3 O4 P1'
+_chemical_name_structure_type Enargite#Cu3AsS4
+_exptl_crystal_density_diffrn 2.46
+_diffrn_ambient_temperature 400.
+_citation_title
+
+;
+Visualizing lithium ions in the crystal structure of Li\(_3\)PO\(_4\) by in
+situ neutron diffraction
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Applied Crystallography' 2021 54 1409 1415 JACGAR
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Manawan, Maykel'
+primary 'Kartini, Evvy'
+primary 'Avdeev, Maxim'
+_cell_length_a 6.1243(3)
+_cell_length_b 5.2459(3)
+_cell_length_c 4.8698(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 156.45
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P m n 21'
+_space_group_IT_number 31
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, -y, z+1/2'
+2 '-x+1/2, -y, z+1/2'
+3 '-x, y, z'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+O2- -2
+Li1+ 1
+O2- -2
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+O1 O2- 4 b 0.2435 0.1646 0.1199 1.25094 1
+Li1 Li1+ 4 b 0.25628 0.185611 0.506541 2.50293 1
+O2 O2- 2 a 0 0.3225 0.6411 1.26331 1
+P1 P5+ 2 a 0 0.3277 0 0.21577 1
+O3 O2- 2 a 0 0.6474 0.1255 1.23673 1
+Li2 Li1+ 2 a 0 0.66 0.5 2.42397 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0321(12) 0.0388(13) 0.0242(12) 0.0032(3) 0.0058(4) -0.0055(6)
+Li2 Li1+ 0.0357(12) 0.0366(15) 0.0198(14) 0. 0. 0.0052(6)
+#End of TTdata_114257-ICSD
+#

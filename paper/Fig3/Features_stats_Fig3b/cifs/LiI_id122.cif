@@ -1,0 +1,118 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_68977-ICSD
+_database_code_ICSD 68977
+_audit_creation_date 1992-01-20
+_audit_update_record 2011-02-01
+_chemical_name_common 'Dirubidium tris(oxovanadate(IV)) bis(diphosphate(V))'
+_chemical_formula_structural 'Rb2 (V O)3 (P2 O7)2'
+_chemical_formula_sum 'O17 P4 Rb2 V3'
+_chemical_name_structure_type Rb2V3P4O17
+_exptl_crystal_density_diffrn 3.29
+_citation_title
+
+;
+Crystal structure and magnetic properties of a vanadium(IV) pyrophosphate: Rb2
+V3 P4 O17
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of the Chinese Chemical Society (Weinheim, Germany)' 1990 37
+141 149 JCCTAC
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Lii, K.-H.'
+primary 'Wang, Y.-P.'
+primary 'Cheng, C.-Y.'
+primary 'Wang, S.-L.'
+primary 'Ku, H.C.'
+_cell_length_a 17.502(7)
+_cell_length_b 7.292(2)
+_cell_length_c 11.399(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1454.79
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+V4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Rb1 Rb1+ 4 c 0.36223(5) 0.75 0.53378(8) . 1.
+Rb2 Rb1+ 4 c 0.31949(4) 0.75 0.14689(7) . 1.
+V1 V4+ 4 c 0.40089(6) 0.25 0.6603(1) . 1.
+V2 V4+ 4 c 0.30938(6) 0.25 0.3361(1) . 1.
+V3 V4+ 8 d 0.4989(1) 0.0303(2) 0.0021(2) 0.0074(7) 0.5
+P1 P5+ 8 d 0.17171(6) 0.5483(2) 0.3876(1) . 1.
+P2 P5+ 8 d 0.47107(6) 0.0463(2) 0.2885(1) . 1.
+O1 O2- 8 d 0.3506(2) 0.4358(5) 0.7590(3) . 1.
+O2 O2- 4 c 0.1922(3) 0.75 0.4319(5) . 1.
+O3 O2- 8 d 0.2447(2) 0.4448(5) 0.4071(3) . 1.
+O4 O2- 8 d 0.3901(2) 0.4427(4) 0.3347(3) . 1.
+O5 O2- 8 d 0.4790(2) 0.4372(5) 0.6277(3) . 1.
+O6 O2- 4 c 0.5064(2) 0.25 0.2888(4) . 1.
+O7 O2- 8 d 0.3906(2) 0.9761(5) -.0354(3) . 1.
+O8 O2- 8 d 0.4745(2) 0.9688(5) 0.1673(3) . 1.
+O9 O2- 4 c 0.4886(3) 0.25 0.0130(4) . 1.
+O10 O2- 4 c 0.3494(3) 0.25 0.5449(4) . 1.
+O11 O2- 4 c 0.2805(3) 0.25 0.2047(5) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0307(5) 0.0353(5) 0.0343(5) 0 -.0118(4) 0
+Rb2 Rb1+ 0.0221(4) 0.0324(5) 0.0225(4) 0 0.0020(3) 0
+V1 V4+ 0.0080(6) 0.0047(6) 0.0064(6) 0 -.0011(4) 0
+V2 V4+ 0.0068(5) 0.0084(5) 0.0103(6) 0 0.0008(4) 0
+P1 P5+ 0.0074(6) 0.0052(6) 0.0094(6) 0.0019(5) -.0004(5) 0.0002(5)
+P2 P5+ 0.0084(6) 0.0046(6) 0.0081(6) 0.0014(5) 0.0012(5) 0.0006(5)
+O1 O2- 0.020(2) 0.012(2) 0.010(2) 0.005(2) 0.003(1) -.001(1)
+O2 O2- 0.040(3) 0.008(3) 0.019(3) 0 -.017(2) 0
+O3 O2- 0.014(2) 0.021(2) 0.015(2) 0.011(2) -.001(1) 0.001(2)
+O4 O2- 0.009(2) 0.004(2) 0.019(2) 0.001(1) 0.005(1) 0.000(2)
+O5 O2- 0.014(2) 0.011(2) 0.013(2) -.007(1) 0.002(1) -.003(1)
+O6 O2- 0.012(2) 0.004(2) 0.018(3) 0 0.001(2) 0
+O7 O2- 0.010(2) 0.028(2) 0.020(2) -.001(2) -.004(1) 0.006(2)
+O8 O2- 0.019(2) 0.010(2) 0.012(2) -.004(1) 0.003(1) -.002(2)
+O9 O2- 0.033(3) 0.005(2) 0.017(3) 0 0.007(2) 0
+O10 O2- 0.016(2) 0.014(3) 0.013(3) 0 -.004(2) 0
+O11 O2- 0.028(3) 0.033(3) 0.013(3) 0 -.003(2) 0
+#End of TTdata_68977-ICSD
+#

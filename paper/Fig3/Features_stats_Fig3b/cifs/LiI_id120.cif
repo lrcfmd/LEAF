@@ -1,0 +1,92 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_92249-ICSD
+_database_code_ICSD 92249
+_audit_creation_date 2002-10-01
+_chemical_name_common 'Lithium silver hafnium sulfide (5/0.25/3/8)'
+_chemical_formula_structural 'Li5 Ag0.25 Hf3 S8'
+_chemical_formula_sum 'Ag0.25 Hf3 Li5 S8'
+_exptl_crystal_density_diffrn 5.
+_citation_title
+
+;
+Electrochemical and structural characterization of silver hafnium sulfide
+cathodes
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 2000 136 469 472 SSIOD3
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Wada, H.'
+primary 'Sakamaki, K.'
+primary 'Ishii, M.'
+_cell_length_a 10.4263(8)
+_cell_length_b 10.4263(8)
+_cell_length_c 10.4263(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1133.42
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 43 3 2'
+_space_group_IT_number 212
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'z+1/4, y+3/4, -x+3/4'
+2 '-z+3/4, y+1/4, x+3/4'
+3 'y+1/4, x+3/4, -z+3/4'
+4 '-y+3/4, x+1/4, z+3/4'
+5 'x+1/4, z+3/4, -y+3/4'
+6 '-x+3/4, z+1/4, y+3/4'
+7 'z+3/4, -y+3/4, x+1/4'
+8 '-z+1/4, -y+1/4, -x+1/4'
+9 'y+3/4, -x+3/4, z+1/4'
+10 '-y+1/4, -x+1/4, -z+1/4'
+11 'x+3/4, -z+3/4, y+1/4'
+12 '-x+1/4, -z+1/4, -y+1/4'
+13 '-y+1/2, -z, x+1/2'
+14 '-y, z+1/2, -x+1/2'
+15 'y+1/2, -z+1/2, -x'
+16 'y, z, x'
+17 'z+1/2, -x+1/2, -y'
+18 '-z+1/2, -x, y+1/2'
+19 '-z, x+1/2, -y+1/2'
+20 'z, x, y'
+21 '-x+1/2, -y, z+1/2'
+22 '-x, y+1/2, -z+1/2'
+23 'x+1/2, -y+1/2, -z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ag0+ 0
+Hf4+ 3.667
+S2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 8 c 0 0 0 2.4 1.
+Li2 Li1+ 8 c 0.5 0.5 0.5 2.4 1.
+Li3 Li1+ 12 d 0.125 0.59 0.66 2.4 0.333
+Ag1 Ag0+ 4 b 0.625 0.625 0.625 1.3 0.25
+Hf1 Hf4+ 12 d 0.125 0.369(1) 0.881(1) 0.3 1.
+S1 S2- 8 c 0.873(12) 0.873(12) 0.873(12) 2.1 1.
+S2 S2- 24 e 0.378(5) 0.125(12) 0.123(5) 2.1 1.
+#End of TTdata_92249-ICSD
+#

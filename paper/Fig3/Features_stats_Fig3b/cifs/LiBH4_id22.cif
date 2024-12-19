@@ -1,0 +1,78 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_250815-ICSD
+_database_code_ICSD 250815
+_audit_creation_date 2015-02-01
+_chemical_name_common 'Strontium bis(tetrahydroborane) chloride (1/1.62/0.38)'
+_chemical_formula_structural 'Sr (B H4)1.62 Cl0.38'
+_chemical_formula_sum 'H6.48 B1.62 Cl0.38 Sr1'
+_exptl_crystal_density_diffrn 1.89
+_diffrn_ambient_temperature 500.
+_citation_title
+'Novel alkali earth borohydride Sr(BH4)2 and borohydride-chloride Sr(BH4)Cl'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 10877 10885 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Ravnsbaek, D.B.'
+primary 'Nickels, E.A.'
+primary 'Cerny, R.'
+primary 'Olesen, C.H.'
+primary 'David, W.I.F.'
+primary 'Edwards, P.P.'
+primary 'Filinchuk, Y.'
+primary 'Jensen, T.R.'
+_cell_length_a 6.9415(11)
+_cell_length_b 8.3770(14)
+_cell_length_c 7.5532(11)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 439.21
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P b c n'
+_space_group_IT_number 60
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 '-x+1/2, y+1/2, z'
+3 'x+1/2, y+1/2, -z+1/2'
+4 '-x, -y, -z'
+5 '-x, y, -z+1/2'
+6 'x+1/2, -y+1/2, -z'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Sr2+ 2
+B3+ 3
+Cl1- -1
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Sr1 Sr2+ 4 c 0.5 0.1499(6) 0.25 5.8(3) 1.
+B1 B3+ 8 d 0.76587(17) 0.39020(14) 0.07688(16) 1.5(10) 0.81(3)
+Cl1 Cl1- 8 d 0.76587(17) 0.39020(14) 0.07688(16) 1.5(10) 0.19(3)
+H1 H1- 8 d 0.66507(17) 0.33890(14) -0.03532(16) 1.5(10) 0.81(3)
+H2 H1- 8 d 0.84717(17) 0.50440(14) 0.02358(16) 1.5(10) 0.81(3)
+H3 H1- 8 d 0.67167(17) 0.42530(14) 0.20108(16) 1.5(10) 0.81(3)
+H4 H1- 8 d 0.87967(17) 0.29210(14) 0.11818(16) 1.5(10) 0.81(3)
+#End of TTdata_250815-ICSD
+#

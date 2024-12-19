@@ -1,0 +1,92 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_95723-ICSD
+_database_code_ICSD 95723
+_audit_creation_date 2004-04-01
+_chemical_name_common 'Cobalt iron(III) vanadate (3.6/3.6/6)'
+_chemical_formula_structural '(Co3.6 Fe3.6) (V O4)6'
+_chemical_formula_sum 'Co3.6 Fe3.6 O24 V6'
+_chemical_name_structure_type Lyonsite#Li3Fe(MoO4)3
+_exptl_crystal_density_diffrn 4.19
+_citation_title
+
+;
+Synchrotron X-ray and TOF neutron powder diffraction study of a lyonsite-type
+oxide Co3.6 Fe3.6 (V O4)6
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Sciences' 2002 4 515 522 SSSCFJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Belik, A.A.'
+primary 'Izumi, F.'
+primary 'Ikeda, T.'
+primary 'Nisawa, A.'
+primary 'Kamiyama, T.'
+primary 'Oikawa, K.'
+_cell_length_a 4.96392(2)
+_cell_length_b 10.22260(3)
+_cell_length_c 17.20710(5)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 873.16
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Fe3+ 3
+Co2+ 2
+Fe3+ 3
+Co2+ 2
+Fe3+ 3
+Co2+ 2
+V5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Fe1 Fe3+ 4 c 0.2440(6) 0.25 0.80291(10) 0.0146(5) 0.096
+Co1 Co2+ 4 c 0.2440(6) 0.25 0.80291(10) 0.0146(5) 0.844
+Fe2 Fe3+ 8 d 0.2474(5) 0.42299(12) 0.97183(8) 0.0107(4) 0.555
+Co2 Co2+ 8 d 0.2474(5) 0.42299(12) 0.97183(8) 0.0107(4) 0.445
+Fe3 Fe3+ 4 c 0.0902(8) 0.25 0.2508(3) 0.0055(12) 0.594
+Co3 Co2+ 4 c 0.0902(8) 0.25 0.2508(3) 0.0055(12) 0.066
+V1 V5+ 4 c 0.7763(5) 0.25 0.05647(10) 0.0111(5) 1.
+V2 V5+ 8 d 0.7232(4) 0.47235(10) 0.84335(7) 0.0120(4) 1.
+O1 O2- 8 d 0.6603(10) 0.6172(4) 0.7964(3) 0.0127(14) 1.
+O2 O2- 8 d 0.4257(11) 0.3904(5) 0.8717(3) 0.0086(13) 1.
+O3 O2- 4 c 0.0764(14) 0.25 0.9961(4) 0.006(2) 1.
+O4 O2- 8 d 0.5925(9) 0.3846(4) 0.0355(3) 0.0113(13) 1.
+O5 O2- 8 d 0.9110(10) 0.5034(5) 0.9278(3) 0.0095(14) 1.
+O6 O2- 4 c 0.6496(14) 0.75 0.6537(4) 0.008(2) 1.
+O7 O2- 8 d -0.0856(12) 0.3737(4) 0.7875(3) 0.0155(14) 1.
+#End of TTdata_95723-ICSD
+#

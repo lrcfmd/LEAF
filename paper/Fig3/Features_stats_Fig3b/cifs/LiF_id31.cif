@@ -1,0 +1,113 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_264354-ICSD
+_database_code_ICSD 264354
+_audit_creation_date 2019-02-01
+_chemical_name_common
+'Trirubidium tribarium dilithium tetragallium hexaborate fluoride'
+_chemical_formula_structural 'Rb3 Ba3 Li2 Ga4 B6 O20 F'
+_chemical_formula_sum 'B6 Ba3 F1 Ga4 Li2 O20 Rb3'
+_exptl_crystal_density_diffrn 4.01
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Beryllium-free nonlinear-optical crystals A3Ba3Li2Ga4B6O20F (A = K and Rb).
+Members of the Sr2Be2(BO3)2O family with a strong covalent connection between
+the inf2[Li2Ga4B6O20F]9- double layers
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2018 57 5669 5676 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Meng, Xianghe'
+primary 'Liang, Fei'
+primary 'Xia, Mingjun'
+primary 'Lin, Zheshuai'
+_cell_length_a 8.7214(12)
+_cell_length_b 8.7214(12)
+_cell_length_c 17.180(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 1131.68
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P -6 2 c'
+_space_group_IT_number 190
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -x+y, -z'
+2 'x-y, -y, -z'
+3 'y, x, -z'
+4 '-x, -x+y, z+1/2'
+5 'x-y, -y, z+1/2'
+6 'y, x, z+1/2'
+7 '-x+y, -x, -z+1/2'
+8 '-y, x-y, -z+1/2'
+9 'x, y, -z+1/2'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+Ba2+ 2
+Ga3+ 3
+B3+ 3
+Li1+ 1
+F1- -1
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Rb1 Rb1+ 6 h 0.7047(3) 0.0467(3) 0.25 0.0189(4) 1
+Ba1 Ba2+ 6 g 0.63202(13) 0. 0. 0.0188(3) 1
+Ga1 Ga3+ 4 f 0.3333 -0.3333 0.15266(18) 0.0169(6) 1
+Ga2 Ga3+ 4 e 0. 0. 0.10216(16) 0.0082(5) 1
+B1 B3+ 12 i 0.013(3) 0.333(3) 0.1182(12) 0.025(3) 1
+Li1 Li1+ 4 f 0.6667 0.3333 0.142(3) 0.0138(11) 1
+F1 F1- 2 d 0.6667 0.3333 0.25 0.0164(19) 1
+O1 O2- 12 i 0.0818(15) 0.2275(18) 0.1355(9) 0.037(3) 1
+O2 O2- 12 i 0.8382(15) 0.2694(13) 0.0934(6) 0.0210(17) 1
+O3 O2- 12 i 0.116(2) 0.511(2) 0.1182(8) 0.043(3) 1
+O4 O2- 2 a 0. 0. 0. 0.071(11) 1
+O5 O2- 6 h 0.367(7) -0.242(6) 0.25 0.020(2) 0.33
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0301(10) 0.0252(10) 0.0118(7) 0.0214(9) 0. 0.
+Ba1 Ba2+ 0.0147(4) 0.0288(7) 0.0177(5) 0.0144(4) -0.0046(3) -0.0092(5)
+Ga1 Ga3+ 0.0155(8) 0.0155(8) 0.0197(13) 0.0078(4) 0. 0.
+Ga2 Ga3+ 0.0065(7) 0.0065(7) 0.0114(11) 0.0033(3) 0. 0.
+B1 B3+ 0.025(3) 0.024(3) 0.025(3) 0.0129(16) -0.0001(10) -0.0003(10)
+Li1 Li1+ 0.0139(11) 0.0139(11) 0.0138(15) 0.0069(5) 0. 0.
+F1 F1- 0.017(2) 0.017(2) 0.014(3) 0.0087(12) 0. 0.
+O1 O2- 0.021(5) 0.022(5) 0.067(8) 0.010(5) -0.010(5) -0.016(5)
+O2 O2- 0.019(5) 0.018(4) 0.023(3) 0.007(3) 0.006(3) -0.003(2)
+O3 O2- 0.043(3) 0.042(3) 0.044(3) 0.0215(16) -0.0010(10) 0.0011(10)
+O4 O2- 0.103(18) 0.103(18) 0.008(5) 0.051(9) 0. 0.
+O5 O2- 0.021(2) 0.020(2) 0.020(2) 0.0103(13) 0. 0.
+#End of TTdata_264354-ICSD
+#

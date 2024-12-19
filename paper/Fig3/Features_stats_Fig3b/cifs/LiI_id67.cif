@@ -1,0 +1,105 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_251998-ICSD
+_database_code_ICSD 251998
+_audit_creation_date 2016-02-01
+_chemical_name_common
+'Dipotassium tetracalcium dioxouranate(VI) bis(heptaoxo-disilicate)'
+_chemical_formula_structural 'K2 Ca4 ((U O2) (Si2 O7)2)'
+_chemical_formula_sum 'Ca4 K2 O16 Si4 U1'
+_chemical_name_structure_type K4(UO2)Eu2(Ge2O7)2
+_exptl_crystal_density_diffrn 3.6
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+K2 Ca4 [(U O2) (Si2 O7)2]: a uranyl silicate with a one-dimensional chain
+structure
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 8165 8167 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Liu, Chia-Lin'
+primary 'Liu, Hsin-Kuan'
+primary 'Chang, Wen-Jung'
+primary 'Lii, Kwang-Hwa'
+_cell_length_a 6.6354(2)
+_cell_length_b 6.6791(2)
+_cell_length_c 9.6987(3)
+_cell_angle_alpha 98.324(2)
+_cell_angle_beta 93.624(2)
+_cell_angle_gamma 112.310(2)
+_cell_volume 390.17
+_cell_formula_units_Z 1
+_space_group_name_H-M_alt 'P -1'
+_space_group_IT_number 2
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+K1+ 1
+Ca2+ 2
+U6+ 6
+Si4+ 4
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+K1 K1+ 2 i 0.32946(13) 0.67591(12) 0.45206(7) 0.02778(15) 1
+Ca1 Ca2+ 2 i 0.77405(8) 0.03156(8) 0.11269(5) 0.00893(10) 1
+Ca2 Ca2+ 2 i 0.25927(8) 0.51582(7) 0.07368(5) 0.00816(10) 1
+U1 U6+ 1 b 0. 0. 0.5 0.00632(4) 1
+Si1 Si4+ 2 i 0.32701(11) 0.08504(10) 0.21332(7) 0.00680(13) 1
+Si2 Si4+ 2 i 0.75466(11) 0.52211(10) 0.23564(7) 0.00643(13) 1
+O1 O2- 2 i 0.3741(3) -0.1041(3) 0.1147(2) 0.0157(4) 1
+O2 O2- 2 i 0.1626(3) 0.1565(3) 0.12207(19) 0.0111(4) 1
+O3 O2- 2 i 0.2585(3) 0.0246(3) 0.3642(2) 0.0176(4) 1
+O4 O2- 2 i 0.5615(3) 0.2952(3) 0.2593(2) 0.0309(6) 1
+O5 O2- 2 i 0.9192(3) 0.4487(3) 0.1473(2) 0.0189(4) 1
+O6 O2- 2 i 0.8532(4) 0.6513(3) 0.3946(2) 0.0197(4) 1
+O7 O2- 2 i 0.6470(3) 0.6441(3) 0.13973(18) 0.0100(4) 1
+O8 O2- 2 i 0.1580(3) -0.0733(3) 0.63222(19) 0.0131(4) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 K1+ 0.0425(4) 0.0324(4) 0.0196(3) 0.0251(3) 0.0068(3) 0.0088(3)
+Ca1 Ca2+ 0.0076(2) 0.0085(2) 0.0102(2) 0.00249(18) -0.00008(18) 0.00265(18)
+Ca2 Ca2+ 0.0080(2) 0.0087(2) 0.0088(2) 0.00407(18) 0.00219(18) 0.00220(18)
+U1 U6+ 0.00715(6) 0.00587(6) 0.00508(6) 0.00202(4) 0.00017(4) 0.00014(4)
+Si1 Si4+ 0.0056(3) 0.0063(3) 0.0084(3) 0.0016(2) 0.0014(2) 0.0027(2)
+Si2 Si4+ 0.0063(3) 0.0053(3) 0.0070(3) 0.0019(2) 0.0003(2) 0.0003(2)
+O1 O2- 0.0190(10) 0.0159(9) 0.0175(10) 0.0131(8) 0.0032(8) 0.0014(8)
+O2 O2- 0.0096(8) 0.0121(8) 0.0144(9) 0.0060(7) 0.0015(7) 0.0058(7)
+O3 O2- 0.0152(9) 0.0300(11) 0.0140(9) 0.0126(8) 0.0079(8) 0.0112(8)
+O4 O2- 0.0180(10) 0.0232(11) 0.0342(13) -0.0125(9) -0.0139(10) 0.0178(10)
+O5 O2- 0.0221(10) 0.0324(11) 0.0144(9) 0.0212(9) 0.0087(8) 0.0095(8)
+O6 O2- 0.0344(12) 0.0085(8) 0.0105(9) 0.0055(8) -0.0095(9) -0.0022(7)
+O7 O2- 0.0127(9) 0.0093(8) 0.0105(8) 0.0071(7) 0.0005(7) 0.0020(7)
+O8 O2- 0.0163(9) 0.0153(9) 0.0093(8) 0.0092(7) -0.0010(7) 0.0003(7)
+#End of TTdata_251998-ICSD
+#

@@ -1,0 +1,93 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_240966-ICSD
+_database_code_ICSD 240966
+_audit_creation_date 2008-08-01
+_chemical_name_common 'Lithium nickel iron phosphate'
+_chemical_formula_structural 'Li (Ni0.66 Fe0.34) (P O4)'
+_chemical_formula_sum 'Fe0.34 Li1 Ni0.66 O4 P1'
+_chemical_name_structure_type Olivine#Mg2SiO4
+_exptl_crystal_density_diffrn 3.82
+_diffrn_ambient_temperature 150.
+_citation_title 'Li Ni0.66 Fe0.34 P O4'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section E: Structure Reports Online' 2007 63
+i73 i74 ACSEBH
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Liang, G.'
+primary 'Benson, R.E.'
+primary 'Li, J.'
+primary 'Vaknin, D.'
+primary 'Daniels, L.M.'
+_cell_length_a 10.0871(16)
+_cell_length_b 5.8845(10)
+_cell_length_c 4.6820(8)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 277.91
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Ni2+ 2
+Fe2+ 2
+P5+ 5
+O2- -2
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Ni1 Ni2+ 4 c 0.27649(4) 0.25 -0.01877(8) 0.0034(2) 0.66
+Fe1 Fe2+ 4 c 0.27649(4) 0.25 -0.01877(8) 0.0034(2) 0.34
+P1 P5+ 4 c 0.09411(8) 0.25 0.41781(17) 0.0041(2) 1
+O1 O2- 4 c 0.0988(2) 0.25 0.7429(5) 0.0058(5) 1
+O2 O2- 4 c 0.4521(2) 0.25 0.2019(5) 0.0051(5) 1
+O3 O2- 8 d 0.16550(14) 0.0433(3) 0.2782(3) 0.0058(4) 1
+Li1 Li1+ 4 a 0. 0. 0. 0.0050(11) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 Ni2+ 0.0031(3) 0.0022(3) 0.0048(3) 0. -0.00022(14) 0.
+Fe1 Fe2+ 0.0031(3) 0.0022(3) 0.0048(3) 0. -0.00022(14) 0.
+P1 P5+ 0.0040(4) 0.0033(4) 0.0049(4) 0. 0.0003(3) 0.
+O1 O2- 0.0061(11) 0.0050(10) 0.0063(11) 0. -0.0006(9) 0.
+O2 O2- 0.0043(11) 0.0043(10) 0.0067(11) 0. 0.0005(9) 0.
+O3 O2- 0.0070(8) 0.0044(7) 0.0060(7) 0.0007(6) 0.0014(6) 0.0001(5)
+Li1 Li1+ 0.006(3) 0.005(2) 0.004(3) -0.004(2) -0.0009(18) -0.0013(18)
+#End of TTdata_240966-ICSD
+#

@@ -1,0 +1,111 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_157652-ICSD
+_database_code_ICSD 157652
+_audit_creation_date 2008-02-01
+_chemical_name_common
+'Lithium nickel manganese aluminium oxide (1/0.45/0.45/0.1/2)'
+_chemical_formula_structural 'Li Ni0.45 Mn0.45 Al0.1 O2'
+_chemical_formula_sum 'Al0.1 Li1 Mn0.45 Ni0.45 O2'
+_chemical_name_structure_type α−NaFeO2
+_exptl_crystal_density_diffrn 4.5
+_diffrn_ambient_temperature 293.
+_citation_title
+
+;
+Investigation on lithium de-intercalation mechanism for Li Ni0.45 Mn0.45 Al0.1
+O2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Solid State Ionics' 2007 178 1101 1105 SSIOD3
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Kobayashi, H.'
+primary 'Arachi, Y.'
+primary 'Emura, S.'
+primary 'Tatsumi, K.'
+_cell_length_a 2.88072(1)
+_cell_length_b 2.88072(1)
+_cell_length_c 14.30498(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 120.
+_cell_volume 102.81
+_cell_formula_units_Z 3
+_space_group_name_H-M_alt 'R -3 m H'
+_space_group_IT_number 166
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x-y, -y, -z'
+2 '-x, -x+y, -z'
+3 'y, x, -z'
+4 'x-y, x, -z'
+5 'y, -x+y, -z'
+6 '-x, -y, -z'
+7 '-x+y, y, z'
+8 'x, x-y, z'
+9 '-y, -x, z'
+10 '-x+y, -x, z'
+11 '-y, x-y, z'
+12 'x, y, z'
+13 'x-y+2/3, -y+1/3, -z+1/3'
+14 '-x+2/3, -x+y+1/3, -z+1/3'
+15 'y+2/3, x+1/3, -z+1/3'
+16 'x-y+2/3, x+1/3, -z+1/3'
+17 'y+2/3, -x+y+1/3, -z+1/3'
+18 '-x+2/3, -y+1/3, -z+1/3'
+19 '-x+y+2/3, y+1/3, z+1/3'
+20 'x+2/3, x-y+1/3, z+1/3'
+21 '-y+2/3, -x+1/3, z+1/3'
+22 '-x+y+2/3, -x+1/3, z+1/3'
+23 '-y+2/3, x-y+1/3, z+1/3'
+24 'x+2/3, y+1/3, z+1/3'
+25 'x-y+1/3, -y+2/3, -z+2/3'
+26 '-x+1/3, -x+y+2/3, -z+2/3'
+27 'y+1/3, x+2/3, -z+2/3'
+28 'x-y+1/3, x+2/3, -z+2/3'
+29 'y+1/3, -x+y+2/3, -z+2/3'
+30 '-x+1/3, -y+2/3, -z+2/3'
+31 '-x+y+1/3, y+2/3, z+2/3'
+32 'x+1/3, x-y+2/3, z+2/3'
+33 '-y+1/3, -x+2/3, z+2/3'
+34 '-x+y+1/3, -x+2/3, z+2/3'
+35 '-y+1/3, x-y+2/3, z+2/3'
+36 'x+1/3, y+2/3, z+2/3'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Ni2+ 2
+Li1+ 1
+Ni2+ 2
+Mn4+ 4
+Al3+ 3
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 3 a 0 0 0 0.41(3) 0.9209
+Ni1 Ni2+ 3 a 0 0 0 0.41(3) 0.0791
+Li2 Li1+ 3 b 0 0 0.5 0.316(5) 0.0791
+Ni2 Ni2+ 3 b 0 0 0.5 0.316(5) 0.3709(5)
+Mn1 Mn4+ 3 b 0 0 0.5 0.316(5) 0.45
+Al1 Al3+ 3 b 0 0 0.5 0.316(5) 0.1
+O1 O2- 6 c 0 0 0.24141(5) 0.747(13) 1.
+#End of TTdata_157652-ICSD
+#

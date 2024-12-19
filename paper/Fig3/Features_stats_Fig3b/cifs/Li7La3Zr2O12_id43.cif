@@ -1,0 +1,173 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_239128-ICSD
+_database_code_ICSD 239128
+_audit_creation_date 2016-08-01
+_chemical_name_common
+'Lanthanum lithium zirconium molybdenum oxide (3/5.84/1.74/0.26/12)'
+_chemical_formula_structural 'La3 Li5.84 (Zr1.74 Mo0.26) O12'
+_chemical_formula_sum 'La3 Li5.84 Mo0.26 O12 Zr1.74'
+_chemical_name_structure_type Garnet#Li5+xLa3Nb2O12
+_exptl_crystal_density_diffrn 5.09
+_citation_title
+
+;
+Synthesis, crystal chemistry, and electrochemical properties of Li7-2x La3
+Zr2-x Mox O12 (x = 0.1-0.4): stabilization of the cubic garnet polymorph via
+substitution of Zr4+ by Mo6+
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2015 54 10440 10449 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Rettenwander, Daniel'
+primary 'Welzl, Andreas'
+primary 'Cheng, Lei'
+primary 'Fleig, Juergen'
+primary 'Musso, Maurizio'
+primary 'Suard, Emmanuelle'
+primary 'Doeff, Marca M.'
+primary 'Redhammer, Guenther J.'
+primary 'Amthauer, Georg'
+_cell_length_a 12.9556(2)
+_cell_length_b 12.9556(2)
+_cell_length_c 12.9556(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 2174.57
+_cell_formula_units_Z 8
+_space_group_name_H-M_alt 'I a -3 d'
+_space_group_IT_number 230
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-z+3/4, y+1/4, x+3/4'
+2 'z+3/4, -y+3/4, x+1/4'
+3 'z+1/4, y+3/4, -x+3/4'
+4 '-z+1/4, -y+1/4, -x+1/4'
+5 'y+1/4, x+3/4, -z+3/4'
+6 '-y+3/4, x+1/4, z+3/4'
+7 'y+3/4, -x+3/4, z+1/4'
+8 '-y+1/4, -x+1/4, -z+1/4'
+9 'x+3/4, -z+3/4, y+1/4'
+10 'x+1/4, z+3/4, -y+3/4'
+11 '-x+3/4, z+1/4, y+3/4'
+12 '-x+1/4, -z+1/4, -y+1/4'
+13 'z+3/4, -y+1/4, -x+3/4'
+14 '-z+3/4, y+3/4, -x+1/4'
+15 '-z+1/4, -y+3/4, x+3/4'
+16 'z+1/4, y+1/4, x+1/4'
+17 '-y+1/4, -x+3/4, z+3/4'
+18 'y+3/4, -x+1/4, -z+3/4'
+19 '-y+3/4, x+3/4, -z+1/4'
+20 'y+1/4, x+1/4, z+1/4'
+21 '-x+3/4, z+3/4, -y+1/4'
+22 '-x+1/4, -z+3/4, y+3/4'
+23 'x+3/4, -z+1/4, -y+3/4'
+24 'x+1/4, z+1/4, y+1/4'
+25 '-z+1/2, x+1/2, y'
+26 'z+1/2, x, -y+1/2'
+27 'z, -x+1/2, y+1/2'
+28 '-z, -x, -y'
+29 'y, -z+1/2, x+1/2'
+30 '-y+1/2, z+1/2, x'
+31 'y+1/2, z, -x+1/2'
+32 '-y, -z, -x'
+33 'x+1/2, y, -z+1/2'
+34 'x, -y+1/2, z+1/2'
+35 '-x+1/2, y+1/2, z'
+36 '-x, -y, -z'
+37 'z+1/2, -x+1/2, -y'
+38 '-z+1/2, -x, y+1/2'
+39 '-z, x+1/2, -y+1/2'
+40 'z, x, y'
+41 '-y, z+1/2, -x+1/2'
+42 'y+1/2, -z+1/2, -x'
+43 '-y+1/2, -z, x+1/2'
+44 'y, z, x'
+45 '-x+1/2, -y, z+1/2'
+46 '-x, y+1/2, -z+1/2'
+47 'x+1/2, -y+1/2, -z'
+48 'x, y, z'
+49 '-z+1/4, y+3/4, x+1/4'
+50 'z+1/4, -y+1/4, x+3/4'
+51 'z+3/4, y+1/4, -x+1/4'
+52 '-z+3/4, -y+3/4, -x+3/4'
+53 'y+3/4, x+1/4, -z+1/4'
+54 '-y+1/4, x+3/4, z+1/4'
+55 'y+1/4, -x+1/4, z+3/4'
+56 '-y+3/4, -x+3/4, -z+3/4'
+57 'x+1/4, -z+1/4, y+3/4'
+58 'x+3/4, z+1/4, -y+1/4'
+59 '-x+1/4, z+3/4, y+1/4'
+60 '-x+3/4, -z+3/4, -y+3/4'
+61 'z+1/4, -y+3/4, -x+1/4'
+62 '-z+1/4, y+1/4, -x+3/4'
+63 '-z+3/4, -y+1/4, x+1/4'
+64 'z+3/4, y+3/4, x+3/4'
+65 '-y+3/4, -x+1/4, z+1/4'
+66 'y+1/4, -x+3/4, -z+1/4'
+67 '-y+1/4, x+1/4, -z+3/4'
+68 'y+3/4, x+3/4, z+3/4'
+69 '-x+1/4, z+1/4, -y+3/4'
+70 '-x+3/4, -z+1/4, y+1/4'
+71 'x+1/4, -z+3/4, -y+1/4'
+72 'x+3/4, z+3/4, y+3/4'
+73 '-z, x, y+1/2'
+74 'z, x+1/2, -y'
+75 'z+1/2, -x, y'
+76 '-z+1/2, -x+1/2, -y+1/2'
+77 'y+1/2, -z, x'
+78 '-y, z, x+1/2'
+79 'y, z+1/2, -x'
+80 '-y+1/2, -z+1/2, -x+1/2'
+81 'x, y+1/2, -z'
+82 'x+1/2, -y, z'
+83 '-x, y, z+1/2'
+84 '-x+1/2, -y+1/2, -z+1/2'
+85 'z, -x, -y+1/2'
+86 '-z, -x+1/2, y'
+87 '-z+1/2, x, -y'
+88 'z+1/2, x+1/2, y+1/2'
+89 '-y+1/2, z, -x'
+90 'y, -z, -x+1/2'
+91 '-y, -z+1/2, x'
+92 'y+1/2, z+1/2, x+1/2'
+93 '-x, -y+1/2, z'
+94 '-x+1/2, y, -z'
+95 'x, -y, -z+1/2'
+96 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+La3+ 3
+Zr4+ 4.38
+Mo6+ 6
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 24 d 0 0.75 0.625 3.0(5) 0.50(2)
+Li2 Li1+ 96 h 0.0996(1) 0.6829(1) 0.5834(1) 4.2(5) 0.362(1)
+La1 La3+ 24 c 0 0.25 0.125 1.54(5) 1.
+Zr1 Zr4+ 16 a 0 0 0 1.71(5) 0.87138
+Mo1 Mo6+ 16 a 0 0 0 1.71(5) 0.12864
+O1 O2- 96 h -0.03125(1) 0.05443(1) 0.1489(1) 2.18(9) 1.
+#End of TTdata_239128-ICSD
+#

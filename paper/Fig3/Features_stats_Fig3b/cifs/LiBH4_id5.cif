@@ -1,0 +1,112 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237571-ICSD
+_database_code_ICSD 237571
+_audit_creation_date 2015-02-01
+_chemical_name_common 'Lithium manganese zinc borohydride (3/1/5/15)'
+_chemical_formula_structural 'Li3 Mn Zn5 (B H4)15'
+_chemical_formula_sum 'H60 B15 Li3 Mn1 Zn5'
+_exptl_crystal_density_diffrn 1.18
+_diffrn_ambient_temperature 295.
+_citation_title
+
+;
+Trimetallic borohydride Li3 M Zn5 (B H4)15 (M = Mg, Mn) containing two weakly
+interconnected frameworks
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2013 52 9941 9947 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Cerny, Radovan'
+primary 'Schouwink, Pascal'
+primary 'Sadikin, Yolanda'
+primary 'Stare, Katarina'
+primary "Smrcok, L'ubomir"
+primary 'Richter, Bo'
+primary 'Jensen, Torben R.'
+_cell_length_a 15.3906(27)
+_cell_length_b 15.3906(27)
+_cell_length_c 8.5898(18)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1762.07
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 63/m c m'
+_space_group_IT_number 193
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -x+y, -z+1/2'
+2 'x-y, -y, -z+1/2'
+3 'y, x, -z+1/2'
+4 '-x+y, -x, -z+1/2'
+5 '-y, x-y, -z+1/2'
+6 'x, y, -z+1/2'
+7 'x, x-y, z+1/2'
+8 '-x+y, y, z+1/2'
+9 '-y, -x, z+1/2'
+10 'x-y, x, z+1/2'
+11 'y, -x+y, z+1/2'
+12 '-x, -y, z+1/2'
+13 'x, x-y, -z'
+14 '-x+y, y, -z'
+15 '-y, -x, -z'
+16 'x-y, x, -z'
+17 'y, -x+y, -z'
+18 '-x, -y, -z'
+19 '-x, -x+y, z'
+20 'x-y, -y, z'
+21 'y, x, z'
+22 '-x+y, -x, z'
+23 '-y, x-y, z'
+24 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+Li1+ 1
+Mn2+ 2
+Li1+ 1
+B3+ 3
+H1- -1
+B3+ 3
+H1- -1
+B3+ 3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Zn1 Zn2+ 4 c 0.3333333 0.6666667 0.25 3.93(54) 1
+Zn2 Zn2+ 6 g 0.28609(43) 0 0.25 3.93(54) 1
+Li1 Li1+ 6 g 0.60885(65) 0 0.25 0.20(98) 0.66(1)
+Mn1 Mn2+ 6 g 0.60885(65) 0 0.25 0.20(98) 0.34(1)
+Li2 Li1+ 2 b 0 0 0 0.20(98) 1.000(41)
+B1 B3+ 6 g 0.1312562 0 0.25 4.0(11) 1
+H1 H1- 12 k 0.08901241 0 0.3579802 4.0(11) 1
+H2 H1- 12 j 0.1390531 -0.06938794 0.25 4.0(11) 1
+B2 B3+ 12 k 0.3320008 0 0.001795784 4.0(11) 1
+H3 H1- 12 k 0.295792 0 -0.1130071 4.0(11) 1
+H4 H1- 12 k 0.4044797 0 -0.02110249 4.0(11) 1
+H5 H1- 24 l 0.2791717 -0.06938794 0.07064635 4.0(11) 1
+B3 B3+ 12 j 0.5252469 0.3437408 0.25 4.0(11) 1
+H6 H1- 12 j 0.4432175 0.2834932 0.25 4.0(11) 1
+H7 H1- 12 j 0.5316519 0.420331 0.25 4.0(11) 1
+H8 H1- 24 l 0.5630595 0.3355695 0.1423324 4.0(11) 1
+#End of TTdata_237571-ICSD
+#

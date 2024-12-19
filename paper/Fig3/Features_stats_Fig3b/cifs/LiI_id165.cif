@@ -1,0 +1,85 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_759788-ICSD
+_database_code_ICSD 759788
+_audit_creation_date 2020-02-01
+_chemical_name_common 'Lithium chloride dihydrate'
+_chemical_formula_structural 'Li Cl (H2 O)2'
+_chemical_formula_sum 'H4 Cl1 Li1 O2'
+_chemical_name_structure_type NaCl(H2O)2
+_exptl_crystal_density_diffrn 1.65
+_diffrn_ambient_temperature 200.
+_citation_title
+'Higher hydrates of lithium chloride, lithium bromide and lithium iodide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Structural Chemistry' 2018 74 194
+202 ACSCGG
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Sohr, Julia'
+primary 'Schmidt, Horst'
+primary 'Voigt, Wolfgang'
+_cell_length_a 6.0838(8)
+_cell_length_b 9.3592(13)
+_cell_length_c 6.0632(9)
+_cell_angle_alpha 90
+_cell_angle_beta 113.543(3)
+_cell_angle_gamma 90
+_cell_volume 316.49
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P 1 21/c 1'
+_space_group_IT_number 14
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y+1/2, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y+1/2, -z+1/2'
+4 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+Cl1- -1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 4 e 1.0106(2) 0.66255(15) 0.4573(2) 0.0174(3) 1
+Cl1 Cl1- 4 e 1.28796(3) 0.62688(2) 0.21793(3) 0.01219(8) 1
+O1 O2- 4 e 0.78908(10) 0.48924(6) 0.29212(10) 0.01243(13) 1
+O2 O2- 4 e 0.81043(10) 0.80558(6) 0.18884(10) 0.01305(12) 1
+H1 H1+ 4 e 0.7742(19) 0.4627(14) 0.166(2) 0.029(3) 1
+H2 H1+ 4 e 0.662(2) 0.5112(14) 0.285(2) 0.032(3) 1
+H3 H1+ 4 e 0.7986(19) 0.8841(13) 0.2306(19) 0.022(3) 1
+H4 H1+ 4 e 0.683(2) 0.7842(14) 0.111(3) 0.040(4) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Li1 Li1+ 0.0192(6) 0.0153(6) 0.0172(6) -0.0003(5) 0.0066(5) 0.0018(5)
+Cl1 Cl1- 0.01299(11) 0.01208(12) 0.01222(11) 0.00179(5) 0.00579(7) 0.00058(5)
+O1 O2- 0.0121(3) 0.0140(3) 0.0119(3) 0.00082(19) 0.00547(19) -0.0019(2)
+O2 O2- 0.0124(2) 0.0104(3) 0.0150(3) 0.00003(19) 0.0040(2) -0.0009(2)
+#End of TTdata_759788-ICSD
+#

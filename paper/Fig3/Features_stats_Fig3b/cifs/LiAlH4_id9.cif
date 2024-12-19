@@ -1,0 +1,88 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_262931-ICSD
+_database_code_ICSD 262931
+_audit_creation_date 2012-08-01
+_audit_update_record 2016-02-01
+_chemical_name_common 'Octahydrotetrachloro pentasilane'
+_chemical_formula_structural 'Cl4 H8 Si5'
+_chemical_formula_sum 'H8 Cl4 Si5'
+_exptl_crystal_density_diffrn 1.63
+_diffrn_ambient_temperature 150.
+_citation_title
+'Partial halogenation of cyclic and branched perhydropentasilanes'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2012 51 6173 6179 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Stueger, H.'
+primary 'Mitterfellner, T.'
+primary 'Fischer, R.'
+primary 'Walkner, C.'
+primary 'Patz, M.'
+primary 'Wieber, S.'
+_cell_length_a 9.182(3)
+_cell_length_b 9.182(3)
+_cell_length_c 7.035(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 593.11
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'I -4'
+_space_group_IT_number 82
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y, x, -z'
+2 'y, -x, -z'
+3 '-x, -y, z'
+4 'x, y, z'
+5 '-y+1/2, x+1/2, -z+1/2'
+6 'y+1/2, -x+1/2, -z+1/2'
+7 '-x+1/2, -y+1/2, z+1/2'
+8 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Si0+ 0
+Si3- -3
+Cl1- -1
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Si1 Si0+ 2 d 1. 0.5 0.75 0.01431(14) 1
+Si2 Si3- 8 g 0.80855(4) 0.56936(4) 0.95119(5) 0.01828(10) 1
+Cl1 Cl1- 8 g 0.81152(3) 0.79406(4) 0.98122(5) 0.02445(10) 1
+H1 H1- 8 g 0.672(2) 0.528(2) 0.878(3) 0.044(5) 1
+H2 H1- 8 g 0.823(2) 0.514(2) 1.132(4) 0.052(7) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 Si0+ 0.0132(2) 0.0132(2) 0.0165(3) 0. 0. 0.
+Si2 Si3- 0.01821(19) 0.01689(19) 0.0197(2) 0.00108(14) 0.00385(13) -0.00050(14)
+Cl1 Cl1- 0.02727(19) 0.01757(17) 0.02850(19) 0.00299(12) 0.00327(13)
+-0.00358(11)
+#End of TTdata_262931-ICSD
+#

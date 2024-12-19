@@ -1,0 +1,83 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_759789-ICSD
+_database_code_ICSD 759789
+_audit_creation_date 2020-02-01
+_chemical_name_common 'Lithium bromide dihydrate'
+_chemical_formula_structural 'Li Br (H2 O)2'
+_chemical_formula_sum 'H4 Br1 Li1 O2'
+_chemical_name_structure_type NaI(H2O)2
+_exptl_crystal_density_diffrn 2.31
+_diffrn_ambient_temperature 200.
+_citation_title
+'Higher hydrates of lithium chloride, lithium bromide and lithium iodide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Structural Chemistry' 2018 74 194
+202 ACSCGG
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Sohr, Julia'
+primary 'Schmidt, Horst'
+primary 'Voigt, Wolfgang'
+_cell_length_a 5.3001(11)
+_cell_length_b 6.3970(19)
+_cell_length_c 6.4060(15)
+_cell_angle_alpha 63.694(10)
+_cell_angle_beta 82.044(7)
+_cell_angle_gamma 65.567(5)
+_cell_volume 176.99
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P -1'
+_space_group_IT_number 2
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, -y, -z'
+2 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Br1- -1
+Li1+ 1
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Br1 Br1- 2 i 0.25544(11) 0.12204(10) 0.23322(10) 0.0076(3) 1
+Li1 Li1+ 2 i 0.309(2) 0.378(2) 0.483(2) 0.014(2) 1
+O1 O2- 2 i -0.0142(9) 0.7182(8) 0.2951(8) 0.0089(8) 1
+O2 O2- 2 i 0.6131(9) 0.4807(9) 0.2914(8) 0.0105(9) 1
+H1 H1+ 2 i -0.02(2) 0.840(11) 0.312(14) 0.03(3) 1
+H2 H1+ 2 i 0.779(7) 0.388(15) 0.300(15) 0.03(3) 1
+H3 H1+ 2 i 0.588(19) 0.601(14) 0.162(10) 0.05(3) 1
+H4 H1+ 2 i -0.03(3) 0.770(16) 0.153(5) 0.04(3) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Br1 Br1- 0.0064(4) 0.0086(4) 0.0070(4) -0.0021(2) 0.0014(2) -0.0037(2)
+Li1 Li1+ 0.010(5) 0.016(5) 0.015(5) -0.004(4) 0.002(4) -0.006(4)
+O1 O2- 0.008(2) 0.0087(19) 0.010(2) -0.0032(16) 0.0018(16) -0.0043(16)
+O2 O2- 0.006(2) 0.012(2) 0.011(2) -0.0004(16) 0.0029(16) -0.0050(18)
+#End of TTdata_759789-ICSD
+#

@@ -1,0 +1,106 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_281047-ICSD
+_database_code_ICSD 281047
+_audit_creation_date 2003-04-01
+_chemical_name_common 'Dirubidium oxovanado(IV)tetrasilicate 0.12-hydrate'
+_chemical_formula_structural 'Rb2 ((V O) (Si4 O10)) (H2 O)0.12'
+_chemical_formula_sum 'H0.24 O11.12 Rb2 Si4 V1'
+_exptl_crystal_density_diffrn 2.92
+_diffrn_ambient_temperature 295.
+_citation_title
+
+;
+High-temperature, high-pressure hydrothermal synthesis, crystal structure and
+solid state NMR spectroscopy of a new vanadium(IV) silicate: Rb2 (V O) (Si4
+O10) * x(H2 O)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2002 41 4206 4210 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Li, C.-Y.'
+primary 'Hsieh, C.-Y.'
+primary 'Lin, H.-M.'
+primary 'Kao, H.-M.'
+primary 'Lii, K.-H.'
+_cell_length_a 12.2225(7)
+_cell_length_b 12.2225(7)
+_cell_length_c 7.7948(6)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1164.46
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'I 41 m d'
+_space_group_IT_number 109
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y, -x+1/2, z+1/4'
+2 '-y, x+1/2, z+1/4'
+3 'x, -y, z'
+4 '-x, y, z'
+5 '-y, -x+1/2, z+1/4'
+6 'y, x+1/2, z+1/4'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'y+1/2, -x, z+3/4'
+10 '-y+1/2, x, z+3/4'
+11 'x+1/2, -y+1/2, z+1/2'
+12 '-x+1/2, y+1/2, z+1/2'
+13 '-y+1/2, -x, z+3/4'
+14 'y+1/2, x, z+3/4'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Rb1+ 1
+V4+ 4
+Si4+ 4
+O2- -2
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Rb1 Rb1+ 8 b 0 0.21221(5) 0.05787(7) 0.0283(2) 1.
+V1 V4+ 4 a 0 0 -.29715(18) 0.0119(3) 1.
+Si1 Si4+ 16 c 0.29137(8) 0.11965(8) 0.26536(13) 0.0107(3) 1.
+O1 O2- 8 b 0.2515(4) 0 0.1978(6) 0.0182(8) 1.
+O2 O2- 16 c 0.1841(3) 0.1812(3) 0.3393(5) 0.0261(7) 1.
+O3 O2- 16 c 0.3897(3) 0.1120(3) 0.3967(5) 0.0249(8) 1.
+O4 O2- 4 a 0 0 -.0914(10) 0.0292(15) 1.
+O5 O2- 4 a 0 0 0.336(13) 0.05 0.12(2)
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 Rb1+ 0.0454(4) 0.0189(3) 0.0206(4) 0 0 0.0035(2)
+V1 V4+ 0.0151(6) 0.0101(6) 0.0104(7) 0 0 0
+Si1 Si4+ 0.0122(4) 0.0103(5) 0.0096(6) 0.0009(3) 0.0011(4) -0.0005(3)
+O1 O2- 0.023(2) 0.0118(18) 0.019(2) 0 -0.0124(18) 0
+O2 O2- 0.0248(15) 0.0318(17) 0.0218(19) 0.0104(13) 0.0056(13) -0.0078(14)
+O3 O2- 0.0253(15) 0.0169(14) 0.033(2) 0.0049(11) -0.0135(14) -0.0091(12)
+O4 O2- 0.049(5) 0.026(3) 0.013(3) 0 0 0
+#End of TTdata_281047-ICSD
+#

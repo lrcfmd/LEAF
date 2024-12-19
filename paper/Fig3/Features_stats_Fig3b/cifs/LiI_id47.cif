@@ -1,0 +1,90 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_237052-ICSD
+_database_code_ICSD 237052
+_audit_creation_date 2015-02-01
+_chemical_name_common 'Vanadium tungsten(V) oxide phosphate(V) (0.74/0.26/1/1)'
+_chemical_formula_structural '(V0.74 W0.26) O P O4'
+_chemical_formula_sum 'O5 P1 V0.74 W0.26'
+_chemical_name_structure_type MoO(PO4)
+_exptl_crystal_density_diffrn 4.08
+_diffrn_ambient_temperature 293.
+_citation_title
+'Solid solution formation between vanadium(V) and tungsten(V) oxide phosphate'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2014
+640 1876 1885 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Roy, Subrata Chandra'
+primary 'Glaum, Robert'
+primary 'Abdullin, Dinar'
+primary 'Schiemann, Olav'
+primary 'Quang Bac, Nguyen'
+primary 'Lii, Kwang-Hwa'
+_cell_length_a 6.0978(2)
+_cell_length_b 6.0978(2)
+_cell_length_c 4.2994(1)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 159.87
+_cell_formula_units_Z 2
+_space_group_name_H-M_alt 'P 4/n Z'
+_space_group_IT_number 85
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y, x+1/2, -z'
+2 'y+1/2, -x, -z'
+3 'x+1/2, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y, -x+1/2, z'
+6 '-y+1/2, x, z'
+7 '-x+1/2, -y+1/2, z'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+V5+ 5
+W5+ 5
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+V1 V5+ 2 c 0.25 0.25 0.2232(1) 0.0123(2) 0.737(6)
+W1 W5+ 2 c 0.25 0.25 0.2232(1) 0.0123(2) 0.263(6)
+P1 P5+ 2 b 0.25 -0.25 0.5 0.0105(4) 1
+O1 O2- 8 g 0.2979(4) -0.0508(4) 0.2931(7) 0.0119(6) 1
+O2 O2- 2 c 0.25 0.25 -0.1658(14) 0.0168(9) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V1 V5+ 0.0075(2) 0.0075(2) 0.0222(4) 0 0 0
+W1 W5+ 0.0075(2) 0.0075(2) 0.0222(4) 0 0 0
+P1 P5+ 0.0077(5) 0.0077(5) 0.0171(8) 0 0 0
+O1 O2- 0.0114(14) 0.0071(11) 0.0176(12) 0.0006(8) 0.0007(8) 0.0023(9)
+O2 O2- 0.0132(13) 0.0132(13) 0.0271(27) 0 0 0
+#End of TTdata_237052-ICSD
+#

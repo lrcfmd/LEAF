@@ -1,0 +1,97 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_11234-ICSD
+_database_code_ICSD 11234
+_audit_creation_date 2020-08-01
+_chemical_name_common 'Tetralithium octafluoroplutonate'
+_chemical_formula_structural 'Li4 Pu F8'
+_chemical_formula_sum 'F8 Li4 Pu1'
+_chemical_name_structure_type Li4UF8
+_exptl_crystal_density_diffrn 4.86
+_diffrn_ambient_temperature 296.
+_citation_title
+
+;
+Structure, spectroscopy, and theoretical analysis of zero- and
+three-dimensional Lithium plutonium fluorides: \(Li_4 PuF_8\) and \(LiPuF_5\)
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Inorganic Chemistry' 2019 58 14790 14799 INOCAJ
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Chemey, Alexander T.'
+primary 'Celis-Barros, Cristian'
+primary 'Sperling, Joseph M.'
+primary 'Páez-Hernández, Dayán'
+primary 'Albrecht-Schmitt, Thomas E.'
+_cell_length_a 9.9315(6)
+_cell_length_b 9.7995(6)
+_cell_length_c 5.9467(3)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 578.75
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Pu4+ 4
+F1- -1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Pu1 Pu4+ 4 c 0.14049(4) 0.75 0.13384(6) 0.00696(15) 1
+F1 F1- 8 d 0.0244(5) 0.6184(5) -0.1072(8) 0.0135(9) 1
+F2 F1- 4 c 0.3055(8) 0.75 0.3847(11) 0.0164(14) 1
+F3 F1- 4 c 0.2923(8) 0.75 -0.1371(11) 0.0169(14) 1
+F4 F1- 8 d 0.0303(6) 0.6122(5) 0.3694(8) 0.0187(11) 1
+F5 F1- 8 d 0.2410(6) 0.5325(5) 0.1251(8) 0.0194(11) 1
+Li1 Li1+ 8 d 0.162(4) 0.367(4) 0.130(5) 0.073(10) 1
+Li2 Li1+ 8 d 0.099(4) 0.525(4) -0.356(6) 0.081(10) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pu1 Pu4+ 0.0075(2) 0.0067(2) 0.0067(2) 0. -0.00024(13) 0.
+F1 F1- 0.015(2) 0.012(2) 0.014(2) 0.0025(18) -0.0035(18) -0.0034(18)
+F2 F1- 0.018(3) 0.016(3) 0.015(3) 0. -0.010(3) 0.
+F3 F1- 0.020(3) 0.014(3) 0.017(3) 0. 0.007(3) 0.
+F4 F1- 0.027(3) 0.013(2) 0.017(2) -0.002(2) 0.010(2) 0.0027(18)
+F5 F1- 0.029(3) 0.013(2) 0.017(3) 0.008(2) -0.002(2) 0.0006(19)
+Li1 Li1+ 0.09(2) 0.058(19) 0.07(2) -0.002(17) 0.034(16) 0.015(14)
+Li2 Li1+ 0.07(2) 0.07(2) 0.10(3) 0.002(18) -0.041(18) 0.001(18)
+#End of TTdata_11234-ICSD
+#

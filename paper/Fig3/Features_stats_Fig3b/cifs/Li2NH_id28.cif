@@ -1,0 +1,95 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_259199-ICSD
+_database_code_ICSD 259199
+_audit_creation_date 2018-08-01
+_chemical_name_common 'Lithium boron nitride hydride'
+_chemical_formula_structural 'Li5 (B H4)3 (N H)'
+_chemical_formula_sum 'H13 B3 Li5 N1'
+_exptl_crystal_density_diffrn 0.76
+_diffrn_ambient_temperature 350.
+_citation_title 'Li5(BH4)3NH: Lithium-rich mixed anion complex hydride'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Physical Chemistry C' 2017 121 11069 11075 JPCCCK
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Wolczyk, Anna'
+primary 'Paik, Biswajit'
+primary 'Sato, Toyoto'
+primary 'Nervi, Carlo'
+primary 'Brighi, Matteo'
+primary 'GharibDoust, SeyedHosein Payandeh'
+primary 'Chierotti, Michele'
+primary 'Matsuo, Motoaki'
+primary 'Li, Guanqiao'
+primary 'Gobetto, Roberto'
+primary 'Jensen, Torben R.'
+primary 'Cerny, Radovan'
+primary 'Orimo, Shin-ichi'
+primary 'Baricco, Marcello'
+_cell_length_a 10.20313
+_cell_length_b 11.5005(2)
+_cell_length_c 7.0474(2)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 826.95
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'P n m a'
+_space_group_IT_number 62
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x+1/2, y, -z+1/2'
+2 'x, -y+1/2, z'
+3 '-x+1/2, y+1/2, z+1/2'
+4 '-x, -y, -z'
+5 '-x+1/2, -y, z+1/2'
+6 '-x, y+1/2, -z'
+7 'x+1/2, -y+1/2, -z+1/2'
+8 'x, y, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Li1+ 1
+H1- -1
+B3+ 3
+H1- -1
+Li1+ 1
+N3- -3
+H1+ 1
+B3+ 3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Li1 Li1+ 8 d -0.46908 0.36846 0.04097 . 1.
+Li2 Li1+ 8 d -0.21298 0.38013 0.90632 . 1.
+H1 H1- 8 d -0.46644 0.83805 0.48674 . 1.
+B1 B3+ 8 d -0.329 0.54171 0.09149 . 1.
+H2 H1- 8 d -0.34564 0.6456 0.12347 . 1.
+H3 H1- 8 d -0.21153 0.52165 0.08404 . 1.
+H4 H1- 8 d -0.37885 0.51891 0.9377 . 1.
+H5 H1- 8 d -0.37998 0.48444 0.2186 . 1.
+Li3 Li1+ 4 c -0.37639 0.25 0.68062 . 1.
+N1 N3- 4 c -0.34453 0.25 0.93946 . 1.
+H6 H1+ 4 c -0.30733 0.25 0.07632 . 1.
+B2 B3+ 4 c -0.49314 0.75 0.57857 . 1.
+H7 H1- 4 c 0.38782 0.75 0.60278 . 1.
+H8 H1- 4 c -0.43498 0.75 0.73059 . 1.
+#End of TTdata_259199-ICSD
+#

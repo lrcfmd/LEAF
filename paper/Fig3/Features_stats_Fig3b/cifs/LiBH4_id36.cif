@@ -1,0 +1,116 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_238330-ICSD
+_database_code_ICSD 238330
+_audit_creation_date 2015-08-01
+_chemical_name_common 'Bis(bis(tetrahydridoborate) aluminium diethylamide)'
+_chemical_formula_structural '((B H4)2 Al N (C2 H5)2)2'
+_chemical_formula_sum 'C8 H36 Al2 B4 N2'
+_exptl_crystal_density_diffrn 0.94
+_diffrn_ambient_temperature 132.
+_citation_title
+
+;
+New molecular aluminum chloride amides [Cl2 Al N Et2]2 and [H Cl Al N Et2]2
+and their boranate analogues [(B H4)2 Al N Et2]2 and [H (B H4) Al N Et2]2
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie' 2015 641 394 399
+ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Walgenbach, Andreas'
+primary 'Veith, Michael'
+primary 'Huch, Volker'
+primary 'Kohlmann, Holger'
+_cell_length_a 8.7545(5)
+_cell_length_b 13.0364(7)
+_cell_length_c 15.9026(9)
+_cell_angle_alpha 90.
+_cell_angle_beta 93.884(3)
+_cell_angle_gamma 90.
+_cell_volume 1810.75
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C 1 2/c 1'
+_space_group_IT_number 15
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'x, -y, z+1/2'
+2 '-x, -y, -z'
+3 '-x, y, -z+1/2'
+4 'x, y, z'
+5 'x+1/2, -y+1/2, z+1/2'
+6 '-x+1/2, -y+1/2, -z'
+7 '-x+1/2, y+1/2, -z+1/2'
+8 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Al3+ 3
+N3- -3
+C3+ 3
+B3+ 3
+H1- -1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Al1 Al3+ 8 f 0.35880(2) 0.119907(16) 0.702971(13) 0.01759(7) 1
+N1 N3- 8 f 0.57397(7) 0.12429(4) 0.67745(4) 0.01812(12) 1
+C1 C3+ 8 f 0.62409(9) 0.03345(6) 0.62778(5) 0.02424(15) 1
+C2 C3+ 8 f 0.79554(10) 0.02642(9) 0.61949(6) 0.0357(2) 1
+C3 C3+ 8 f 0.61653(10) 0.22339(6) 0.63622(5) 0.02547(15) 1
+C4 C3+ 8 f 0.54888(12) 0.23635(8) 0.54631(5) 0.03273(19) 1
+B1 B3+ 8 f 0.25829(11) -0.01400(8) 0.63446(6) 0.02920(19) 1
+B2 B3+ 8 f 0.18936(12) 0.24380(8) 0.68093(6) 0.0331(2) 1
+H1 H1- 8 f 0.2873(12) 0.0642(9) 0.6048(7) 0.034(3) 1
+H2 H1- 8 f 0.1434(16) -0.0191(10) 0.6386(8) 0.054(4) 1
+H3 H1- 8 f 0.3095(13) -0.0081(9) 0.7002(7) 0.036(3) 1
+H4 H1- 8 f 0.3166(13) -0.0741(10) 0.6029(8) 0.043(3) 1
+H5 H1- 8 f 0.1702(12) 0.1685(9) 0.7123(7) 0.038(3) 1
+H6 H1- 8 f 0.3131(13) 0.2451(8) 0.6737(7) 0.037(3) 1
+H7 H1- 8 f 0.1635(14) 0.3059(10) 0.7240(8) 0.052(4) 1
+H8 H1- 8 f 0.1338(16) 0.2422(10) 0.6230(9) 0.058(4) 1
+H9 H1- 8 f 0.5707(12) 0.0347(8) 0.5726(7) 0.029(3) 1
+H10 H1- 8 f 0.5890(11) -0.0273(8) 0.6535(6) 0.025(2) 1
+H11 H1- 8 f 0.8324(14) 0.0864(10) 0.5888(8) 0.047(3) 1
+H12 H1- 8 f 0.8516(14) 0.0210(10) 0.6754(9) 0.048(3) 1
+H13 H1- 8 f 0.8175(15) -0.0369(10) 0.5888(8) 0.051(4) 1
+H14 H1- 8 f 0.5808(12) 0.2780(8) 0.6705(7) 0.030(3) 1
+H15 H1- 8 f 0.7245(12) 0.2297(8) 0.6385(7) 0.030(3) 1
+H16 H1- 8 f 0.5963(14) 0.1893(10) 0.5088(8) 0.046(3) 1
+H17 H1- 8 f 0.5693(14) 0.3053(10) 0.5277(7) 0.044(3) 1
+H18 H1- 8 f 0.4390(15) 0.2272(9) 0.5415(8) 0.042(3) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 Al3+ 0.02018(11) 0.01692(11) 0.01528(10) 0.00102(7) -0.00176(7) -0.00103(7)
+N1 N3- 0.0227(3) 0.0169(3) 0.0148(2) -0.0028(2) 0.0011(2) 0.00027(19)
+C1 C3+ 0.0259(3) 0.0258(3) 0.0213(3) 0.0009(3) 0.0038(3) -0.0055(3)
+C2 C3+ 0.0285(4) 0.0460(5) 0.0338(4) 0.0031(4) 0.0105(3) -0.0043(4)
+C3 C3+ 0.0331(4) 0.0242(3) 0.0187(3) -0.0088(3) -0.0012(3) 0.0053(3)
+C4 C3+ 0.0441(5) 0.0356(4) 0.0181(3) -0.0082(4) -0.0007(3) 0.0081(3)
+B1 B3+ 0.0260(4) 0.0274(4) 0.0339(5) -0.0075(3) -0.0006(3) -0.0105(4)
+B2 B3+ 0.0377(5) 0.0307(5) 0.0293(4) 0.0154(4) -0.0101(4) 0.0002(4)
+#End of TTdata_238330-ICSD
+#

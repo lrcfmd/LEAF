@@ -1,0 +1,89 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_32843-ICSD
+_database_code_ICSD 32843
+_audit_creation_date 2022-02-01
+_chemical_name_common 'Lithium uranium pentafluoride'
+_chemical_formula_structural 'Li U F5'
+_chemical_formula_sum 'F5 Li1 U1'
+_chemical_name_structure_type LiUF5
+_exptl_crystal_density_diffrn 6.23
+_diffrn_ambient_temperature 300.
+_citation_title
+
+;
+Preparation, thermal stability and crystal structure of Li$_3$UF$_7$. New
+insights into LiF-UF$_4$ binary phase diagram
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Alloys and Compounds' 2021 856 '' '' JALCEU
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Kolay, Siddhartha'
+primary 'Achary, S. Nagabhusan'
+primary 'Shinde, A.B.'
+primary 'Ram Krishna, P. Siva'
+primary 'Basu, Manidipa'
+primary 'Mishra, Ratikant'
+primary 'Tyagi, Avesh K.'
+_cell_length_a 14.8882(8)
+_cell_length_b 14.8882(8)
+_cell_length_c 6.5438(7)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 1450.49
+_cell_formula_units_Z 16
+_space_group_name_H-M_alt 'I 41/a Z'
+_space_group_IT_number 88
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-y+3/4, x+3/4, -z+3/4'
+2 'y+1/4, -x+3/4, -z+3/4'
+3 'x, y+1/2, -z'
+4 '-x, -y, -z'
+5 'y+1/4, -x+1/4, z+1/4'
+6 '-y+3/4, x+1/4, z+1/4'
+7 '-x, -y+1/2, z'
+8 'x, y, z'
+9 '-y+1/4, x+1/4, -z+1/4'
+10 'y+3/4, -x+1/4, -z+1/4'
+11 'x+1/2, y, -z+1/2'
+12 '-x+1/2, -y+1/2, -z+1/2'
+13 'y+3/4, -x+3/4, z+3/4'
+14 '-y+1/4, x+3/4, z+3/4'
+15 '-x+1/2, -y, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+U4+ 4
+F1- -1
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+U1 U4+ 16 f 0.0611(4) 0.0569(4) 0.2477(9) 0.29(3) 1.
+F1 F1- 16 f 0.3025(6) 0.2191(6) 0.1235(11) 0.29(3) 1.
+F2 F1- 16 f 0.4259(5) 0.0438(7) 0.0050(12) 0.29(3) 1.
+F3 F1- 16 f 0.1063(6) 0.1801(6) 0.0667(11) 0.29(3) 1.
+F4 F1- 16 f 0.2024(6) 0.0939(6) 0.3626(13) 0.29(3) 1.
+F5 F1- 16 f 0.0504(6) 0.1656(5) 0.4747(13) 0.29(3) 1.
+Li1 Li1+ 16 f 0.4128(13) 0.1883(19) 0.0094(47) 0.29(3) 1.
+#End of TTdata_32843-ICSD
+#

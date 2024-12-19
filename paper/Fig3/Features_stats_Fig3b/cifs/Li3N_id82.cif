@@ -1,0 +1,85 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_247256-ICSD
+_database_code_ICSD 247256
+_audit_creation_date 2010-08-01
+_chemical_name_common 'Lithium selenide nitride (8/1/2)'
+_chemical_formula_structural 'Li8 Se N2'
+_chemical_formula_sum 'Li8 N2 Se1'
+_chemical_name_structure_type Li8SeN2
+_exptl_crystal_density_diffrn 2.2
+_diffrn_ambient_temperature 3.
+_citation_title
+'Synthesis, crystal structure and lithium motion of Li8 Se N2 and Li8 Te N2'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Zeitschrift fuer Anorganische und Allgemeine Chemie (1950) (DE)' 2010
+636 936 946 ZAACAB
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Braeunling, D.'
+primary 'Pecher, O.'
+primary 'Trots, D.M.'
+primary 'Senyshyn, A.'
+primary 'Zherebtsov, D.A.'
+primary 'Haarmann, F.'
+primary 'Niewa, R.'
+_cell_length_a 7.024(1)
+_cell_length_b 7.024(1)
+_cell_length_c 9.953(1)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 491.05
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'I 41 m d'
+_space_group_IT_number 109
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y, -x+1/2, z+1/4'
+2 '-y, x+1/2, z+1/4'
+3 'x, -y, z'
+4 '-x, y, z'
+5 '-y, -x+1/2, z+1/4'
+6 'y, x+1/2, z+1/4'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'y+1/2, -x, z+3/4'
+10 '-y+1/2, x, z+3/4'
+11 'x+1/2, -y+1/2, z+1/2'
+12 '-x+1/2, y+1/2, z+1/2'
+13 '-y+1/2, -x, z+3/4'
+14 'y+1/2, x, z+3/4'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Se2- -2
+N3- -3
+Li1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Se1 Se2- 4 a 0 0 0.8981(3) 0.67(4) 1.
+N1 N3- 8 b 0.5 0.2681(2) 0 0.51(2) 1.
+Li1 Li1+ 16 c 0.775(1) 0.182(1) 0.077(1) 1.7(1) 1.
+Li2 Li1+ 8 b 0.5 0.154(1) 0.199(1) 2.5(2) 1.
+Li3 Li1+ 4 a 0.5 0 0.950(2) 2.1(3) 1.
+Li4 Li1+ 4 a 0.5 0 0.398(2) 2.1(3) 1.
+#End of TTdata_247256-ICSD
+#

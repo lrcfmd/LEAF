@@ -1,0 +1,9 @@
+Figure 3a and its inset can be produced by running Figure3a.py and Figure3a_inset.py directly
+
+These scripts run 5-fold CV Random Forest model for compositions features in features/Featurized_compositions_concat_Li_and_cat.pickle
+and compute and plot the feature importance.
+
+To reproduce the random forest results for compositions featurised as in Eq. 3 :
+
+Run:
+   python RF_classify.py features/Featurized_compositions_LEAFsa.pickle

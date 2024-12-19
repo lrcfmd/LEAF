@@ -1,0 +1,99 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_69768-ICSD
+_database_code_ICSD 69768
+_audit_creation_date 1993-01-06
+_chemical_name_common 'Dizinc oxovanadium(IV) bis(phosphate)'
+_chemical_formula_structural 'Zn2 (V O) (P O4)2'
+_chemical_formula_sum 'O9 P2 V1 Zn2'
+_exptl_crystal_density_diffrn 3.58
+_citation_title
+
+;
+Synthesis and crystal structure of Zn2VO(PO4)2, a vanadyl(IV) orthophosphate
+containing a dimer of edge-sharing ZnO5 square pyramids
+;
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Journal of Solid State Chemistry' 1991 90 291 295 JSSCBI
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Lii, K.-H.'
+primary 'Tsai, H.-J.'
+_cell_length_a 8.9227(13)
+_cell_length_b 8.9227(13)
+_cell_length_c 9.039(3)
+_cell_angle_alpha 90.
+_cell_angle_beta 90.
+_cell_angle_gamma 90.
+_cell_volume 719.64
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'I 4 c m'
+_space_group_IT_number 108
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 'y+1/2, x+1/2, z'
+2 '-y+1/2, -x+1/2, z'
+3 'y, -x, z'
+4 '-y, x, z'
+5 'x+1/2, -y+1/2, z'
+6 '-x+1/2, y+1/2, z'
+7 '-x, -y, z'
+8 'x, y, z'
+9 'y, x, z+1/2'
+10 '-y, -x, z+1/2'
+11 'y+1/2, -x+1/2, z+1/2'
+12 '-y+1/2, x+1/2, z+1/2'
+13 'x, -y, z+1/2'
+14 '-x, y, z+1/2'
+15 '-x+1/2, -y+1/2, z+1/2'
+16 'x+1/2, y+1/2, z+1/2'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Zn2+ 2
+V4+ 4
+P5+ 5
+O2- -2
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_B_iso_or_equiv
+_atom_site_occupancy
+Zn1 Zn2+ 8 c 0.61810(9) 0.11810(9) 0.26348 . 1.
+V1 V4+ 4 a 0 0 0.1011(5) . 1.
+P1 P5+ 8 c 0.30665(21) 0.19335(21) 0.1204(4) . 1.
+O1 O2- 16 d 0.8271(6) 0.1355(5) 0.1548(6) . 1.
+O2 O2- 8 c 0.6518(8) 0.1518(8) 0.469(1) . 1.
+O3 O2- 4 a 0 0 0.4275(17) . 1.
+O4 O2- 8 c 0.3960(6) 0.1040(6) 0.2369(10) . 1.
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 Zn2+ 0.0085(4) 0.0085(4) 0.0101(6) -.0025(5) -.0003(4) -.0003(4)
+V1 V4+ 0.0045(9) 0.0045(9) 0.0204(17) 0 0 0
+P1 P5+ 0.0059(8) 0.0059(8) 0.0073(14) 0.0004(9) -.0004(8) -.0004(8)
+O1 O2- 0.0039(23) 0.0042(24) 0.019(3) -.0005(21) 0.0030(25) -.0008(25)
+O2 O2- 0.031(4) 0.031(4) 0.015(6) -.005(4) -.007(3) -.007(3)
+O3 O2- 0.021(5) 0.021(5) 0.024(8) 0 0 0
+O4 O2- 0.0118(24) 0.0118(24) 0.014(6) -.001(3) -.0005(25) -.0005(25)
+#End of TTdata_69768-ICSD
+#

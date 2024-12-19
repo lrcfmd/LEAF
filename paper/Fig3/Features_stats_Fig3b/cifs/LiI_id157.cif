@@ -1,0 +1,96 @@
+(C) 2022 by FIZ Karlsruhe - Leibniz Institute for Information Infrastructure.  All rights reserved.
+data_759792-ICSD
+_database_code_ICSD 759792
+_audit_creation_date 2020-02-01
+_chemical_name_common 'Lithium bromide trihydrate'
+_chemical_formula_structural 'Li Br (H2 O)3'
+_chemical_formula_sum 'H6 Br1 Li1 O3'
+_chemical_name_structure_type LiCl(H2O)3
+_exptl_crystal_density_diffrn 2.04
+_diffrn_ambient_temperature 150.
+_citation_title
+'Higher hydrates of lithium chloride, lithium bromide and lithium iodide'
+loop_
+_citation_id
+_citation_journal_full
+_citation_year
+_citation_journal_volume
+_citation_page_first
+_citation_page_last
+_citation_journal_id_ASTM
+primary 'Acta Crystallographica, Section C: Structural Chemistry' 2018 74 194
+202 ACSCGG
+loop_
+_citation_author_citation_id
+_citation_author_name
+primary 'Sohr, Julia'
+primary 'Schmidt, Horst'
+primary 'Voigt, Wolfgang'
+_cell_length_a 7.2785(17)
+_cell_length_b 11.088(3)
+_cell_length_c 5.687(2)
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 458.96
+_cell_formula_units_Z 4
+_space_group_name_H-M_alt 'C m c m'
+_space_group_IT_number 63
+loop_
+_space_group_symop_id
+_space_group_symop_operation_xyz
+1 '-x, y, -z+1/2'
+2 '-x, -y, z+1/2'
+3 '-x, y, z'
+4 '-x, -y, -z'
+5 'x, -y, z+1/2'
+6 'x, y, -z+1/2'
+7 'x, -y, -z'
+8 'x, y, z'
+9 '-x+1/2, y+1/2, -z+1/2'
+10 '-x+1/2, -y+1/2, z+1/2'
+11 '-x+1/2, y+1/2, z'
+12 '-x+1/2, -y+1/2, -z'
+13 'x+1/2, -y+1/2, z+1/2'
+14 'x+1/2, y+1/2, -z+1/2'
+15 'x+1/2, -y+1/2, -z'
+16 'x+1/2, y+1/2, z'
+loop_
+_atom_type_symbol
+_atom_type_oxidation_number
+Br1- -1
+O2- -2
+Li1+ 1
+H1+ 1
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_Wyckoff_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Br1 Br1- 4 c 0. 0.72768(3) 0.75 0.0175(3) 1
+O1 O2- 8 g 0.1923(3) 0.4535(2) 0.75 0.0160(5) 1
+O2 O2- 4 c 0.5 0.6072(3) 0.75 0.0209(7) 1
+Li1 Li1+ 4 b 0. 0.5 1. 0.0217(16) 1
+H1 H1+ 8 f 0.5 0.648(5) 0.868(7) 0.039(15) 1
+H2 H1+ 8 g 0.236(11) 0.385(3) 0.75 0.07(3) 1
+H3 H1+ 8 g 0.289(4) 0.489(4) 0.75 0.019(12) 1
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_type_symbol
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Br1 Br1- 0.0168(3) 0.0148(4) 0.0210(4) 0. 0. 0.
+O1 O2- 0.0120(10) 0.0182(10) 0.0177(10) 0.0010(9) 0. 0.
+O2 O2- 0.0169(16) 0.0241(16) 0.0218(16) 0. 0. 0.
+Li1 Li1+ 0.015(3) 0.034(4) 0.017(4) 0. 0. -0.005(3)
+#End of TTdata_759792-ICSD
+#
