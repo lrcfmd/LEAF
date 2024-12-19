@@ -11,7 +11,7 @@ long_description = (this_directory / "README.md").read_text()
 
 setup(
     name="LEAFeatures",
-    version="0.1.1",
+    version="0.1.2",
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=find_packages(),
